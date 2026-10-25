@@ -1,56 +1,40 @@
-# 論文新着コレクター 2026-10-22 07:11
+# 論文新着コレクター 2026-10-26 07:04
 
-今回の新着は **122 本** です。
+今回の新着は **23 本** です。
 一覧ページ(絞り込み・検索ができます): https://yyyautor-sketch.github.io/paper-collector/
 
-## 日本の機関・日本語論文 (6)
-- [「金融研究」掲載論文（2026年収録分）](http://www.boj.or.jp/research/imes/mes/mes26.htm)
-- [Self-Judging Security Exceptions in International Investment Agreements: Functions and Limits of Anti-Abuse Clauses](http://www.rieti.go.jp/jp/publications/summary/26100017.html)
-- [Second Thoughts on Bubbles and Global Games](http://www.rieti.go.jp/jp/publications/summary/26100016.html)
-- [企業買収と賃金：『賃金構造基本統計調査』の調査票情報による実証分析](http://www.rieti.go.jp/jp/publications/summary/26100015.html)
-- [The Relationship between Carbon Emissions and Wages: Evidence from Japanese manufacturing installations](http://www.rieti.go.jp/jp/publications/summary/26100014.html)
-- [Overview of the Japanese GX-ETS and Prospects for Phase II](http://www.rieti.go.jp/jp/publications/summary/26100013.html)
+## 日本の機関・日本語論文 (1)
+- [（日銀レビュー）企業の決算説明会テキストを用いた経済政策不確実性の考察](http://www.boj.or.jp/research/wps_rev/rev_2026/rev26j14.htm)
 
-## 計量経済学 (57)
-- [Causal Inference under Dynamic Selection: Time-Varying Covariates and Latent Heterogeneity](https://d.repec.org/n?u=RePEc:arx:papers:2609.17170&r=&r=ecm)
-- [Conditionally linear, matrix normal state space models](https://d.repec.org/n?u=RePEc:arx:papers:2609.18734&r=&r=ecm)
-- [Rate-Agnostic Wald Inference for Dyadic Regressions](https://d.repec.org/n?u=RePEc:arx:papers:2609.16968&r=&r=ecm)
-- [Model-agnostic noise reduction for high-dimensional time series data](https://d.repec.org/n?u=RePEc:arx:papers:2609.27614&r=&r=ecm)
-- [Profiled Anderson--Rubin Test: Robust Inference Allowing for Direct Effects of Instruments](https://d.repec.org/n?u=RePEc:arx:papers:2609.18150&r=&r=ecm)
-- [A penalization approach for estimating inefficiency in stochastic frontier panel models](https://d.repec.org/n?u=RePEc:adl:wpaper:2025-01&r=&r=ecm)
-- [Identification via Distributional Shifts without Exclusion Restrictions](https://d.repec.org/n?u=RePEc:arx:papers:2609.13026&r=&r=ecm)
-- [Identification and Estimation of Optimal Continuous Treatment Effects](https://d.repec.org/n?u=RePEc:arx:papers:2609.19031&r=&r=ecm)
-- [Improved Bootstrap Inference for Dynamic Panel Data models with Interactive Effects](https://d.repec.org/n?u=RePEc:arx:papers:2609.31442&r=&r=ecm)
-- [Aggregating many estimators using estimated weights](https://d.repec.org/n?u=RePEc:arx:papers:2609.19415&r=&r=ecm)
-- [PPML and Heavy-Tailed Trade and Factor Flows: Why Standard Inference Fails and How to Fix It](https://d.repec.org/n?u=RePEc:arx:papers:2609.18750&r=&r=ecm)
-- [A Sharp Signal-to-Noise Threshold for Quasi-Maximum Likelihood Breakpoint Estimation](https://d.repec.org/n?u=RePEc:arx:papers:2609.12271&r=&r=ecm)
-- [Dynamic Spatial Bayesian Machine Learning Model: Applications to Intergenerational Economic Mobility and Geographic Income Inequality in the United States](https://d.repec.org/n?u=RePEc:arx:papers:2610.00072&r=&r=ecm)
-- [Synchronized Time Series Models for National Accounts Data](https://d.repec.org/n?u=RePEc:tin:wpaper:20260073&r=&r=ecm)
-- [Quantifying Dynamic Misspecification Biases in VARs](https://d.repec.org/n?u=RePEc:bge:wpaper:1595&r=&r=ecm)
-- …ほか 42 本は一覧ページで
+## 日本関連の英語論文 (4)
+- [Machine learning and spatial regression approaches to estimating willingness to pay for ecosystem services in Jakarta and Taoyuan](https://d.repec.org/n?u=RePEc:hal:journl:hal-05475310&r=&r=sea)
+- [Emotional and Functional Drivers of Online Repurchase Intention: Evidence from Malaysian Gen Z Consumers](https://d.repec.org/n?u=RePEc:gtr:gatrjs:jmmr370&r=&r=sea)
+- [IFAD Impact Assessment - Cambodia Agricultural Services Programme for Innovation, Resilience and Extension (ASPIRE)](https://d.repec.org/n?u=RePEc:ags:unadia:413152&r=&r=sea)
+- [Role of Consumer Protection (Ecommerce) Rules 2020 on Online Shopping and Consumer Protection: A Case from India](https://d.repec.org/n?u=RePEc:gtr:gatrjs:jmmr367&r=&r=sea)
 
-## 経済・金融WP全般 (56)
-- [Navigating Geoeconomic Risk in the U.S. Stock Market](https://d.repec.org/n?u=RePEc:fip:fednls:103863&r=&r=fmk)
-- [How Do Large, Sophisticated Cryptocurrency Trades Impact Broader DeFi Market Dynamics?](https://d.repec.org/n?u=RePEc:pri:cepsud:358&r=&r=fmk)
-- [Corporate bond multipliers: substitutes matter](https://d.repec.org/n?u=RePEc:ehl:lserod:138916&r=&r=fmk)
-- [Sentiment-based Financial Stress Index for Hungary](https://d.repec.org/n?u=RePEc:mnb:wpaper:2026/3&r=&r=fmk)
-- [Global stablecoins in 2030: a European perspective](https://d.repec.org/n?u=RePEc:stm:wpaper:79&r=&r=mon)
-- [Central Bank Digital Currency: Progress And Further Considerations](https://d.repec.org/n?u=RePEc:imf:imfpps:2024/052&r=&r=mon)
-- [Beyond fragmentation: unraveling the drivers of yield divergence in the euro area](https://d.repec.org/n?u=RePEc:bde:wpaper:2520&r=&r=mon)
-- [When the FedSneezes, the Cold is Transmitted by Trade](https://d.repec.org/n?u=RePEc:bon:boncrc:crctr224_2025_782&r=&r=mon)
-- [Central Bank Stress Testing—Guidance Note](https://d.repec.org/n?u=RePEc:imf:imfpps:2024/067&r=&r=mon)
-- [The fiscal implications of parallel currencies](https://d.repec.org/n?u=RePEc:ehl:lserod:141134&r=&r=mon)
-- [US monetary policy spillovers through global commercial real estate](https://d.repec.org/n?u=RePEc:dnb:dnbwpp:872&r=&r=mon)
-- [The Investment Channel of Monetary Policy: Disentangling Firm Heterogeneity](https://d.repec.org/n?u=RePEc:nbr:nberwo:35867&r=&r=mon)
-- [Minimum Wages and Cost-Push Inflation: Economy-Wide Evidence from Germany](https://d.repec.org/n?u=RePEc:bdp:dpaper:0112&r=&r=mon)
-- [Firm Heterogeneity and the Response of Investment to Monetary Policy](https://d.repec.org/n?u=RePEc:fip:fednls:103898&r=&r=mon)
-- [Seventy Years of Identifying the Phillips Curve and the Policy Rule](https://d.repec.org/n?u=RePEc:arx:papers:2610.06007&r=&r=mon)
-- …ほか 41 本は一覧ページで
+## 計量経済学 (7)
+- [Causal inference in staggered adoption panels: The correct comparison set depends on your intervention](https://arxiv.org/abs/2610.31537)
+- [Testing for peer effects in short panels without identifying the network structure](https://arxiv.org/abs/2610.31106)
+- [Monetary Policy Forecast Errors and Inflation Compensation under Sovereign Stress in Brazil](https://arxiv.org/abs/2610.30487)
+- [Demand Estimation for Rationally Inattentive Consumers](https://arxiv.org/abs/2610.29600)
+- [Policy Learning with Network-Shaping Assignments](https://arxiv.org/abs/2610.29221)
+- [Testing Common Causality of Covariates: Evidence from Private-Sector Ban-the-Box Policies](https://arxiv.org/abs/2610.29148)
+- [Anytime-Valid Inference in Conjoint Experiments](https://arxiv.org/abs/2610.28979)
 
-## 主要学術誌 (3)
-- [Political Voice and (Mortgage) Market Participation: Evidence from the dilution of Voting Rights Act](https://doi.org/10.1016/j.jfineco.2026.104387)
-- [How Private Equity Fuels Nonbank Lending](https://doi.org/10.1093/rfs/hhag092)
-- [Optimal Information and Security Design](https://doi.org/10.1093/rfs/hhag093)
+## 経済・金融WP全般 (4)
+- [Capital for growth: the evolution, structure and role of private equity and venture capital in Italy](https://d.repec.org/n?u=RePEc:bdi:opques:qef_1061_26&r=&r=cfn)
+- [Communicating Performance: Textual and Financial Disclosures in Private Equity](https://d.repec.org/n?u=RePEc:nbr:nberwo:35860&r=&r=cfn)
+- [Financing the AI Buildout](https://d.repec.org/n?u=RePEc:nbr:nberwo:35865&r=&r=cfn)
+- [Taxing Entrepreneurial Wealth: Evidence from Norway, 2021–2025](https://d.repec.org/n?u=RePEc:nbr:nberwo:35854&r=&r=cfn)
+
+## 主要学術誌 (7)
+- [Practical estimation methods for high-dimensional multivariate stochastic volatility models](https://doi.org/10.1016/j.jeconom.2026.106349)
+- [Nickell meets Stambaugh: A tale of two biases in panel predictive regressions](https://doi.org/10.1016/j.jeconom.2026.106347)
+- [An identification-and dimensionality-robust test for instrumental variables models](https://doi.org/10.1016/j.jeconom.2026.106348)
+- [Do long-term yields help to estimate short-term risk premia?](https://doi.org/10.1016/j.jfineco.2026.104386)
+- [Editorial Board](https://doi.org/10.1016/j.jfineco.2026.104392)
+- [Excess Movement in Option‐Implied Beliefs](https://doi.org/10.1111/jofi.70086)
+- [The Rise of Alternatives](https://doi.org/10.1093/rfs/hhag091)
 
 ## 取得できなかった情報源
 - OpenAlex:日本の研究機関の著者を含む論文: HTTPError: HTTP Error 401: Unauthorized
