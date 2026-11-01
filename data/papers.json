@@ -5495,7 +5495,8 @@
    "doi": "",
    "venue": "NEP 計量時系列 (nep-ets)",
    "sources": [
-    "NEP 計量時系列 (nep-ets)"
+    "NEP 計量時系列 (nep-ets)",
+    "NEP 計量経済学 (nep-ecm)"
    ],
    "groups": [
     "ecm"
@@ -5546,7 +5547,8 @@
    "doi": "",
    "venue": "NEP 計量時系列 (nep-ets)",
    "sources": [
-    "NEP 計量時系列 (nep-ets)"
+    "NEP 計量時系列 (nep-ets)",
+    "NEP 計量経済学 (nep-ecm)"
    ],
    "groups": [
     "ecm"
@@ -5571,6 +5573,7 @@
    "venue": "NEP 計量時系列 (nep-ets)",
    "sources": [
     "NEP 計量時系列 (nep-ets)",
+    "NEP 計量経済学 (nep-ecm)",
     "arXiv econ.EM(計量経済学)"
    ],
    "groups": [
@@ -5600,6 +5603,7 @@
    "venue": "NEP 計量時系列 (nep-ets)",
    "sources": [
     "NEP 計量時系列 (nep-ets)",
+    "NEP 計量経済学 (nep-ecm)",
     "arXiv econ.EM(計量経済学)"
    ],
    "groups": [
@@ -5653,7 +5657,8 @@
    "doi": "",
    "venue": "NEP 計量時系列 (nep-ets)",
    "sources": [
-    "NEP 計量時系列 (nep-ets)"
+    "NEP 計量時系列 (nep-ets)",
+    "NEP 計量経済学 (nep-ecm)"
    ],
    "groups": [
     "ecm"
@@ -5708,6 +5713,7 @@
    "venue": "NEP 計量時系列 (nep-ets)",
    "sources": [
     "NEP 計量時系列 (nep-ets)",
+    "NEP 計量経済学 (nep-ecm)",
     "OpenAlex:日本の研究機関の著者を含む論文",
     "arXiv econ.EM(計量経済学)"
    ],
@@ -5740,6 +5746,7 @@
    "venue": "NEP 計量時系列 (nep-ets)",
    "sources": [
     "NEP 計量時系列 (nep-ets)",
+    "NEP 計量経済学 (nep-ecm)",
     "arXiv econ.EM(計量経済学)"
    ],
    "groups": [
@@ -6652,6 +6659,7 @@
    "doi": "",
    "venue": "NEP 金融政策 (nep-mon)",
    "sources": [
+    "NEP 計量経済学 (nep-ecm)",
     "NEP 金融政策 (nep-mon)",
     "arXiv econ.EM(計量経済学)"
    ],
@@ -8920,6 +8928,7 @@
    "doi": "",
    "venue": "arXiv econ.EM",
    "sources": [
+    "NEP 計量経済学 (nep-ecm)",
     "arXiv econ.EM(計量経済学)"
    ],
    "groups": [
@@ -9410,6 +9419,7 @@
    "doi": "",
    "venue": "arXiv econ.EM",
    "sources": [
+    "NEP 計量経済学 (nep-ecm)",
     "arXiv econ.EM(計量経済学)"
    ],
    "groups": [
@@ -9700,6 +9710,7 @@
    "doi": "",
    "venue": "arXiv econ.EM",
    "sources": [
+    "NEP 計量経済学 (nep-ecm)",
     "arXiv econ.EM(計量経済学)"
    ],
    "groups": [
@@ -9728,6 +9739,7 @@
    "doi": "",
    "venue": "arXiv econ.EM",
    "sources": [
+    "NEP 計量経済学 (nep-ecm)",
     "arXiv econ.EM(計量経済学)"
    ],
    "groups": [
@@ -9756,6 +9768,7 @@
    "doi": "",
    "venue": "arXiv econ.EM",
    "sources": [
+    "NEP 計量経済学 (nep-ecm)",
     "arXiv econ.EM(計量経済学)"
    ],
    "groups": [
@@ -9888,6 +9901,7 @@
    "doi": "",
    "venue": "arXiv econ.EM",
    "sources": [
+    "NEP 計量経済学 (nep-ecm)",
     "arXiv econ.EM(計量経済学)"
    ],
    "groups": [
@@ -9915,6 +9929,7 @@
    "doi": "",
    "venue": "arXiv econ.EM",
    "sources": [
+    "NEP 計量経済学 (nep-ecm)",
     "arXiv econ.EM(計量経済学)"
    ],
    "groups": [
@@ -10184,6 +10199,7 @@
    "doi": "",
    "venue": "arXiv econ.EM",
    "sources": [
+    "NEP 計量経済学 (nep-ecm)",
     "arXiv econ.EM(計量経済学)"
    ],
    "groups": [
@@ -26891,8 +26907,8 @@
    ],
    "countries": [],
    "tags": [
-    "q-fin.ST",
-    "econ.EM"
+    "econ.EM",
+    "q-fin.ST"
    ],
    "first_seen": "2026-10-29",
    "japan": false,
@@ -27113,8 +27129,8 @@
    ],
    "countries": [],
    "tags": [
-    "stat.ME",
-    "econ.EM"
+    "econ.EM",
+    "stat.ME"
    ],
    "first_seen": "2026-10-29",
    "japan": false,
@@ -27167,9 +27183,9 @@
    ],
    "countries": [],
    "tags": [
-    "stat.ME",
     "econ.EM",
-    "stat.AP"
+    "stat.AP",
+    "stat.ME"
    ],
    "first_seen": "2026-10-29",
    "japan": false,
@@ -27222,9 +27238,9 @@
    ],
    "countries": [],
    "tags": [
-    "stat.ML",
     "cs.LG",
-    "econ.EM"
+    "econ.EM",
+    "stat.ML"
    ],
    "first_seen": "2026-10-29",
    "japan": false,
@@ -27249,8 +27265,8 @@
    ],
    "countries": [],
    "tags": [
-    "econ.EM",
     "cs.SI",
+    "econ.EM",
     "q-fin.TR"
    ],
    "first_seen": "2026-10-29",
@@ -27355,9 +27371,9 @@
    ],
    "countries": [],
    "tags": [
-    "stat.ME",
     "econ.EM",
-    "math.OC"
+    "math.OC",
+    "stat.ME"
    ],
    "first_seen": "2026-10-29",
    "japan": false,
@@ -27487,8 +27503,8 @@
    ],
    "countries": [],
    "tags": [
-    "stat.ME",
-    "econ.EM"
+    "econ.EM",
+    "stat.ME"
    ],
    "first_seen": "2026-10-29",
    "japan": false,
@@ -27542,10 +27558,10 @@
    ],
    "countries": [],
    "tags": [
-    "stat.ME",
     "econ.EM",
     "stat.AP",
-    "stat.CO"
+    "stat.CO",
+    "stat.ME"
    ],
    "first_seen": "2026-10-29",
    "japan": false,
@@ -27598,9 +27614,9 @@
    ],
    "countries": [],
    "tags": [
-    "stat.ME",
     "econ.EM",
-    "math.ST"
+    "math.ST",
+    "stat.ME"
    ],
    "first_seen": "2026-10-29",
    "japan": false,
@@ -27772,6 +27788,601 @@
    "countries": [],
    "tags": [],
    "first_seen": "2026-10-29",
+   "japan": false,
+   "econometrics": false,
+   "lang": "en"
+  },
+  "t:先天梅毒予防に向けた妊娠届の早期提出意向促進ランダム化情報提供実験による検証": {
+   "title": "先天梅毒予防に向けた妊娠届の早期提出意向促進：ランダム化情報提供実験による検証",
+   "url": "http://www.rieti.go.jp/jp/publications/summary/26100021.html",
+   "authors": [
+    "畠山 樹輝凪（大阪大学）",
+    "中山 一世（大阪大学）",
+    "大竹 文雄（ファカルティフェロー）"
+   ],
+   "date": "2026-10-30",
+   "abstract": "",
+   "doi": "",
+   "venue": "RIETI ディスカッション・ペーパー",
+   "sources": [
+    "RIETI ディスカッション・ペーパー"
+   ],
+   "groups": [
+    "jp"
+   ],
+   "countries": [],
+   "tags": [
+    "ディスカッション・ペーパー（日本語）"
+   ],
+   "first_seen": "2026-11-02",
+   "japan": true,
+   "econometrics": false,
+   "lang": "ja"
+  },
+  "t:過剰生産能力への対処のための法政策の考察造船業を題材に": {
+   "title": "過剰生産能力への対処のための法政策の考察：造船業を題材に",
+   "url": "http://www.rieti.go.jp/jp/publications/summary/26100020.html",
+   "authors": [
+    "関根 豪政（横浜国立大学）"
+   ],
+   "date": "2026-10-29",
+   "abstract": "",
+   "doi": "",
+   "venue": "RIETI ディスカッション・ペーパー",
+   "sources": [
+    "RIETI ディスカッション・ペーパー"
+   ],
+   "groups": [
+    "jp"
+   ],
+   "countries": [],
+   "tags": [
+    "ディスカッション・ペーパー（日本語）"
+   ],
+   "first_seen": "2026-11-02",
+   "japan": true,
+   "econometrics": false,
+   "lang": "ja"
+  },
+  "t:doublyrobustconfidenceintervalsfortreatmenteffectsbasedonstructurednonparametricregressionmodels": {
+   "title": "Doubly Robust Confidence Intervals for Treatment Effects Based on Structured Nonparametric Regression Models",
+   "url": "https://d.repec.org/n?u=RePEc:hit:econdp:2026-03&r=&r=ecm",
+   "authors": [
+    "本田, 敏雄",
+    "HONDA, Toshio",
+    "ホンダ, トシオ"
+   ],
+   "date": "2026-10-01",
+   "abstract": "",
+   "doi": "",
+   "venue": "NEP 計量経済学 (nep-ecm)",
+   "sources": [
+    "NEP 計量経済学 (nep-ecm)"
+   ],
+   "groups": [
+    "ecm"
+   ],
+   "countries": [],
+   "tags": [
+    "ATE, ATT, high-dimensional covariates, double robustness, asymptotic normality, confidence intervals, working models, generalized additive models, generalized varying coefficient models, B-spline basis, group Lasso"
+   ],
+   "first_seen": "2026-11-02",
+   "japan": false,
+   "econometrics": true,
+   "lang": "en"
+  },
+  "t:adoubledifferencesapproachtoinferenceinregressiondiscontinuitydesignswithadiscreterunningvariable": {
+   "title": "A double-differences approach to inference in regression discontinuity designs with a discrete running variable",
+   "url": "https://d.repec.org/n?u=RePEc:hhs:ifauwp:2026_019&r=&r=ecm",
+   "authors": [
+    "Graetz, Georg",
+    "Nordin, Mattias"
+   ],
+   "date": "2026-09-25",
+   "abstract": "We present a new approach to nonparametric inference in regression discontinuity designs where the running variable is discrete and may have few support points. The approach is based on an intuitive and comparatively weak identification assumption: In the absence of treatment, the difference in population mean outcomes at the cutoff is not the largest nor the smallest among differences at any two adjacent support points. Test statistic and confidence interval are constructed from a set of t-statistics based on double differences of the outcome variable, eliminating the need to estimate a conditional expectation function. Simulation evidence suggests that statistical power compares favorably ",
+   "doi": "",
+   "venue": "NEP 計量経済学 (nep-ecm)",
+   "sources": [
+    "NEP 計量経済学 (nep-ecm)"
+   ],
+   "groups": [
+    "ecm"
+   ],
+   "countries": [],
+   "tags": [
+    "Regression discontinuity design; causal inference; policy evaluation; economics of education"
+   ],
+   "first_seen": "2026-11-02",
+   "japan": false,
+   "econometrics": true,
+   "lang": "en"
+  },
+  "t:positiveunlabelledsurvivalanalysis": {
+   "title": "Positive-Unlabelled Survival Analysis",
+   "url": "https://d.repec.org/n?u=RePEc:keo:dpaper:dp2026-021&r=&r=ecm",
+   "authors": [
+    "Tomoki Toyabe",
+    "Takahiro Hoshino",
+    "Taisuke Otsu"
+   ],
+   "date": "2026-09-25",
+   "abstract": "We study survival analysis with positiveâ€“unlabelled event-time data, where censoring times and covariates are observed for all subjects but event times only for labelled positives. Under conditionally independent censoring and allowing the labelling probability to depend on censoring time and covariates, conditioning on these variables eliminates the unknown labelling probability from the event-time density of labelled positives. We show that this conditional density identifies the reverse hazard and the relative event-time distribution over the observed follow-up range, while absolute event probabilities require additional information or restrictions. We develop parametric and semiparamet",
+   "doi": "",
+   "venue": "NEP 計量経済学 (nep-ecm)",
+   "sources": [
+    "NEP 計量経済学 (nep-ecm)"
+   ],
+   "groups": [
+    "ecm"
+   ],
+   "countries": [],
+   "tags": [
+    "conditional likelihood; positiveâ€“unlabelled learning; reverse hazard; semiparametric efficiency"
+   ],
+   "first_seen": "2026-11-02",
+   "japan": false,
+   "econometrics": true,
+   "lang": "en"
+  },
+  "t:distributionaldifferenceindifferencesaggregationbeforeorafterquantileinversion": {
+   "title": "Distributional Difference-in-Differences: Aggregation Before or After Quantile Inversion?",
+   "url": "https://d.repec.org/n?u=RePEc:arx:papers:2609.27944&r=&r=ecm",
+   "authors": [
+    "Ulrich Hounyo"
+   ],
+   "date": "2026-08-01",
+   "abstract": "Staggered distributional difference-in-differences produces cohort-specific potential-outcome distributions, but applied work typically wants one overall quantile treatment effect. Two natural summaries---averaging cohort quantile treatment effects (QTTs) and mixing cohort distributions before inversion---use the same policy weights yet answer different target-population questions and can disagree even in sign. We derive the exact sharp interval for their gap conditional on cohort quantiles and weights, a globally sharp range-only envelope, and a locally sharp density-tilt representation. We develop joint smooth and mass-point-safe inference and show that neither estimator is uniformly more ",
+   "doi": "",
+   "venue": "NEP 計量経済学 (nep-ecm)",
+   "sources": [
+    "NEP 計量経済学 (nep-ecm)"
+   ],
+   "groups": [
+    "ecm"
+   ],
+   "countries": [],
+   "tags": [],
+   "first_seen": "2026-11-02",
+   "japan": false,
+   "econometrics": true,
+   "lang": "en"
+  },
+  "t:instrumentalvariableestimationoffixedeffectsfractionaloutcomepaneldatamodelswithanapplicationtoamajordisabilitysupportpolicyreform": {
+   "title": "Instrumental-Variable Estimation of Fixed-Effects Fractional-Outcome Panel Data Models, with an Application to a Major Disability Support Policy Reform",
+   "url": "https://d.repec.org/n?u=RePEc:iza:izadps:dp18969&r=&r=ecm",
+   "authors": [
+    "Black, Nicole",
+    "Ma, Bernice",
+    "Mai, D Tung",
+    "Skeels, Christopher",
+    "Staub, Kevin"
+   ],
+   "date": "2026-10-01",
+   "abstract": "We develop a fixed-effects estimation framework for fractional-outcome panel models with a logit conditional mean. Pairwise quasi-differencing eliminates individual effects from the moment conditions, yielding a generalized method of moments estimator that is consistent under the stated moment restrictions even when the number of time period is finite and fixed. The framework allows unrestricted dependence between individual effects and covariates, accommodates endogenous regressors through instrumental variables, and extends to multivariate shares that sum to one. Boundary observations require no adjustment, and average semi-elasticities can be estimated without recovering the individual ef",
+   "doi": "",
+   "venue": "NEP 計量経済学 (nep-ecm)",
+   "sources": [
+    "NEP 計量経済学 (nep-ecm)"
+   ],
+   "groups": [
+    "ecm"
+   ],
+   "countries": [],
+   "tags": [
+    "panel data, fixed effects, fractional responses, share data, time use, disability support"
+   ],
+   "first_seen": "2026-11-02",
+   "japan": false,
+   "econometrics": true,
+   "lang": "en"
+  },
+  "t:networkgeneralequilibriumasathreattoidentificationthefailureoftimefixedeffects": {
+   "title": "Network General Equilibrium as a Threat to Identification: The Failure of Time Fixed Effects",
+   "url": "https://d.repec.org/n?u=RePEc:nbr:nberwo:35807&r=&r=ecm",
+   "authors": [
+    "Bernard Herskovic",
+    "Gill Segal"
+   ],
+   "date": "2026-09-01",
+   "abstract": "Time fixed effects are not a general-equilibrium control. In network economies, aggregate shocks do not enter firm outcomes uniformly: they propagate through equilibrium prices, costs, and demand, leaving a residual network gradient after time demeaning. When an instrument, treatment, or exposure design even partially aligns with this gradient, standard panel estimators recover the direct effect plus an endogenous network-leakage component. We develop a tractable framework that signs and quantifies this Network-SUTVA bias in closed form, showing how network topology governs its magnitude. Weak instruments magnify the leakage. Difference-in-differences designs are similarly contaminated becau",
+   "doi": "",
+   "venue": "NEP 計量経済学 (nep-ecm)",
+   "sources": [
+    "NEP 計量経済学 (nep-ecm)"
+   ],
+   "groups": [
+    "ecm"
+   ],
+   "countries": [],
+   "tags": [],
+   "first_seen": "2026-11-02",
+   "japan": false,
+   "econometrics": true,
+   "lang": "en"
+  },
+  "t:scalablenonparametricdemandestimationindifferentiatedproductmarkets": {
+   "title": "Scalable Nonparametric Demand Estimation in Differentiated Product Markets",
+   "url": "https://d.repec.org/n?u=RePEc:arx:papers:2610.08467&r=&r=ecm",
+   "authors": [
+    "Julien Monardo"
+   ],
+   "date": "2026-10-01",
+   "abstract": "The answers to many economic questions depend on the slope and curvature of demand. Estimating demand for differentiated products entails a trade-off between flexibility and scalability. Existing nonparametric approaches face a curse of dimensionality in the number of products. I develop a scalable nonparametric approach using market-level data that overcomes this curse through economically motivated restrictions embedded in many standard models. Simulations and an application to the U.S. beer market demonstrate flexibility in demand slope and curvature, with consequential differences in counterfactual price responses. Estimation in the application takes seconds, versus several hours for a r",
+   "doi": "",
+   "venue": "NEP 計量経済学 (nep-ecm)",
+   "sources": [
+    "NEP 計量経済学 (nep-ecm)"
+   ],
+   "groups": [
+    "ecm"
+   ],
+   "countries": [],
+   "tags": [],
+   "first_seen": "2026-11-02",
+   "japan": false,
+   "econometrics": true,
+   "lang": "en"
+  },
+  "arxiv:2610.40582": {
+   "title": "Optimal Policy With Noisy Sufficient Statistics",
+   "url": "https://arxiv.org/abs/2610.40582",
+   "authors": [
+    "José Luis Montiel Olea",
+    "Mikkel Plagborg-Møller",
+    "Christian K. Wolf"
+   ],
+   "date": "2026-10-29",
+   "abstract": "We study how policy-makers should set $k$ policy instruments so as to best hit $m$ (perhaps dynamic) targets, in a linear-quadratic model where there is statistical uncertainty about the causal effects of the policies. Plugging the estimated effects into \"sufficient statistics\" optimal policy formulas, as commonly done in the literature, can result in infinite risk. In fact, maintaining the status quo regardless of the data is uniquely minimax-optimal when $m>1$, and uniquely minimax-regret-optimal when $m,k>1$. Nevertheless, we recommend that policy-makers adopt a simple, dampened version of the popular plug-in rule, as in Fisher (1962) and Brainard (1967). Not only does this cautious rule ",
+   "doi": "",
+   "venue": "arXiv econ.EM",
+   "sources": [
+    "arXiv econ.EM(計量経済学)"
+   ],
+   "groups": [
+    "ecm"
+   ],
+   "countries": [],
+   "tags": [
+    "econ.EM"
+   ],
+   "first_seen": "2026-11-02",
+   "japan": false,
+   "econometrics": true,
+   "lang": "en"
+  },
+  "arxiv:2610.40047": {
+   "title": "Smooth Threshold GARCH: Quasi Maximum Likelihood Estimation and Empirical Evidence",
+   "url": "https://arxiv.org/abs/2610.40047",
+   "authors": [
+    "Jonas Fiedler Frederiksen",
+    "Frederik Vilandt"
+   ],
+   "date": "2026-10-29",
+   "abstract": "It is well established that the volatility of daily stock returns responds asymmetrically to news, as described by the news impact curve (NIC), which relates volatility to the previous return. Empirical studies suggest that (i) volatility reacts more strongly to negative returns than to positive returns of the same magnitude, (ii) the point of asymmetry, where the NIC attains its minimum, is positive, and (iii) returns above this point often do not increase volatility at all. The popular GJR and A-GARCH models each rule out one of these features. We study the Smooth Threshold GARCH (STGARCH) model, which nests both and allows for (i)-(iii) by combining an estimated threshold, the point of as",
+   "doi": "",
+   "venue": "arXiv econ.EM",
+   "sources": [
+    "arXiv econ.EM(計量経済学)"
+   ],
+   "groups": [
+    "ecm"
+   ],
+   "countries": [],
+   "tags": [
+    "econ.EM"
+   ],
+   "first_seen": "2026-11-02",
+   "japan": false,
+   "econometrics": true,
+   "lang": "en"
+  },
+  "arxiv:2610.39995": {
+   "title": "How Different are Different Differences-in-Differences? A Large-Scale Meta-Analysis",
+   "url": "https://arxiv.org/abs/2610.39995",
+   "authors": [
+    "Peter Hull"
+   ],
+   "date": "2026-10-29",
+   "abstract": "I use AI-assisted replication to assess the empirical importance of negative weights in two-way fixed effects (TWFE) estimation, drawing on 1,346 staggered-adoption specifications from 108 economics papers. TWFE estimates are highly correlated with estimates from modern difference-in-differences methods, with observed sign reversals in 10.8-14.5% of comparisons and greater precision for TWFE. Hierarchical models that account for estimation noise imply a 91-98% correlation between estimands and a 0.6-2.1% probability of obtaining a statistically significant TWFE estimate with the opposite sign from the modern estimand. These findings suggest negative weights may be a less serious problem in p",
+   "doi": "",
+   "venue": "arXiv econ.EM",
+   "sources": [
+    "arXiv econ.EM(計量経済学)"
+   ],
+   "groups": [
+    "ecm"
+   ],
+   "countries": [],
+   "tags": [
+    "econ.EM"
+   ],
+   "first_seen": "2026-11-02",
+   "japan": false,
+   "econometrics": true,
+   "lang": "en"
+  },
+  "arxiv:2610.39871": {
+   "title": "Threshold Regression with a Nearly Integrated Threshold Variable",
+   "url": "https://arxiv.org/abs/2610.39871",
+   "authors": [
+    "Chaoyi Chen",
+    "Thanasis Stengos"
+   ],
+   "date": "2026-10-29",
+   "abstract": "This paper considers threshold regression with an integrated or local-to-unity threshold variable and a threshold fixed in levels. We study the least squares threshold estimator and establish its asymptotic theory under both fixed and diminishing threshold effects. Under a fixed effect, the threshold estimator has a compound Cox argmin limit, whereas under a diminishing effect, its limiting distribution is characterized by a two-sided Brownian argmax with a random scale. We also develop likelihood ratio inference, which is asymptotically pivotal under a diminishing effect and conservative under Gaussian errors for a fixed effect, and show that conventional $t$-ratios for the slope coefficien",
+   "doi": "",
+   "venue": "arXiv econ.EM",
+   "sources": [
+    "arXiv econ.EM(計量経済学)"
+   ],
+   "groups": [
+    "ecm"
+   ],
+   "countries": [],
+   "tags": [
+    "econ.EM"
+   ],
+   "first_seen": "2026-11-02",
+   "japan": false,
+   "econometrics": true,
+   "lang": "en"
+  },
+  "arxiv:2610.38965": {
+   "title": "Orthogonal Inference for Conditional Z-Estimation without Cross-Fitting: A Distributional Nearest-Neighbor Approach",
+   "url": "https://arxiv.org/abs/2610.38965",
+   "authors": [
+    "Jakob R. Juergens"
+   ],
+   "date": "2026-10-28",
+   "abstract": "Estimating conditional parameters, such as heterogeneous treatment effects, often requires rich covariate adjustment, even when the parameters are reported along only a few dimensions. Fitting nuisance functions on the full sample makes all observations available for adjustment, but creates dependence between fitted scores and the observations at which they are evaluated, which is typically avoided by cross-fitting. We develop pointwise inference with full-sample nuisance predictions for exactly identified conditional moment equations, recovering conditional average treatment effects as a special case. We localize the estimating equations around the reporting point using distributional neare",
+   "doi": "",
+   "venue": "arXiv econ.EM",
+   "sources": [
+    "arXiv econ.EM(計量経済学)"
+   ],
+   "groups": [
+    "ecm"
+   ],
+   "countries": [],
+   "tags": [
+    "econ.EM",
+    "math.ST",
+    "stat.ML"
+   ],
+   "first_seen": "2026-11-02",
+   "japan": false,
+   "econometrics": true,
+   "lang": "en"
+  },
+  "arxiv:2610.38896": {
+   "title": "The Hidden Value of Soft Infrastructure for Urban Flood Adaptation",
+   "url": "https://arxiv.org/abs/2610.38896",
+   "authors": [
+    "Lidia Cano Pecharroman",
+    "ChangHoon Hahn"
+   ],
+   "date": "2026-10-28",
+   "abstract": "As sea level rises and flooding events become more frequent, cities are tapping into a range of engineering and planning solutions to reduce flood losses. Beyond traditional ``hard'' infrastructure (e.g., sewage, seawalls), ``soft'' infrastructure that supports and empowers the role of citizens in preparedness has been hailed as a promising avenue for improving adaptation. Despite its promise, there have been very limited attempts to quantify its effectiveness in reducing losses relative to hard infrastructure, particularly in urban environments. This study fills this knowledge gap using generative AI to quantify the effectiveness of a range of hard and soft infrastructure in urban areas. We",
+   "doi": "",
+   "venue": "arXiv econ.EM",
+   "sources": [
+    "arXiv econ.EM(計量経済学)"
+   ],
+   "groups": [
+    "ecm"
+   ],
+   "countries": [],
+   "tags": [
+    "econ.EM",
+    "stat.AP"
+   ],
+   "first_seen": "2026-11-02",
+   "japan": false,
+   "econometrics": true,
+   "lang": "en"
+  },
+  "arxiv:2610.38665": {
+   "title": "Quantile Methods in Large Panels with Fixed Effects",
+   "url": "https://arxiv.org/abs/2610.38665",
+   "authors": [
+    "Manuel Arellano",
+    "Ayden Higgins",
+    "Martin Weidner"
+   ],
+   "date": "2026-10-28",
+   "abstract": "We study quantile regression (QR) and instrumental variable quantile regression (QIV) in static panel data models with additive individual fixed effects. We derive the asymptotic distribution of the fixed effects estimator as both panel dimensions grow large, showing that it has an asymptotic bias of order 1/T, where T is the number of observations per individual. The bias analysis relies on a novel characterization of the profiled score as a weighted sum of induced order statistics (concomitants), which yields an exact finite-T expression for the score bias. We propose Jackknife bias corrections and uncover a bias-variance tradeoff that is specific to the non-smooth quantile objective funct",
+   "doi": "",
+   "venue": "arXiv econ.EM",
+   "sources": [
+    "arXiv econ.EM(計量経済学)"
+   ],
+   "groups": [
+    "ecm"
+   ],
+   "countries": [],
+   "tags": [
+    "econ.EM"
+   ],
+   "first_seen": "2026-11-02",
+   "japan": false,
+   "econometrics": true,
+   "lang": "en"
+  },
+  "arxiv:2610.38529": {
+   "title": "Debiasing Functionals of Conditional Distributions",
+   "url": "https://arxiv.org/abs/2610.38529",
+   "authors": [
+    "Juan Carlos Escanciano",
+    "Gabriele Gazzei"
+   ],
+   "date": "2026-10-28",
+   "abstract": "Many economic parameters depend on estimated conditional distributions. We construct locally robust moments for these parameters by representing their first-step derivative and centering the representer conditionally on the covariates. We develop complementary conditional-measure and CDF linearizations, and derive corrections for control functions, counterfactual functionals, conditional rank-rank regression, and transformations of conditional $L$-functionals. Under the CDF linearization, a Riesz-regression criterion estimates the correction automatically; its analysis distinguishes representer estimation from integration against the estimated conditional law. We establish asymptotic oracle ",
+   "doi": "",
+   "venue": "arXiv econ.EM",
+   "sources": [
+    "arXiv econ.EM(計量経済学)"
+   ],
+   "groups": [
+    "ecm"
+   ],
+   "countries": [],
+   "tags": [
+    "econ.EM"
+   ],
+   "first_seen": "2026-11-02",
+   "japan": false,
+   "econometrics": true,
+   "lang": "en"
+  },
+  "arxiv:2610.37883": {
+   "title": "fastC-GC and fastC-GC*: Efficient RCCP-Guided Graph Estimation for Time Series",
+   "url": "https://arxiv.org/abs/2610.37883",
+   "authors": [
+    "S. A. Adedayo"
+   ],
+   "date": "2026-10-27",
+   "abstract": "We introduce fastC-GC and fastC-GC$^*$, computationally efficient methods for time-series graph estimation using the two-test rule motivated by Reichenbach's common cause principle (RCCP) and the conditioning sets of causalised Granger causality (c-GC and c-GC$^*$). The methods use standardized data, ridge-residual correlation, and complete circular shift enumeration evaluated by Fourier transforms. Shared precision calculations and Schur downdates avoid repeated regression fits. On a single-threaded benchmark, fastC-GC was 68-277 times faster than the compared c-GC implementation, and fastC-GC$^*$ was 192-886 times faster than c-GC$^*$. Across four suites with reference graphs, aggregate me",
+   "doi": "",
+   "venue": "arXiv econ.EM",
+   "sources": [
+    "arXiv econ.EM(計量経済学)"
+   ],
+   "groups": [
+    "ecm"
+   ],
+   "countries": [],
+   "tags": [
+    "stat.CO",
+    "cs.SI",
+    "econ.EM"
+   ],
+   "first_seen": "2026-11-02",
+   "japan": false,
+   "econometrics": true,
+   "lang": "en"
+  },
+  "doi:10.1016/j.jeconom.2026.106351": {
+   "title": "Maximum likelihood estimation of fractional Ornstein-Uhlenbeck process with discretely sampled data",
+   "url": "https://doi.org/10.1016/j.jeconom.2026.106351",
+   "authors": [
+    "Xiaohu Wang",
+    "Weilin Xiao",
+    "Jun Yu",
+    "Chen Zhang"
+   ],
+   "date": "2026-11-01",
+   "abstract": "",
+   "doi": "10.1016/j.jeconom.2026.106351",
+   "venue": "Journal of Econometrics",
+   "sources": [
+    "Journal of Econometrics"
+   ],
+   "groups": [
+    "journal"
+   ],
+   "countries": [],
+   "tags": [],
+   "first_seen": "2026-11-02",
+   "japan": false,
+   "econometrics": true,
+   "lang": "en"
+  },
+  "doi:10.1016/j.jfineco.2026.104388": {
+   "title": "Decoupling voting and cash flow rights",
+   "url": "https://doi.org/10.1016/j.jfineco.2026.104388",
+   "authors": [
+    "Andre Speit",
+    "Paul Voss",
+    "András Danis"
+   ],
+   "date": "2026-12-01",
+   "abstract": "",
+   "doi": "10.1016/j.jfineco.2026.104388",
+   "venue": "Journal of Financial Economics",
+   "sources": [
+    "Journal of Financial Economics"
+   ],
+   "groups": [
+    "journal"
+   ],
+   "countries": [],
+   "tags": [],
+   "first_seen": "2026-11-02",
+   "japan": false,
+   "econometrics": false,
+   "lang": "en"
+  },
+  "doi:10.1111/jofi.70099": {
+   "title": "The Evolution of the Market for Corporate Control",
+   "url": "https://doi.org/10.1111/jofi.70099",
+   "authors": [
+    "MIKE BURKART",
+    "SAMUEL LEE",
+    "PAUL VOSS"
+   ],
+   "date": "2026-10-30",
+   "abstract": "ABSTRACT We consider an informed large shareholder who can choose between making a takeover bid herself and initiating a sale to another acquirer. Such takeover activism complements direct takeovers because the very choice mitigates the asymmetric information problem, thereby improving efficiency. As more investors enter the market for corporate control, takeover activism increasingly replaces direct takeovers as the prevailing mode of disciplinary control change, matching the evolution in practice. Our model shows how this evolution, characterized by a symbiotic relationship between investor activism and private equity, arises to overcome asymmetric information and collective action problem",
+   "doi": "10.1111/jofi.70099",
+   "venue": "The Journal of Finance",
+   "sources": [
+    "Journal of Finance"
+   ],
+   "groups": [
+    "journal"
+   ],
+   "countries": [],
+   "tags": [],
+   "first_seen": "2026-11-02",
+   "japan": false,
+   "econometrics": false,
+   "lang": "en"
+  },
+  "doi:10.1111/jofi.70100": {
+   "title": "Do Experimental Asset Market Results Replicate? High‐Powered Preregistered Replications of 17 Key Results",
+   "url": "https://doi.org/10.1111/jofi.70100",
+   "authors": [
+    "CHRISTOPH HUBER",
+    "FELIX HOLZMEISTER",
+    "MAGNUS JOHANNESSON",
+    "CHRISTIAN KÖNIG‐KERSTING",
+    "ANNA DREBER",
+    "JÜRGEN HUBER",
+    "MICHAEL KIRCHLER"
+   ],
+   "date": "2026-10-29",
+   "abstract": "ABSTRACT Experimental asset markets provide a controlled approach to studying financial markets. We attempt to replicate 17 key results from four prominent studies, collecting new data from 166 markets with 1,544 participants. Only three of the 14 original results reported as statistically significant were successfully replicated. We fail to replicate findings on emotions, self‐control, and gender differences in bubble formation but confirm that experience reduces bubbles and cognitive skills explain trading success. Our study demonstrates the importance of replications in enhancing the credibility of scientific results in this field.",
+   "doi": "10.1111/jofi.70100",
+   "venue": "The Journal of Finance",
+   "sources": [
+    "Journal of Finance"
+   ],
+   "groups": [
+    "journal"
+   ],
+   "countries": [],
+   "tags": [],
+   "first_seen": "2026-11-02",
+   "japan": false,
+   "econometrics": false,
+   "lang": "en"
+  },
+  "doi:10.1093/rfs/hhag066": {
+   "title": "Correction to: The Financial Channel of the Exchange Rate and Global Trade",
+   "url": "https://doi.org/10.1093/rfs/hhag066",
+   "authors": [],
+   "date": "2026-10-30",
+   "abstract": "",
+   "doi": "10.1093/rfs/hhag066",
+   "venue": "The Review of Financial Studies",
+   "sources": [
+    "Review of Financial Studies"
+   ],
+   "groups": [
+    "journal"
+   ],
+   "countries": [],
+   "tags": [],
+   "first_seen": "2026-11-02",
    "japan": false,
    "econometrics": false,
    "lang": "en"
@@ -27987,6 +28598,41 @@
     "CiNii:ファイナンス 実証": "CINII_APPID が未設定のため省略しました(手順書のステップ5参照)"
    },
    "new": 111
+  },
+  {
+   "date": "2026-11-02 07:15",
+   "counts": {
+    "日本銀行(WP・日銀レビュー等)": 3,
+    "RIETI ディスカッション・ペーパー": 184,
+    "内閣府 経済社会総合研究所(ESRI)": 0,
+    "金融庁(金融研究センター等)": 0,
+    "NEP 計量経済学 (nep-ecm)": 23,
+    "NEP 計量時系列 (nep-ets)": 12,
+    "NEP 東南・東アジア (nep-sea)": 4,
+    "NEP 金融市場 (nep-fmk)": 4,
+    "NEP 金融政策 (nep-mon)": 31,
+    "NEP 銀行 (nep-ban)": 20,
+    "NEP コーポレートファイナンス (nep-cfn)": 5,
+    "NBER 新着ワーキングペーパー": 35,
+    "arXiv econ.EM(計量経済学)": 79,
+    "Econometrica": 0,
+    "Journal of Econometrics": 4,
+    "Journal of Business & Economic Statistics": 3,
+    "Journal of Financial Economics": 11,
+    "Journal of Finance": 5,
+    "Review of Financial Studies": 5,
+    "Japan and the World Economy": 0,
+    "Journal of the Japanese and International Economies": 1
+   },
+   "errors": {
+    "OpenAlex:日本の研究機関の著者を含む論文": "HTTPError: HTTP Error 401: Unauthorized",
+    "OpenAlex:タイトル・抄録に Japan を含む論文": "HTTPError: HTTP Error 401: Unauthorized",
+    "CiNii:計量経済": "CINII_APPID が未設定のため省略しました(手順書のステップ5参照)",
+    "CiNii:実証分析 経済": "CINII_APPID が未設定のため省略しました(手順書のステップ5参照)",
+    "CiNii:実証分析 金融": "CINII_APPID が未設定のため省略しました(手順書のステップ5参照)",
+    "CiNii:ファイナンス 実証": "CINII_APPID が未設定のため省略しました(手順書のステップ5参照)"
+   },
+   "new": 23
   }
  ]
 }
