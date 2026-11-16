@@ -35198,6 +35198,127 @@
    "japan": false,
    "econometrics": false,
    "lang": "en"
+  },
+  "doi:10.1016/j.jfineco.2026.104396": {
+   "title": "Bond funds and credit risk",
+   "url": "https://doi.org/10.1016/j.jfineco.2026.104396",
+   "authors": [
+    "Jaewon Choi",
+    "Amil Dasgupta",
+    "Ji Yeol Jimmy Oh"
+   ],
+   "date": "2027-01-01",
+   "abstract": "",
+   "doi": "10.1016/j.jfineco.2026.104396",
+   "venue": "Journal of Financial Economics",
+   "sources": [
+    "Journal of Financial Economics"
+   ],
+   "groups": [
+    "journal"
+   ],
+   "countries": [],
+   "tags": [],
+   "first_seen": "2026-11-16",
+   "japan": false,
+   "econometrics": false,
+   "lang": "en"
+  },
+  "doi:10.1093/rfs/hhag009": {
+   "title": "Climate Risk Disclosure and Risk Sharing in Financial Markets",
+   "url": "https://doi.org/10.1093/rfs/hhag009",
+   "authors": [
+    "Kevin Smith"
+   ],
+   "date": "2026-11-13",
+   "abstract": "Abstract In this paper, I model how climate risk disclosure impacts climate risk sharing among investors. I show that this disclosure can improve risk sharing by helping investors identify stocks that effectively hedge climate risk, and I analyze the disclosure’s impact on investors’ equilibrium portfolio choices. I then study firms’ voluntary disclosure incentives and analyze when disclosure mandates enhance risk sharing. Finally, I demonstrate that, by facilitating risk sharing, climate risk disclosure reduces the climate risk premium among stocks held by climate-focused investors. Hence, disclosure can lower the valuations of firms with low climate exposures and the overall market. (JEL: ",
+   "doi": "10.1093/rfs/hhag009",
+   "venue": "The Review of Financial Studies",
+   "sources": [
+    "Review of Financial Studies"
+   ],
+   "groups": [
+    "journal"
+   ],
+   "countries": [],
+   "tags": [],
+   "first_seen": "2026-11-16",
+   "japan": false,
+   "econometrics": false,
+   "lang": "en"
+  },
+  "doi:10.1093/rfs/hhag097": {
+   "title": "The Horizon of Investors’ Information and Corporate Investment",
+   "url": "https://doi.org/10.1093/rfs/hhag097",
+   "authors": [
+    "Olivier Dessaint",
+    "Thierry Foucault",
+    "Laurent Frésard"
+   ],
+   "date": "2026-11-12",
+   "abstract": "Abstract The quality of investors’ information across different horizons has real effects. When managers care about the effect of investment on their stock price, a decline in the informativeness of investors’ signals about long-term cash flows leads firms with long-term projects to cut investment more than firms with short-term projects. Using a novel, hand-collected measure of project horizons, we confirm this hypothesis: relative to firms with short-term projects, the investment of firms with long-term projects decreases by 3.7% following a 1-standard-deviation drop in the quality of investors’ long-term information. This effect becomes larger when managers prioritize current stock prices",
+   "doi": "10.1093/rfs/hhag097",
+   "venue": "The Review of Financial Studies",
+   "sources": [
+    "Review of Financial Studies"
+   ],
+   "groups": [
+    "journal"
+   ],
+   "countries": [],
+   "tags": [],
+   "first_seen": "2026-11-16",
+   "japan": false,
+   "econometrics": false,
+   "lang": "en"
+  },
+  "doi:10.1016/j.japwor.2026.101382": {
+   "title": "Covered Interest Parity deviations and monetary policy stances: An event study of the Japanese yen based on the Fed’s rate hike in 2022",
+   "url": "https://doi.org/10.1016/j.japwor.2026.101382",
+   "authors": [
+    "Mariko Tanaka"
+   ],
+   "date": "2026-11-01",
+   "abstract": "",
+   "doi": "10.1016/j.japwor.2026.101382",
+   "venue": "Japan and the World Economy",
+   "sources": [
+    "Japan and the World Economy"
+   ],
+   "groups": [
+    "journal"
+   ],
+   "countries": [],
+   "tags": [],
+   "first_seen": "2026-11-16",
+   "japan": true,
+   "econometrics": false,
+   "lang": "en"
+  },
+  "doi:10.1016/j.japwor.2026.101383": {
+   "title": "CEO facial masculinity, financial constraints, and dividend signaling: Evidence from Korea",
+   "url": "https://doi.org/10.1016/j.japwor.2026.101383",
+   "authors": [
+    "Jeongkwon Seo",
+    "Seokjin Choi",
+    "Moonseok Choi"
+   ],
+   "date": "2026-11-01",
+   "abstract": "",
+   "doi": "10.1016/j.japwor.2026.101383",
+   "venue": "Japan and the World Economy",
+   "sources": [
+    "Japan and the World Economy"
+   ],
+   "groups": [
+    "journal"
+   ],
+   "countries": [],
+   "tags": [],
+   "first_seen": "2026-11-16",
+   "japan": false,
+   "econometrics": false,
+   "lang": "en"
   }
  },
  "runs": [
@@ -35550,6 +35671,41 @@
     "CiNii:ファイナンス 実証": "CINII_APPID が未設定のため省略しました(手順書のステップ5参照)"
    },
    "new": 102
+  },
+  {
+   "date": "2026-11-16 10:24",
+   "counts": {
+    "日本銀行(WP・日銀レビュー等)": 5,
+    "RIETI ディスカッション・ペーパー": 180,
+    "内閣府 経済社会総合研究所(ESRI)": 0,
+    "金融庁(金融研究センター等)": 0,
+    "NEP 計量経済学 (nep-ecm)": 15,
+    "NEP 計量時系列 (nep-ets)": 17,
+    "NEP 東南・東アジア (nep-sea)": 9,
+    "NEP 金融市場 (nep-fmk)": 7,
+    "NEP 金融政策 (nep-mon)": 33,
+    "NEP 銀行 (nep-ban)": 20,
+    "NEP コーポレートファイナンス (nep-cfn)": 6,
+    "NBER 新着ワーキングペーパー": 21,
+    "Econometrica": 0,
+    "Journal of Econometrics": 5,
+    "Journal of Business & Economic Statistics": 4,
+    "Journal of Financial Economics": 11,
+    "Journal of Finance": 5,
+    "Review of Financial Studies": 6,
+    "Japan and the World Economy": 2,
+    "Journal of the Japanese and International Economies": 1
+   },
+   "errors": {
+    "arXiv econ.EM(計量経済学)": "HTTPError: HTTP Error 429: Unknown Error",
+    "OpenAlex:日本の研究機関の著者を含む論文": "HTTPError: HTTP Error 401: Unauthorized",
+    "OpenAlex:タイトル・抄録に Japan を含む論文": "HTTPError: HTTP Error 401: Unauthorized",
+    "CiNii:計量経済": "CINII_APPID が未設定のため省略しました(手順書のステップ5参照)",
+    "CiNii:実証分析 経済": "CINII_APPID が未設定のため省略しました(手順書のステップ5参照)",
+    "CiNii:実証分析 金融": "CINII_APPID が未設定のため省略しました(手順書のステップ5参照)",
+    "CiNii:ファイナンス 実証": "CINII_APPID が未設定のため省略しました(手順書のステップ5参照)"
+   },
+   "new": 5
   }
  ]
 }
