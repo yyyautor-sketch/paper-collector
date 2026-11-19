@@ -8568,6 +8568,7 @@
    "doi": "",
    "venue": "arXiv econ.EM",
    "sources": [
+    "NEP 計量時系列 (nep-ets)",
     "arXiv econ.EM(計量経済学)"
    ],
    "groups": [
@@ -20823,6 +20824,7 @@
    "doi": "",
    "venue": "arXiv econ.EM",
    "sources": [
+    "NEP 計量時系列 (nep-ets)",
     "arXiv econ.EM(計量経済学)"
    ],
    "groups": [
@@ -24946,7 +24948,8 @@
    "venue": "Journal of Econometrics",
    "sources": [
     "Journal of Econometrics",
-    "NEP 計量時系列 (nep-ets)"
+    "NEP 計量時系列 (nep-ets)",
+    "NEP 計量経済学 (nep-ecm)"
    ],
    "groups": [
     "ecm",
@@ -26995,6 +26998,7 @@
    "doi": "",
    "venue": "arXiv econ.EM",
    "sources": [
+    "NEP 計量経済学 (nep-ecm)",
     "arXiv econ.EM(計量経済学)"
    ],
    "groups": [
@@ -27025,6 +27029,7 @@
    "venue": "arXiv econ.EM",
    "sources": [
     "NEP 計量時系列 (nep-ets)",
+    "NEP 計量経済学 (nep-ecm)",
     "arXiv econ.EM(計量経済学)"
    ],
    "groups": [
@@ -27052,6 +27057,7 @@
    "doi": "",
    "venue": "arXiv econ.EM",
    "sources": [
+    "NEP 計量経済学 (nep-ecm)",
     "arXiv econ.EM(計量経済学)"
    ],
    "groups": [
@@ -27078,6 +27084,7 @@
    "doi": "",
    "venue": "arXiv econ.EM",
    "sources": [
+    "NEP 計量経済学 (nep-ecm)",
     "arXiv econ.EM(計量経済学)"
    ],
    "groups": [
@@ -27135,6 +27142,7 @@
    "doi": "",
    "venue": "arXiv econ.EM",
    "sources": [
+    "NEP 計量経済学 (nep-ecm)",
     "arXiv econ.EM(計量経済学)"
    ],
    "groups": [
@@ -27163,6 +27171,7 @@
    "doi": "",
    "venue": "arXiv econ.EM",
    "sources": [
+    "NEP 計量経済学 (nep-ecm)",
     "arXiv econ.EM(計量経済学)"
    ],
    "groups": [
@@ -27191,6 +27200,7 @@
    "venue": "arXiv econ.EM",
    "sources": [
     "NEP 計量時系列 (nep-ets)",
+    "NEP 計量経済学 (nep-ecm)",
     "arXiv econ.EM(計量経済学)"
    ],
    "groups": [
@@ -27246,6 +27256,7 @@
    "doi": "",
    "venue": "arXiv econ.EM",
    "sources": [
+    "NEP 計量経済学 (nep-ecm)",
     "arXiv econ.EM(計量経済学)"
    ],
    "groups": [
@@ -27327,6 +27338,7 @@
    "doi": "",
    "venue": "arXiv econ.EM",
    "sources": [
+    "NEP 計量経済学 (nep-ecm)",
     "arXiv econ.EM(計量経済学)"
    ],
    "groups": [
@@ -27380,6 +27392,7 @@
    "venue": "arXiv econ.EM",
    "sources": [
     "NEP 計量時系列 (nep-ets)",
+    "NEP 計量経済学 (nep-ecm)",
     "arXiv econ.EM(計量経済学)"
    ],
    "groups": [
@@ -28108,6 +28121,7 @@
    "doi": "",
    "venue": "arXiv econ.EM",
    "sources": [
+    "NEP 計量時系列 (nep-ets)",
     "arXiv econ.EM(計量経済学)"
    ],
    "groups": [
@@ -28291,6 +28305,7 @@
    "doi": "",
    "venue": "arXiv econ.EM",
    "sources": [
+    "NEP 計量時系列 (nep-ets)",
     "arXiv econ.EM(計量経済学)"
    ],
    "groups": [
@@ -28595,7 +28610,8 @@
    "doi": "",
    "venue": "NEP 計量時系列 (nep-ets)",
    "sources": [
-    "NEP 計量時系列 (nep-ets)"
+    "NEP 計量時系列 (nep-ets)",
+    "NEP 計量経済学 (nep-ecm)"
    ],
    "groups": [
     "ecm"
@@ -28621,7 +28637,8 @@
    "doi": "",
    "venue": "NEP 計量時系列 (nep-ets)",
    "sources": [
-    "NEP 計量時系列 (nep-ets)"
+    "NEP 計量時系列 (nep-ets)",
+    "NEP 計量経済学 (nep-ecm)"
    ],
    "groups": [
     "ecm"
@@ -28673,6 +28690,7 @@
    "venue": "NEP 計量時系列 (nep-ets)",
    "sources": [
     "NEP 計量時系列 (nep-ets)",
+    "NEP 計量経済学 (nep-ecm)",
     "NEP 金融政策 (nep-mon)"
    ],
    "groups": [
@@ -28725,7 +28743,8 @@
    "doi": "",
    "venue": "NEP 計量時系列 (nep-ets)",
    "sources": [
-    "NEP 計量時系列 (nep-ets)"
+    "NEP 計量時系列 (nep-ets)",
+    "NEP 計量経済学 (nep-ecm)"
    ],
    "groups": [
     "ecm"
@@ -28751,7 +28770,8 @@
    "doi": "",
    "venue": "NEP 計量時系列 (nep-ets)",
    "sources": [
-    "NEP 計量時系列 (nep-ets)"
+    "NEP 計量時系列 (nep-ets)",
+    "NEP 計量経済学 (nep-ecm)"
    ],
    "groups": [
     "ecm"
@@ -28829,7 +28849,8 @@
    "doi": "",
    "venue": "NEP 計量時系列 (nep-ets)",
    "sources": [
-    "NEP 計量時系列 (nep-ets)"
+    "NEP 計量時系列 (nep-ets)",
+    "NEP 計量経済学 (nep-ecm)"
    ],
    "groups": [
     "ecm"
@@ -31110,6 +31131,7 @@
    "doi": "",
    "venue": "arXiv econ.EM",
    "sources": [
+    "NEP 計量時系列 (nep-ets)",
     "arXiv econ.EM(計量経済学)"
    ],
    "groups": [
@@ -31215,6 +31237,7 @@
    "doi": "",
    "venue": "arXiv econ.EM",
    "sources": [
+    "NEP 計量時系列 (nep-ets)",
     "arXiv econ.EM(計量経済学)"
    ],
    "groups": [
@@ -32475,6 +32498,7 @@
    "doi": "",
    "venue": "arXiv econ.EM",
    "sources": [
+    "NEP 計量時系列 (nep-ets)",
     "arXiv econ.EM(計量経済学)"
    ],
    "groups": [
@@ -33616,7 +33640,8 @@
    ],
    "countries": [],
    "tags": [
-    "Household expectations; inflation expectations; inflation experience; Bundesbank household survey"
+    "Household expectations; inflation expectations; inflation experience; Bundesbank household survey",
+    "household expectations, inflation expectations, inflation experience, Bundesbank household survey"
    ],
    "first_seen": "2026-11-12",
    "japan": false,
@@ -34659,8 +34684,8 @@
    ],
    "countries": [],
    "tags": [
-    "stat.AP",
     "econ.EM",
+    "stat.AP",
     "stat.CO",
     "stat.ME",
     "stat.ML"
@@ -34715,9 +34740,9 @@
    ],
    "countries": [],
    "tags": [
-    "stat.ME",
     "cs.LG",
-    "econ.EM"
+    "econ.EM",
+    "stat.ME"
    ],
    "first_seen": "2026-11-12",
    "japan": false,
@@ -34742,9 +34767,9 @@
    ],
    "countries": [],
    "tags": [
-    "stat.ME",
     "econ.EM",
-    "stat.AP"
+    "stat.AP",
+    "stat.ME"
    ],
    "first_seen": "2026-11-12",
    "japan": false,
@@ -34846,8 +34871,8 @@
    ],
    "countries": [],
    "tags": [
-    "q-fin.MF",
-    "econ.EM"
+    "econ.EM",
+    "q-fin.MF"
    ],
    "first_seen": "2026-11-12",
    "japan": false,
@@ -34899,8 +34924,8 @@
    ],
    "countries": [],
    "tags": [
-    "stat.ME",
-    "econ.EM"
+    "econ.EM",
+    "stat.ME"
    ],
    "first_seen": "2026-11-12",
    "japan": false,
@@ -35063,8 +35088,8 @@
    ],
    "countries": [],
    "tags": [
-    "math.OC",
-    "econ.EM"
+    "econ.EM",
+    "math.OC"
    ],
    "first_seen": "2026-11-12",
    "japan": false,
@@ -35318,6 +35343,2412 @@
    "first_seen": "2026-11-16",
    "japan": false,
    "econometrics": false,
+   "lang": "en"
+  },
+  "t:subsidiesfornewelectricvehiclepurchasesandtheirimpactonusedvehiclepricesevidencefromjapan": {
+   "title": "Subsidies for New Electric Vehicle Purchases and Their Impact on Used Vehicle Prices: Evidence from Japan",
+   "url": "http://www.rieti.go.jp/jp/publications/summary/26110005.html",
+   "authors": [
+    "北野 泰樹（青山学院大学）"
+   ],
+   "date": "2026-11-17",
+   "abstract": "",
+   "doi": "",
+   "venue": "RIETI ディスカッション・ペーパー",
+   "sources": [
+    "RIETI ディスカッション・ペーパー"
+   ],
+   "groups": [
+    "jp"
+   ],
+   "countries": [],
+   "tags": [
+    "ディスカッション・ペーパー（英語）"
+   ],
+   "first_seen": "2026-11-19",
+   "japan": true,
+   "econometrics": false,
+   "lang": "en"
+  },
+  "t:caneducationalexpansionanddelayedfamilyformationexplainoccupationalgenderdesegregationevidencefromharmonizedcensusoccupationdatainjapan19802020": {
+   "title": "Can Educational Expansion and Delayed Family Formation Explain Occupational Gender Desegregation? Evidence from harmonized census occupation data in Japan, 1980–2020",
+   "url": "http://www.rieti.go.jp/jp/publications/summary/26110004.html",
+   "authors": [
+    "麦山 亮太（学習院大学）",
+    "打越 文弥（シンガポールマネジメント大学）"
+   ],
+   "date": "2026-11-17",
+   "abstract": "",
+   "doi": "",
+   "venue": "RIETI ディスカッション・ペーパー",
+   "sources": [
+    "RIETI ディスカッション・ペーパー"
+   ],
+   "groups": [
+    "jp"
+   ],
+   "countries": [],
+   "tags": [
+    "ディスカッション・ペーパー（英語）"
+   ],
+   "first_seen": "2026-11-19",
+   "japan": true,
+   "econometrics": false,
+   "lang": "en"
+  },
+  "t:marketvsregulationsinpricingpharmaceuticalinnovationsevidencefromjapanandthethreemajoroecdcountries": {
+   "title": "Market vs. Regulations in Pricing Pharmaceutical Innovations: Evidence from Japan and the three major OECD countries",
+   "url": "http://www.rieti.go.jp/jp/publications/summary/26110003.html",
+   "authors": [
+    "西村 淳一（学習院大学）",
+    "長岡 貞男（ファカルティフェロー）"
+   ],
+   "date": "2026-11-16",
+   "abstract": "",
+   "doi": "",
+   "venue": "RIETI ディスカッション・ペーパー",
+   "sources": [
+    "RIETI ディスカッション・ペーパー"
+   ],
+   "groups": [
+    "jp"
+   ],
+   "countries": [],
+   "tags": [
+    "ディスカッション・ペーパー（英語）"
+   ],
+   "first_seen": "2026-11-19",
+   "japan": true,
+   "econometrics": false,
+   "lang": "en"
+  },
+  "t:beyondvintagerotationbiasfreesparserepresentationlearningwithoracleinference": {
+   "title": "Beyond vintage rotation: bias-free sparse representation learning with oracle inference",
+   "url": "https://d.repec.org/n?u=RePEc:ehl:lserod:141229&r=&r=ecm",
+   "authors": [
+    "Cui, Chengyu",
+    "Chen, Yunxiao",
+    "Ouyang, Jing",
+    "Xu, Gongjun"
+   ],
+   "date": "2026-10-26",
+   "abstract": "Learning low-dimensional latent representations is a central topic in statistics and machine learning, and rotation methods have long been used to obtain sparse and interpretable representations. Despite nearly a century of widespread use across many fields, rigorous guarantees for valid inference for the learned representation remain lacking. In this paper, we identify a surprisingly prevalent phenomenon that suggests a reason for this gap: for a broad class of vintage rotations, the resulting estimators exhibit a non-estimable bias. Because this bias is independent of the data, it fundamentally precludes the development of valid inferential procedures, including the construction of confide",
+   "doi": "",
+   "venue": "NEP 計量経済学 (nep-ecm)",
+   "sources": [
+    "NEP 計量経済学 (nep-ecm)"
+   ],
+   "groups": [
+    "ecm"
+   ],
+   "countries": [],
+   "tags": [
+    "latent embedding;rotation method;folded concave loss;non-convex optimisation;local quadratic approximation"
+   ],
+   "first_seen": "2026-11-19",
+   "japan": false,
+   "econometrics": true,
+   "lang": "en"
+  },
+  "t:homophillyandtransitivityindynamicnetworkformation": {
+   "title": "Homophilly and transitivity in dynamic network formation",
+   "url": "https://d.repec.org/n?u=RePEc:azt:cemmap:18/26&r=&r=ecm",
+   "authors": [
+    "Kevin Dano",
+    "Bryan S. Graham",
+    "Yassine Sbai Sassi"
+   ],
+   "date": "2026-10-22",
+   "abstract": "In social and economic networks linked agents often share connections in common. There are two competing explanations for this phenomenon. First, agents may have a structural taste for transitive links â€“ the returns to linking may be higher if two agents share a common connection. Second, agents may assortatively match on unobserved attributes, a process called homophily. We study parameter identifiability in a simple model of dynamic network formation with both effects. Agents form, maintain, and dissolve links over time to maximize utility. The return to linking may be higher if agents share connections in common. A pair-specific utility component allows for arbitrary homophily on time-i",
+   "doi": "",
+   "venue": "NEP 計量経済学 (nep-ecm)",
+   "sources": [
+    "NEP 計量経済学 (nep-ecm)"
+   ],
+   "groups": [
+    "ecm"
+   ],
+   "countries": [],
+   "tags": [],
+   "first_seen": "2026-11-19",
+   "japan": false,
+   "econometrics": true,
+   "lang": "en"
+  },
+  "t:wejustcreatedmorethan1000syntheticcontrolstostudycalifornias20fastfoodminimumwage": {
+   "title": "We Just Created More Than 1, 000 Synthetic Controls To Study California's $20 Fast Food Minimum Wage",
+   "url": "https://d.repec.org/n?u=RePEc:nbr:nberwo:35931&r=&r=ecm",
+   "authors": [
+    "Jeffrey Clemens",
+    "Olivia Edwards",
+    "Jonathan Meer",
+    "Joshua D. Nguyen"
+   ],
+   "date": "2026-10-01",
+   "abstract": "Synthetic control methods hold the promise of identifying a credible counterfactual by closely reproducing pretreatment outcome paths. Their reliability, however, depends in part on how effectively they constrain researchers’ less-visible degrees of freedom. We explore these methods’ sensitivity by constructing 1440 plausibly defensible specifications to estimate the employment effect of California’s $20 fast-food minimum wage. While over 96 percent of the estimated employment effects are negative, the range is vast, illustrating that synthetic control methods are sensitive to specification choice. Estimates from simpler and far more transparent difference-in-differences methods lie near the",
+   "doi": "",
+   "venue": "NEP 計量経済学 (nep-ecm)",
+   "sources": [
+    "NEP 計量経済学 (nep-ecm)"
+   ],
+   "groups": [
+    "ecm"
+   ],
+   "countries": [],
+   "tags": [],
+   "first_seen": "2026-11-19",
+   "japan": false,
+   "econometrics": true,
+   "lang": "en"
+  },
+  "t:regimedetectioninlatentfactormodelsabayesiandecisiontheoreticapproach": {
+   "title": "Regime Detection in Latent Factor Models -- A Bayesian Decision-Theoretic Approach",
+   "url": "https://d.repec.org/n?u=RePEc:arx:papers:2610.20366&r=&r=ets",
+   "authors": [
+    "Karl Kristian Engelund"
+   ],
+   "date": "2026-10-01",
+   "abstract": "Regime-switching multi-factor models are widely used in quantitative finance, but filtering does not by itself determine when an agent should act on inferred regime changes. We formulate online regime detection with latent factors and hidden regimes as a Bayesian decision problem balancing false alarms, detection delay, and misclassification. Since posterior regime probabilities are generally non-Markovian, the problem is represented as a measure-valued optimal stopping problem and approximated using particle filtering with Monte Carlo dynamic programming. A single-change-point Heston model provides a benchmark. With observed variance, the problem reduces to a two-dimensional Markov free-bou",
+   "doi": "",
+   "venue": "NEP 計量時系列 (nep-ets)",
+   "sources": [
+    "NEP 計量時系列 (nep-ets)"
+   ],
+   "groups": [
+    "ecm"
+   ],
+   "countries": [],
+   "tags": [],
+   "first_seen": "2026-11-19",
+   "japan": false,
+   "econometrics": true,
+   "lang": "en"
+  },
+  "t:forecastingthepostcovidinflationsurgeinswitzerland": {
+   "title": "Forecasting the post-COVID inflation surge in Switzerland",
+   "url": "https://d.repec.org/n?u=RePEc:snb:snbwpa:2026-14&r=&r=ets",
+   "authors": [
+    "Simon Beyeler"
+   ],
+   "date": "2026-01-01",
+   "abstract": "The surge in inflation after the COVID-19 pandemic caught forecasters and policy makers by surprise: shocks treated as transitory turned out to be persistent, producing large forecast errors. Watson (2026) asks whether the U.S. surge could instead have been recognised as persistent in real time using Unobserved-Components Stochastic Volatility (UC-SV) models. This paper replicates and extends that exercise for Switzerland, using (i) total Swiss CPI inflation and (ii) sectoral inflation for 22 expenditure groups - both extended with an explicit seasonal component since the Swiss CPI is not seasonally adjusted. Both models attribute the bulk of the 2021-2023 Swiss surge to the permanent trend ",
+   "doi": "",
+   "venue": "NEP 計量時系列 (nep-ets)",
+   "sources": [
+    "NEP 計量時系列 (nep-ets)",
+    "NEP 金融政策 (nep-mon)"
+   ],
+   "groups": [
+    "ecm",
+    "global"
+   ],
+   "countries": [],
+   "tags": [
+    "Inflation persistence, Unobserved components, Stochastic volatility, Bayesian Gibbs sampling, Seasonal adjustment, Switzerland, COVID-19"
+   ],
+   "first_seen": "2026-11-19",
+   "japan": false,
+   "econometrics": true,
+   "lang": "en"
+  },
+  "t:anewgausssoftwarecomponentforimplementingdynamictestsofcontagionwithanapplication": {
+   "title": "A New GAUSS Software Component for Implementing Dynamic Tests of Contagion with an Application",
+   "url": "https://d.repec.org/n?u=RePEc:arx:papers:2610.41740&r=&r=ets",
+   "authors": [
+    "Abdulnasser Hatemi-J",
+    "Alan Mustafa"
+   ],
+   "date": "2026-10-01",
+   "abstract": "The main goal of this article is to present a new software component created by the authors in GAUSS for implementing dynamic tests for contagion. These tests are aimed at providing the possibilities of testing for spiller-over effects between financial markets during a crisis or during a pandemic situation such as the one that we experienced recently. Unlike standard tests for contagion that have fixed dates for a potential shift, the tests implemented here are dynamic in the sense that the potential contagion effect is measured across the time span. The leverage bootstrap simulation technique is utilized in order to generate critical values that are reliable when the tests are implemented ",
+   "doi": "",
+   "venue": "NEP 計量時系列 (nep-ets)",
+   "sources": [
+    "NEP 計量時系列 (nep-ets)"
+   ],
+   "groups": [
+    "ecm"
+   ],
+   "countries": [],
+   "tags": [],
+   "first_seen": "2026-11-19",
+   "japan": false,
+   "econometrics": true,
+   "lang": "en"
+  },
+  "t:howmarketvolatilityrespondstoaprecedingpricetrendalagresolvedmeasurementincryptocurrenciesandequities": {
+   "title": "How market volatility responds to a preceding price trend: a lag-resolved measurement in cryptocurrencies and equities",
+   "url": "https://d.repec.org/n?u=RePEc:arx:papers:2611.04533&r=&r=ets",
+   "authors": [
+    "Gulsah Bicki",
+    "Taylan Akdogan"
+   ],
+   "date": "2026-11-01",
+   "abstract": "We quantify the response of market volatility to a preceding price trend as a function of lag at minute resolution. The asymmetry of the response is investigated. The sample consists of trades in three of the largest cryptocurrencies on a single exchange and in three large US stocks and the S&P 500 exchange-traded fund between 2020 and 2026. For the cryptocurrencies the asymmetry is positive, matching the sign of the leverage effect. It follows the trend: it is greatest at the first measurable lag, 20 minutes, and weak at negative lags, where the trend follows the volatility. At those lags a scan over window lengths resolves a small component of opposite sign that has not yet been disentangl",
+   "doi": "",
+   "venue": "NEP 計量時系列 (nep-ets)",
+   "sources": [
+    "NEP 計量時系列 (nep-ets)"
+   ],
+   "groups": [
+    "ecm"
+   ],
+   "countries": [],
+   "tags": [],
+   "first_seen": "2026-11-19",
+   "japan": false,
+   "econometrics": true,
+   "lang": "en"
+  },
+  "t:thecomplementarityofpolicyinstrumentsinanopeneconomysubjecttovolatilecapitalflows": {
+   "title": "The Complementarity of Policy Instruments in an Open Economy Subject to Volatile Capital Flows",
+   "url": "https://d.repec.org/n?u=RePEc:een:camaaa:2026-96&r=&r=mon",
+   "authors": [
+    "Alfred V Guender"
+   ],
+   "date": "2026-11-01",
+   "abstract": "This paper highlights the complementarity of multiple policy instruments in an open economy subject to volatile capital flows. The central bank operates under a broad mandate and implements optimal policy with discretion. With three policy instruments - the policy rate, an interest equalization measure, and foreign exchange market intervention - the central bank restores the output-inflation trade-off in the canonical closed-economy New Keynesian model. It also achieves perfect stabilization of undesirable hot money flows and insulates the domestic economy, inflation, and the real exchange rate from foreign monetary policy and other demand-side shocks.",
+   "doi": "",
+   "venue": "NEP 金融政策 (nep-mon)",
+   "sources": [
+    "NEP 金融政策 (nep-mon)"
+   ],
+   "groups": [
+    "global"
+   ],
+   "countries": [],
+   "tags": [
+    "optimal policy, capital flows, instruments, target rules, trade-offs, insulation"
+   ],
+   "first_seen": "2026-11-19",
+   "japan": false,
+   "econometrics": false,
+   "lang": "en"
+  },
+  "t:usmonetarypolicymacroeconomicnewsandtheglobalseculardeclineofinterestrates": {
+   "title": "US monetary policy, macroeconomic news and the global secular decline of interest rates",
+   "url": "https://d.repec.org/n?u=RePEc:bis:biswps:1393&r=&r=mon",
+   "authors": [
+    "Boris Hofmann",
+    "Zehao Li",
+    "Steve Pak Yeung Wu"
+   ],
+   "date": "2026-11-01",
+   "abstract": "The global secular decline in long-term interest rates since the 1990s has been largely driven by cumulative yield changes during U.S. monetary policy announcement windows (FOMC windows). We document this FOMC-window effect for a group of ten major advanced economies. Based on a term structure model, we show that the effect operates through the expected path of future short-term interest rates rather than term premia. We further find that the global secular decline in interest rates has been concentrated in FOMC windows preceded by macroeconomic news. We interpret this pattern as a “Fed response to news” channel and provide empirical evidence to support this interpretation.",
+   "doi": "",
+   "venue": "NEP 金融政策 (nep-mon)",
+   "sources": [
+    "NEP 金融政策 (nep-mon)"
+   ],
+   "groups": [
+    "global"
+   ],
+   "countries": [],
+   "tags": [
+    "bank business models, digital banking, platform finance, financial stability, scenario analysis, sensitivity analysis"
+   ],
+   "first_seen": "2026-11-19",
+   "japan": false,
+   "econometrics": false,
+   "lang": "en"
+  },
+  "t:timingmattersnonlinearexchangeratepassthroughandinflationdynamicsinthedemocraticrepublicofcongo": {
+   "title": "Timing Matters: Nonlinear Exchange Rate Pass-Through and Inflation Dynamics in the Democratic Republic of Congo",
+   "url": "https://d.repec.org/n?u=RePEc:osf:socarx:zk42y_v1&r=&r=mon",
+   "authors": [
+    "Pinshi, Christian P.",
+    "Ngunza, Kevin M.",
+    "Emmanuel, Sungani"
+   ],
+   "date": "2026-10-28",
+   "abstract": "This paper investigates the exchange rate pass-through to inflation in the Democratic Republic of Congo within a nonlinear framework, using a Nonlinear Autoregressive Distributed Lag model. In a context marked by a recent transition toward an appreciation of the Congolese franc, the findings reveal the existence of a long-run relationship, as well as a significant asymmetry in the pass-through mechanism. Depreciations are transmitted rapidly and significantly to inflation, whereas appreciations generate slower and more delayed disinflationary effects. This asymmetry is primarily expressed in terms of timing rather than magnitude, highlighting an asymmetric price adjustment dynamic. The resul",
+   "doi": "",
+   "venue": "NEP 金融政策 (nep-mon)",
+   "sources": [
+    "NEP 金融政策 (nep-mon)"
+   ],
+   "groups": [
+    "global"
+   ],
+   "countries": [],
+   "tags": [],
+   "first_seen": "2026-11-19",
+   "japan": false,
+   "econometrics": false,
+   "lang": "en"
+  },
+  "t:whofeelstheboomlabormarkettightnessandtheheterogeneousemploymenteffectsofmonetarypolicy": {
+   "title": "Who Feels the Boom? Labor Market Tightness and the Heterogeneous Employment Effects of Monetary Policy",
+   "url": "https://d.repec.org/n?u=RePEc:ajk:ajkdps:446&r=&r=mon",
+   "authors": [
+    "Nittai K. Bergman",
+    "Benjamin Born",
+    "David Matsa",
+    "Michael Weber"
+   ],
+   "date": "2026-11-01",
+   "abstract": "We study how monetary policy affects employment across workers with differing labor-force attachment. Exploiting local labor-market variation, we find that monetary easing disproportionately boosts employment among Black workers, less-educated workers, and women in tighter markets, as measured by the prime-age employment-to-population ratio. A one-standard-deviation federal funds rate cut raises two-year Black employment growth by 0.6 percentage points more in markets at the 90th than the 10th percentile of tightness. These differences persist and are amplified by greater monetary-policy exposure. A model with heterogeneous workers shows how tightness shapes hiring composition while policy e",
+   "doi": "",
+   "venue": "NEP 金融政策 (nep-mon)",
+   "sources": [
+    "NEP 金融政策 (nep-mon)"
+   ],
+   "groups": [
+    "global"
+   ],
+   "countries": [],
+   "tags": [
+    "Monetary Policy, Labor Markets, Labor-Force Attachment, Federal Reserve"
+   ],
+   "first_seen": "2026-11-19",
+   "japan": false,
+   "econometrics": false,
+   "lang": "en"
+  },
+  "t:changingwindscentralbankindependenceaninstitutionalistanalysis": {
+   "title": "Changing Winds: Central Bank Independence, An Institutionalist Analysis",
+   "url": "https://d.repec.org/n?u=RePEc:osf:socarx:2xrqe_v1&r=&r=mon",
+   "authors": [
+    "Issam, Yahya"
+   ],
+   "date": "2026-10-26",
+   "abstract": "The European Central Bank, Federal Reserve and Bank of England enjoy broad and extensive power to determine monetary policy. Yet how exactly do they function, and what mandate do they have over monetary policy? On what epistemological roots does their path-dependent development rest? Given that they are independent from direct political intervention, how can they be held accountable and retain their legitimacy, and what are the consequences when either is lacking? This paper addresses these questions through the lens of institutional economics, through a qualitative historical-institutional analysis of documents produced by the central banks themselves and by political actors engaging with t",
+   "doi": "",
+   "venue": "NEP 金融政策 (nep-mon)",
+   "sources": [
+    "NEP 金融政策 (nep-mon)"
+   ],
+   "groups": [
+    "global"
+   ],
+   "countries": [],
+   "tags": [],
+   "first_seen": "2026-11-19",
+   "japan": false,
+   "econometrics": false,
+   "lang": "en"
+  },
+  "t:unconventionalmonetarypolicyanddepositretention": {
+   "title": "Unconventional Monetary Policy and Deposit Retention",
+   "url": "https://d.repec.org/n?u=RePEc:nbr:nberwo:35985&r=&r=mon",
+   "authors": [
+    "Philip Strahan",
+    "Tuo Yang"
+   ],
+   "date": "2026-11-01",
+   "abstract": "The two dimensions of unconventional monetary policy — holding the short rate at the zero-lower bound (ZLB) and quantitative easing (QE) — shifted deposit composition toward more interest-sensitive customers. The ZLB drew these customers by creating rate compression, which limited the benefit of searching for high-yielding liquidity sources. QE also drew rate-sensitive, large depositors from the Federal Reserve’s purchases of bonds from non-banks. Once policy normalized, flow sensitivity and the deposit beta both increased with exposure to QE and the ZLB. We conclude that unconventional monetary policy made deposit retention costlier and riskier for banks.",
+   "doi": "",
+   "venue": "NEP 金融政策 (nep-mon)",
+   "sources": [
+    "NEP 金融政策 (nep-mon)"
+   ],
+   "groups": [
+    "global"
+   ],
+   "countries": [],
+   "tags": [],
+   "first_seen": "2026-11-19",
+   "japan": false,
+   "econometrics": false,
+   "lang": "en"
+  },
+  "t:monetaryaggregationincludingriskydigitalassetsaggregationtheoreticexistenceconditionsfordivisiamonetaryaggregatesincludingstablecoins": {
+   "title": "Monetary Aggregation Including Risky Digital Assets: Aggregation Theoretic Existence Conditions for Divisia Monetary Aggregates Including Stablecoins",
+   "url": "https://d.repec.org/n?u=RePEc:kan:wpaper:202619&r=&r=mon",
+   "authors": [
+    "William A. Barnett",
+    "Jinan Liu"
+   ],
+   "date": "2026-11-01",
+   "abstract": "We extend the Divisia monetary aggregation theory of Barnett (1978, 1980) to an economy in which consumers hold both traditional monetary assets and stablecoins. Under intertemporally nonseparable preferences, we derive risk-adjusted user costs for stablecoins that include a friction premium, and we construct a two-level Divisia index of traditional monetary assets and stablecoins. The framework yields three main results. First, an increase in the benchmark rate lowers the user cost of a stablecoin relative to that of a traditional monetary asset, when the stablecoin bears a positive friction premium. Second, stablecoin holdings in monetary aggregates converge to zero as operational friction",
+   "doi": "",
+   "venue": "NEP 金融政策 (nep-mon)",
+   "sources": [
+    "NEP 金融政策 (nep-mon)"
+   ],
+   "groups": [
+    "global"
+   ],
+   "countries": [],
+   "tags": [
+    "Divisia monetary aggregates, stablecoins, user cost, CCAPM, weak separability"
+   ],
+   "first_seen": "2026-11-19",
+   "japan": false,
+   "econometrics": false,
+   "lang": "en"
+  },
+  "t:structuralbreaksinthetaylorrule": {
+   "title": "Structural Breaks in the Taylor Rule",
+   "url": "https://d.repec.org/n?u=RePEc:gwc:wpaper:2026-017&r=&r=mon",
+   "authors": [
+    "Neil R. Ericsson"
+   ],
+   "date": "2026-11-01",
+   "abstract": "Stillwagon (2026) tests extensively for structural breaks in a dynamic Taylor rule for US data and finds no breaks over 2001–2025, whether using Bai–Perron tests or multiplicative indicator saturation. The current paper complements and builds on Stillwagon (2026) by focusing on features specific to three Fed chairs (Bernanke, Yellen, and Powell) during 2006–2025, and on the zero lower bound. The Taylor rule is chair-specific; and the zero lower bound affects the Taylor rule for Yellen’s and Powell’s tenures. These economically significant structural breaks are detectable by multiplicative indicator saturation that focuses on those features, whereas the broad-spectrum multiplicative indicator",
+   "doi": "",
+   "venue": "NEP 金融政策 (nep-mon)",
+   "sources": [
+    "NEP 金融政策 (nep-mon)"
+   ],
+   "groups": [
+    "global"
+   ],
+   "countries": [],
+   "tags": [
+    "dynamics, monetary policy, saturation, structural breaks, Taylor rule"
+   ],
+   "first_seen": "2026-11-19",
+   "japan": false,
+   "econometrics": false,
+   "lang": "en"
+  },
+  "t:fiscalandmonetarypolicyinteractioninrussia2000â2025": {
+   "title": "Fiscal and monetary policy interaction in Russia, 2000â€“2025",
+   "url": "https://d.repec.org/n?u=RePEc:gai:ppaper:ppaper-2026-1672&r=&r=mon",
+   "authors": [
+    "Alexandra Bozhechkova",
+    "Evgeny Goryunov",
+    "Sergey Drobyshevsky",
+    "Sergey Sinelnikov-Murylev",
+    "Pavel Trunin"
+   ],
+   "date": "2026-01-01",
+   "abstract": "The article examines the interaction between monetary and fiscal policy in Russia, with particular attention to the fiscal and monetary sources of changes in high-powered money (the monetary base). The decomposition of changes in the monetary base allows us to split the 2000â€“2025 period into subperiods according to macroeconomic conditions and the policy objectives of the monetary and fiscal authorities. The recent period of 2022â€“2025 is studied in more detail, since the Russian economy was subject to substantial inflationary shocks, fiscal expansion being one of them. We discuss the effectiveness of monetary policy in that period and the role of fiscal policy in narrowing the room for d",
+   "doi": "",
+   "venue": "NEP 金融政策 (nep-mon)",
+   "sources": [
+    "NEP 金融政策 (nep-mon)"
+   ],
+   "groups": [
+    "global"
+   ],
+   "countries": [],
+   "tags": [
+    "Russian economy, monetary base, inflation, sovereign wealth funds, monetary policy, fiscal policy, budget rule, Bank of Russia."
+   ],
+   "first_seen": "2026-11-19",
+   "japan": false,
+   "econometrics": false,
+   "lang": "en"
+  },
+  "t:gainingandlosingcurrencyaglobaldatabaseofcurrencies18502026": {
+   "title": "Gaining (and losing) currency: a global database of currencies, 1850-2026",
+   "url": "https://d.repec.org/n?u=RePEc:bis:biswps:1392&r=&r=mon",
+   "authors": [
+    "Iñaki Aldasoro",
+    "Jon Frost",
+    "Rudraksh Kansal",
+    "Catherine R Schenk"
+   ],
+   "date": "2026-11-01",
+   "abstract": "Over the past two centuries, officially issued currencies have become firmly en trenched as a nearly universal institution in economies around the world. But the path to this arrangement has not been smooth: currencies have come and gone, in line with political changes, periods of hyperinflation or currency reforms and, in some cases, entry into currency unions. With a new global database of historical currencies over 1850–2026, we document 568 currencies, of which 163 are still in use today. The median lifespan of a currency is 33 years, though there is substantial variation: from several currencies that lasted less than a year, to others that have circulated for several centuries. The most",
+   "doi": "",
+   "venue": "NEP 金融政策 (nep-mon)",
+   "sources": [
+    "NEP 金融政策 (nep-mon)"
+   ],
+   "groups": [
+    "global"
+   ],
+   "countries": [],
+   "tags": [
+    "currency, money, fiat money, coins, banknotes, central banks"
+   ],
+   "first_seen": "2026-11-19",
+   "japan": false,
+   "econometrics": false,
+   "lang": "en"
+  },
+  "t:industryspecificcostindicestomonitorpressuresoninflation": {
+   "title": "Industry-specific cost indices to monitor pressures on inflation",
+   "url": "https://d.repec.org/n?u=RePEc:bdm:wpaper:2026-10&r=&r=mon",
+   "authors": [
+    "Regina Briseño",
+    "Angel Espinoza E",
+    "Vicente López",
+    "María José Orraca"
+   ],
+   "date": "2026-11-01",
+   "abstract": "This paper develops a methodology to construct industry-specific cost indices using input-output tables and information on the evolution of input costs. Applying this method to Mexico, monthly cost indices are estimated for each industry at the highest level of disaggregation for the period January 2005 to July 2024 and made publicly available. To illustrate their usefulness, each item in the Consumer Price Index basket is linked to the industry that produces it. Through descriptive exercises, cost indices are argued to provide a useful framework for tracking the evolution and sources of cost pressures across time and for understanding the inflation surge following the COVID-19 pandemic. Fin",
+   "doi": "",
+   "venue": "NEP 金融政策 (nep-mon)",
+   "sources": [
+    "NEP 金融政策 (nep-mon)"
+   ],
+   "groups": [
+    "global"
+   ],
+   "countries": [],
+   "tags": [
+    "Costs;Inflation;COVID-19 pandemic"
+   ],
+   "first_seen": "2026-11-19",
+   "japan": false,
+   "econometrics": false,
+   "lang": "en"
+  },
+  "t:echoesofhyperinflationthelinkbetweenpastexposureandformationofexpectations": {
+   "title": "Echoes of Hyperinflation: The Link Between Past Exposure and Formation of Expectations",
+   "url": "https://d.repec.org/n?u=RePEc:tcb:wpaper:2618&r=&r=mon",
+   "authors": [
+    "Yusuf Emre Akgunduz",
+    "Seyit Mumin Cilasun",
+    "Ahmet Deryol",
+    "Semih Tumen"
+   ],
+   "date": "2026-01-01",
+   "abstract": "This paper studies how lifetime inflation exposure shapes individuals’ inflation expectations, perceptions, and financial behavior. Using a large individual-level dataset from Türkiye spanning 2014 to 2024, combined with detailed measures of past inflation experiences, we show that individuals who have lived through higher inflation consistently report higher expected and perceived inflation. They also respond more strongly to current inflation conditions. The effects are larger for less educated and lower income individuals. In additional analysis, we find that greater lifetime inflation exposure is associated with higher use of retail loans, especially fixed rate loans. These results highl",
+   "doi": "",
+   "venue": "NEP 金融政策 (nep-mon)",
+   "sources": [
+    "NEP 金融政策 (nep-mon)"
+   ],
+   "groups": [
+    "global"
+   ],
+   "countries": [],
+   "tags": [
+    "Inflation expectations, Lifetime exposure, Households"
+   ],
+   "first_seen": "2026-11-19",
+   "japan": false,
+   "econometrics": false,
+   "lang": "en"
+  },
+  "t:howtogrowaninvoicingcurrencymicroevidencefromargentina": {
+   "title": "How to grow an invoicing currency: micro evidence from Argentina",
+   "url": "https://d.repec.org/n?u=RePEc:ehl:lserod:141569&r=&r=mon",
+   "authors": [
+    "Benguria, Felipe",
+    "Novy, Dennis"
+   ],
+   "date": "2025-07-02",
+   "abstract": "How can a currency achieve more widespread international use? We study the internationalization of the Chinese renminbi (RMB) through the lens of a unique policy experiment in Argentina. In 2023, amid a severe dollar shortage, Argentina expanded a currency swap line with the People's Bank of China. Within the next few months, the share of imports from China invoiced in RMB surged rapidly to nearly 50% - displacing the US dollar, which had previously accounted for virtually all invoicing. Following the presidential election of late 2023, as macroeconomic policies changed and the dollar shortage eased, invoicing in RMB declined. We explore the mechanisms behind this aggregate pattern, using ri",
+   "doi": "",
+   "venue": "NEP 金融政策 (nep-mon)",
+   "sources": [
+    "NEP 金融政策 (nep-mon)"
+   ],
+   "groups": [
+    "global"
+   ],
+   "countries": [],
+   "tags": [
+    "banking;central bank;china;geoeconomics;invoicing;lending;renminbi;swap;trade;US dollar"
+   ],
+   "first_seen": "2026-11-19",
+   "japan": false,
+   "econometrics": false,
+   "lang": "en"
+  },
+  "t:cryptocurrenciesandcapitalflowsevidencefromelsalvadorsadoptionofbitcoin": {
+   "title": "Cryptocurrencies and capital flows: evidence from El Salvador’s adoption of Bitcoin",
+   "url": "https://d.repec.org/n?u=RePEc:dar:wpaper:162937&r=&r=mon",
+   "authors": [
+    "Goldbach, Stefan",
+    "Nitsch, Volker"
+   ],
+   "date": "2026-01-01",
+   "abstract": "This paper explores a monetary experiment, the adoption of Bitcoin as legal tender in El Salvador in 2021, to analyse the impact of digital currencies on international capital flows. Using a difference-in-differences approach, we find that, instead of making transfers easier, El Salvador’s official cross-border financial activity has decreased after the monetary change. This finding may reflect an increase in uncertainty. However, it is also in line with findings that link digital assets to illegal activity as previously officially recorded financial transfers may have been replaced by unrecorded activities.",
+   "doi": "",
+   "venue": "NEP 金融政策 (nep-mon)",
+   "sources": [
+    "NEP 金融政策 (nep-mon)"
+   ],
+   "groups": [
+    "global"
+   ],
+   "countries": [],
+   "tags": [],
+   "first_seen": "2026-11-19",
+   "japan": false,
+   "econometrics": false,
+   "lang": "en"
+  },
+  "t:howwillthe340brebatemodelpilotaffectcoveredentityfinancesbycharlesjcourtemanche": {
+   "title": "How Will the 340B Rebate Model Pilot Affect Covered Entity Finances? -- by Charles J. Courtemanche",
+   "url": "https://www.nber.org/papers/w36006#fromrss",
+   "authors": [],
+   "date": "",
+   "abstract": "The Health Resources and Services Administration (HRSA) plans to implement a pilot switching 340B from an upfront discount model to a rebate model for drugs in the Medicare Drug Price Negotiation Program (MDPNP). This study uses calibration methods to predict the impact of the rebate model pilot (RMP) on covered entities’ net revenues from the 340B program. I examine possible losses from averted duplicate discounts; denial of valid claims; manufacturers using data to exert influence; liquidity-related expenses; and administrative and staffing costs. I also project the effects of switching the entire 340B program to a rebate model. I project net revenue losses from the RMP of $1.5 billion. Ex",
+   "doi": "",
+   "venue": "NBER 新着ワーキングペーパー",
+   "sources": [
+    "NBER 新着ワーキングペーパー"
+   ],
+   "groups": [
+    "global"
+   ],
+   "countries": [],
+   "tags": [],
+   "first_seen": "2026-11-19",
+   "japan": false,
+   "econometrics": false,
+   "lang": "en"
+  },
+  "t:horizontalequityoftaxationcitizenbeliefsandpolicypreferencesbypierrebachaschristopherahoyandersjensenmahvishshaukat": {
+   "title": "Horizontal Equity of Taxation: Citizen Beliefs and Policy Preferences -- by Pierre Bachas, Christopher A. Hoy, Anders Jensen, Mahvish Shaukat",
+   "url": "https://www.nber.org/papers/w36007#fromrss",
+   "authors": [],
+   "date": "",
+   "abstract": "Taxes are harder to enforce on the self-employed than on wage earners, creating horizontal inequities among taxpayers with similar incomes. Using tax microsimulation and household survey data from 29 developing countries, we show that horizontal inequities in actual tax systems are comparable in magnitude to vertical equity and are exacerbated by progressive reforms that fall disproportionately on wage earners. We then conduct surveys and randomized information experiments in Pakistan to study public perceptions of these inequities. Although providing information raises fairness concerns, it does not increase support for reforms reducing it, revealing an important political constraint to imp",
+   "doi": "",
+   "venue": "NBER 新着ワーキングペーパー",
+   "sources": [
+    "NBER 新着ワーキングペーパー"
+   ],
+   "groups": [
+    "global"
+   ],
+   "countries": [],
+   "tags": [],
+   "first_seen": "2026-11-19",
+   "japan": false,
+   "econometrics": false,
+   "lang": "en"
+  },
+  "t:monetarypolicyinaphelpswintereconomybybrucecgreenwaldjosephestiglitz": {
+   "title": "Monetary policy in a Phelps–Winter Economy -- by Bruce C. Greenwald, Joseph E. Stiglitz",
+   "url": "https://www.nber.org/papers/w36008#fromrss",
+   "authors": [],
+   "date": "",
+   "abstract": "We use the Phelps-Winter customer market—providing a better theory of price determination for large parts of the economy than the standard model—to show that raising interest rates induces higher prices, as firms value current profits more, and are more willing to lose customers for short-term gains. These inflationary effects can be significant in relevant ranges of interest rates; they exist in the short run even when interest rate hikes succeed in cutting aggregate demand; and that they are amplified by policy uncertainty and the uncertainty about the effects of interest rate changes, both of which have increased as conventional policy has demonstrably failed badly to keep inflation at th",
+   "doi": "",
+   "venue": "NBER 新着ワーキングペーパー",
+   "sources": [
+    "NBER 新着ワーキングペーパー"
+   ],
+   "groups": [
+    "global"
+   ],
+   "countries": [],
+   "tags": [],
+   "first_seen": "2026-11-19",
+   "japan": false,
+   "econometrics": false,
+   "lang": "en"
+  },
+  "t:measuringtheimpactofimpactmeasurementbyemanuelecolonnellitimothymcquadenataliarigolbenjaminnroth": {
+   "title": "Measuring the Impact of Impact Measurement -- by Emanuele Colonnelli, Timothy McQuade, Natalia Rigol, Benjamin N. Roth",
+   "url": "https://www.nber.org/papers/w36009#fromrss",
+   "authors": [],
+   "date": "",
+   "abstract": "Impact measurement is central to impact investing and social entrepreneurship, yet little is known about whether firms benefit privately from measuring impact. We conduct the first randomized controlled trial of an impact measurement intervention among high-growth social enterprises in India. Treated firms exhibit nearly twice as much revenue growth and raise nearly twice as much capital as control firms. In a companion experiment with early-stage investors, we find that investors respond strongly to quantified impact metrics but not to generic qualitative impact statements. Together, our results show that impact measurement can shape firm growth and capital allocation.",
+   "doi": "",
+   "venue": "NBER 新着ワーキングペーパー",
+   "sources": [
+    "NBER 新着ワーキングペーパー"
+   ],
+   "groups": [
+    "global"
+   ],
+   "countries": [],
+   "tags": [],
+   "first_seen": "2026-11-19",
+   "japan": false,
+   "econometrics": false,
+   "lang": "en"
+  },
+  "t:gamblingforgoalsbycostasarkolakisspencerykwondominicrusselclaireshihyunjooyang": {
+   "title": "Gambling for Goals -- by Costas Arkolakis, Spencer Y. Kwon, Dominic Russel, Claire Shi, Hyunjoo Yang",
+   "url": "https://www.nber.org/papers/w36010#fromrss",
+   "authors": [],
+   "date": "",
+   "abstract": "Young adults in advanced economies have grown more pessimistic about their economic prospects in recent years. At the same time, gambling-like financial activities have proliferated. We link these trends through a Friedman-Savage (1948) motive: when life goals such as homeownership or marriage seem out of reach, individuals turn to financial gambles. We test this theory using an original survey combined with millions of linked records from Korea’s leading credit bureau, telecom provider, and credit card issuer. Consistent with the theory, individuals who place greater importance on hard-to-reach goals take more risk, and the form of risk they take varies systematically with their distance fr",
+   "doi": "",
+   "venue": "NBER 新着ワーキングペーパー",
+   "sources": [
+    "NBER 新着ワーキングペーパー"
+   ],
+   "groups": [
+    "global"
+   ],
+   "countries": [],
+   "tags": [],
+   "first_seen": "2026-11-19",
+   "japan": false,
+   "econometrics": false,
+   "lang": "en"
+  },
+  "t:investmentandgovernancethroughthelensofsustainabilitybyjitendraaswanirobertorigobon": {
+   "title": "Investment and Governance: Through The Lens of Sustainability -- by Jitendra Aswani, Roberto Rigobon",
+   "url": "https://www.nber.org/papers/w36011#fromrss",
+   "authors": [],
+   "date": "",
+   "abstract": "Using 3,944 sustainable bond issuances by public firms from 2013 to 2022, we examine the causal effect of sustainable investment on governance adoption. A heteroskedasticity-based identification strategy reveals that a 1% increase in sustainable debt (by total debt) raises the likelihood of sustainable governance adoption by 9.2%. Such adoption improves environmental performance by 16% (structural estimates). These effects are confined to non-financial firms; for financial firms, governance adoption alone is in-sufficient, as sustainable loan borrowers environmental performance does not improve. Firms with stronger environmental performance are less likely to adopt sustainable governance. Re",
+   "doi": "",
+   "venue": "NBER 新着ワーキングペーパー",
+   "sources": [
+    "NBER 新着ワーキングペーパー"
+   ],
+   "groups": [
+    "global"
+   ],
+   "countries": [],
+   "tags": [],
+   "first_seen": "2026-11-19",
+   "japan": false,
+   "econometrics": false,
+   "lang": "en"
+  },
+  "t:lastmiledeliveryandthefutureofaidbyerikadeserrannoandreaguarisonancyqian": {
+   "title": "Last-Mile Delivery and the Future of Aid -- by Erika Deserranno, Andrea Guariso, Nancy Qian",
+   "url": "https://www.nber.org/papers/w36012#fromrss",
+   "authors": [],
+   "date": "",
+   "abstract": "Foreign aid seeks to provide basic services, such as health care and education, to poor and vulnerable populations. Its effectiveness depends on last-mile delivery: whether those services reach the people who need them. This article reviews evidence on two key aspects of last-mile delivery. The first concerns the growing role of non-state providers, especially NGOs, and its implication for state’s capacity to deliver services and coordinate across providers. The second concerns the selection, motivation, and management of frontline workers who provide the services directly to beneficiaries. We argue that decisions about aid allocation and withdrawal should account for the but can quickly ero",
+   "doi": "",
+   "venue": "NBER 新着ワーキングペーパー",
+   "sources": [
+    "NBER 新着ワーキングペーパー"
+   ],
+   "groups": [
+    "global"
+   ],
+   "countries": [],
+   "tags": [],
+   "first_seen": "2026-11-19",
+   "japan": false,
+   "econometrics": false,
+   "lang": "en"
+  },
+  "t:irregulardemandtheanticompromiseeffectinthefieldbynicolagennaiolijohnalistmatthiasrodemeiergregoryksun": {
+   "title": "Irregular Demand: The Anti-Compromise Effect in the Field -- by Nicola Gennaioli, John A. List, Matthias Rodemeier, Gregory K. Sun",
+   "url": "https://www.nber.org/papers/w36013#fromrss",
+   "authors": [],
+   "date": "",
+   "abstract": "Neoclassical demand obeys regularity: adding a good can only draw demand away from existing goods. In a natural field experiment with Lyft covering 7.2 million riders and 47 million choices, we randomize the presence and price of a premium ride. Contrary to regularity, the premium ride raises demand for the cheapest incumbent and for not buying. The effect grows with the premium price and with repeated exposure, and persists in sessions where the premium ride is not displayed. Rational inference and inattention cannot account for these facts. A model in which a surprisingly high price, cued on the app and retrieved from memory, draws attention to prices explains them.",
+   "doi": "",
+   "venue": "NBER 新着ワーキングペーパー",
+   "sources": [
+    "NBER 新着ワーキングペーパー"
+   ],
+   "groups": [
+    "global"
+   ],
+   "countries": [],
+   "tags": [],
+   "first_seen": "2026-11-19",
+   "japan": false,
+   "econometrics": false,
+   "lang": "en"
+  },
+  "t:thelabormarketimpactoftemporaryhighskillimmigrationprogramsbygeorgejborjas": {
+   "title": "The Labor Market Impact of Temporary High-Skill Immigration Programs -- by George J. Borjas",
+   "url": "https://www.nber.org/papers/w36014#fromrss",
+   "authors": [],
+   "date": "",
+   "abstract": "In 2019, about 1.2 million foreign workers were employed through temporary high-skill programs, including H-1B and OPT. This paper identifies likely temporary workers in the American Community Survey and measures their supply by education and field of degree. Natives in the most exposed skill groups experienced slower earnings growth and a relative decline in full-time year-round work. Many temporary workers stay after their status ends, but surveys cannot identify these stayers. A model of temporary inflows and stayers shows that, under specified conditions, the coefficient from an IV regression of native outcomes on the number of current temporary workers embodies a stayer multiplier, capt",
+   "doi": "",
+   "venue": "NBER 新着ワーキングペーパー",
+   "sources": [
+    "NBER 新着ワーキングペーパー"
+   ],
+   "groups": [
+    "global"
+   ],
+   "countries": [],
+   "tags": [],
+   "first_seen": "2026-11-19",
+   "japan": false,
+   "econometrics": false,
+   "lang": "en"
+  },
+  "t:educationandgendervotingpolarizationtheeffectofcompulsoryschoolingonsexbasedpreferencesforthedemocraticandrepublicanpartiesbyphilipdeciccaharrykrashinskyeriktnesson": {
+   "title": "Education and Gender Voting Polarization: The Effect of Compulsory Schooling on Sex-Based Preferences for the Democratic and Republican Parties -- by Philip DeCicca, Harry Krashinsky, Erik T. Nesson",
+   "url": "https://www.nber.org/papers/w36015#fromrss",
+   "authors": [],
+   "date": "",
+   "abstract": "One of the most notable developments in U.S. electoral politics over the last 40 years is the increasing divide between men and women voters. While men and women had roughly equivalent levels of support for both the Democratic and Republican parties in 1980, more recent surveys have revealed a roughly 10 to 15-percentage-point gap in preference for the Democratic party among women relative to men. We explain this result by using a variety of econometric strategies to establish a novel connection between compulsory schooling laws (CSLs), educational attainment, and diverging political preferences by sex. First, we show that the timing of this divergence is coincident with recent changes in CS",
+   "doi": "",
+   "venue": "NBER 新着ワーキングペーパー",
+   "sources": [
+    "NBER 新着ワーキングペーパー"
+   ],
+   "groups": [
+    "global"
+   ],
+   "countries": [],
+   "tags": [],
+   "first_seen": "2026-11-19",
+   "japan": false,
+   "econometrics": false,
+   "lang": "en"
+  },
+  "t:anoddapproximationofinflationforstatedependentpricingmodelsbylucagagliardonemarkgertlersimonelenzujoristielensalmahdiebsim": {
+   "title": "An Odd Approximation of Inflation for State Dependent Pricing Models -- by Luca Gagliardone, Mark Gertler, Simone Lenzu, Joris Tielens, Al-Mahdi Ebsim",
+   "url": "https://www.nber.org/papers/w36016#fromrss",
+   "authors": [],
+   "date": "",
+   "abstract": "We derive an aggregate state-space representation of state-dependent pricing models with random menu costs and strategic complementarities. The representation, derived from first principles, replaces the cross-sectional distribution of price gaps with a finite set of its moments (the first three), while preserving the key economic forces of state-dependent pricing--movements in the frequency of price adjustment and selection. Along the impulse response, inflation is an odd (cubic) polynomial in the average price gap. Embedded in a general equilibrium setting, the model can be solved by perturbation, filtered, and estimated with standard DSGE tools, and it matches well the global solution acr",
+   "doi": "",
+   "venue": "NBER 新着ワーキングペーパー",
+   "sources": [
+    "NBER 新着ワーキングペーパー"
+   ],
+   "groups": [
+    "global"
+   ],
+   "countries": [],
+   "tags": [],
+   "first_seen": "2026-11-19",
+   "japan": false,
+   "econometrics": false,
+   "lang": "en"
+  },
+  "t:feregfasthighdimensionalfixedeffectsregressionsinstatabyjohannesfschmieder": {
+   "title": "fereg: Fast High-Dimensional Fixed-Effects Regressions in Stata -- by Johannes F. Schmieder",
+   "url": "https://www.nber.org/papers/w36017#fromrss",
+   "authors": [],
+   "date": "",
+   "abstract": "Regressions with many fixed effects are central to applied research, but fitting them to large datasets can be slow. In this article, I present the commands fereg and feppml, which fit linear and Poisson pseudo-maximum-likelihood regressions with high-dimensional fixed effects. Both commands use familiar Stata syntax and pass the computation to a compiled plugin. The plugin chooses among projection, Krylov, and multigrid solvers according to the structure of the fixed effects, checks every result before posting it, and runs on several processor cores. The commands support multiple and interacted fixed effects, group-specific slopes, regression weights, robust and multiway clustered standard ",
+   "doi": "",
+   "venue": "NBER 新着ワーキングペーパー",
+   "sources": [
+    "NBER 新着ワーキングペーパー"
+   ],
+   "groups": [
+    "global"
+   ],
+   "countries": [],
+   "tags": [],
+   "first_seen": "2026-11-19",
+   "japan": false,
+   "econometrics": false,
+   "lang": "en"
+  },
+  "t:decodingsuccessphonicsbasedinstructionandstudentachievementbyalexhollingsworthalbertoorteganikolaoszirogiannis": {
+   "title": "Decoding Success: Phonics-based Instruction and Student Achievement -- by Alex Hollingsworth, Alberto Ortega, Nikolaos Zirogiannis",
+   "url": "https://www.nber.org/papers/w36018#fromrss",
+   "authors": [],
+   "date": "",
+   "abstract": "Reading is a foundational skill, yet fewer than one in three US fourth graders read at a proficient level. How best to teach reading and improve educational attainment has been an active policy debate for decades. Recently, phonics-based approaches have surged in popularity, even though the largest attempt to put similar methods into classrooms was previously abandoned out of concerns that the program was ineffective. This paper studies Reading First, a nearly $1 billion per year federal program established under No Child Left Behind that promoted phonics-based instruction in K-3 classrooms. Exploiting administrative data from Texas and program eligibility formulas, we estimate effects via d",
+   "doi": "",
+   "venue": "NBER 新着ワーキングペーパー",
+   "sources": [
+    "NBER 新着ワーキングペーパー"
+   ],
+   "groups": [
+    "global"
+   ],
+   "countries": [],
+   "tags": [],
+   "first_seen": "2026-11-19",
+   "japan": false,
+   "econometrics": false,
+   "lang": "en"
+  },
+  "t:economicsofmentalhealthbyjanetcurrienmeltemdaysal": {
+   "title": "Economics of Mental Health -- by Janet Currie, N. Meltem Daysal",
+   "url": "https://www.nber.org/papers/w36019#fromrss",
+   "authors": [],
+   "date": "",
+   "abstract": "This chapter provides an overview of the rapidly evolving economics literature on mental health, focusing on research published since 2015. This literature has grown substantially, reflecting the increased recognition of the prevalence and economic costs of mental illness, declining stigma, and the growing availability of data on mental health. In addition to the economic costs of mental illness, the review focuses on four broad classes of determinants of mental health: endowments, economic resources, education, and trauma. We also examine the determinants and effects of mental health treatment. Finally, we discuss how certain features of mental illness, including its episodic and recurrent ",
+   "doi": "",
+   "venue": "NBER 新着ワーキングペーパー",
+   "sources": [
+    "NBER 新着ワーキングペーパー"
+   ],
+   "groups": [
+    "global"
+   ],
+   "countries": [],
+   "tags": [],
+   "first_seen": "2026-11-19",
+   "japan": false,
+   "econometrics": false,
+   "lang": "en"
+  },
+  "t:theeffectsofyearsofhealthinsuranceonthehealthofolderadultsbyyuliukevincallisonrobertkaestner": {
+   "title": "The Effects of Years of Health Insurance on the Health of Older Adults -- by Yu Liu, Kevin Callison, Robert Kaestner",
+   "url": "https://www.nber.org/papers/w36020#fromrss",
+   "authors": [],
+   "date": "",
+   "abstract": "Whether longer exposure to health insurance improves health remains an open empirical question. This study examines the health effects of an additional year of health insurance coverage by exploiting differential changes in coverage pre-to-post implementation of the Affordable Care Act (ACA) for those who were and were not insured prior to the ACA. Using longitudinal data from the Health and Retirement Study (HRS), we instrument for insurance duration using baseline uninsured status interacted with the post-ACA period. We find that the ACA increased insurance coverage by approximately one additional year among previously uninsured respondents relative to those insured at baseline. Instrument",
+   "doi": "",
+   "venue": "NBER 新着ワーキングペーパー",
+   "sources": [
+    "NBER 新着ワーキングペーパー"
+   ],
+   "groups": [
+    "global"
+   ],
+   "countries": [],
+   "tags": [],
+   "first_seen": "2026-11-19",
+   "japan": false,
+   "econometrics": false,
+   "lang": "en"
+  },
+  "t:impactsofaiinhighereducationapanelsurveyofundergraduatesbybrucesacerdotemasonparrisbacon": {
+   "title": "Impacts of AI in Higher Education: A Panel Survey of Undergraduates -- by Bruce Sacerdote, Mason Parris-Bacon",
+   "url": "https://www.nber.org/papers/w36021#fromrss",
+   "authors": [],
+   "date": "",
+   "abstract": "We report findings from the first wave of a survey of undergraduates including separate samples of Dartmouth students, graduating high school seniors, and U.S. college students more broadly. Students report extensive use of AI both for tasks which are likely harmful to learning and tasks which are likely helpful to learning. Students report much higher peer misuse of AI relative to reports of own misuse. Ninety-two percent of students agree or strongly agree that use of AI is harmful to writing. Use of graded out-of-class assignments has become increasingly unfair due to cheating with AI. But students see the value of using AI to answer conceptual questions in real time, create practice quiz",
+   "doi": "",
+   "venue": "NBER 新着ワーキングペーパー",
+   "sources": [
+    "NBER 新着ワーキングペーパー"
+   ],
+   "groups": [
+    "global"
+   ],
+   "countries": [],
+   "tags": [],
+   "first_seen": "2026-11-19",
+   "japan": false,
+   "econometrics": false,
+   "lang": "en"
+  },
+  "t:thelastarbitragecapitalflowsdevelopmentandinfrastructureasanassetclassbyanushacharimonroegamblepeterblairhenry": {
+   "title": "The Last Arbitrage? Capital Flows, Development, and Infrastructure as an Asset Class -- by Anusha Chari, Monroe Gamble, Peter Blair Henry",
+   "url": "https://www.nber.org/papers/w36022#fromrss",
+   "authors": [],
+   "date": "",
+   "abstract": "Lucas (1990) asked why capital does not flow from rich to poor countries. When poor countries opened their stock markets to foreign investors in the late 1980s, it did: rich-country capital arbitraged away the excess return on emerging-market equity and created a new asset class. Infrastructure may offer the last such arbitrage. The median social return on paved roads in poor countries was 3.7 times the return on U.S. capital at the time of liberalization, but investors capture only the share of social returns that contracts, user fees, and political risk allow, a constraint we call the private foreign hurdle. Confidential IFC data show that its infrastructure equity portfolio outperformed t",
+   "doi": "",
+   "venue": "NBER 新着ワーキングペーパー",
+   "sources": [
+    "NBER 新着ワーキングペーパー"
+   ],
+   "groups": [
+    "global"
+   ],
+   "countries": [],
+   "tags": [],
+   "first_seen": "2026-11-19",
+   "japan": false,
+   "econometrics": false,
+   "lang": "en"
+  },
+  "t:theroleofparentalbeliefsandpublicpoliciesinfinancinghighereducationanexperimentalstudybyfrancescoagostinelliguglielmobriscesegiovannimtopa": {
+   "title": "The Role of Parental Beliefs and Public Policies in Financing Higher Education: An Experimental Study -- by Francesco Agostinelli, Guglielmo Briscese, Giovanni M. Topa",
+   "url": "https://www.nber.org/papers/w36023#fromrss",
+   "authors": [],
+   "date": "",
+   "abstract": "Parents who want to financially support their child’s pursuit of higher education must save against assumptions about what college will cost and how it will be funded. This study examines how parental beliefs and future borrowing costs shape college saving decisions. Through a survey experiment with an embedded financial planning tool, we elicit parental beliefs about the future costs of college and their expectations of different funding sources, including financial aid and student loans. We find that nearly all parents want to cover some of the future costs of college, but many may fall short in their savings due to underestimating future expenses and overestimating available financial aid",
+   "doi": "",
+   "venue": "NBER 新着ワーキングペーパー",
+   "sources": [
+    "NBER 新着ワーキングペーパー"
+   ],
+   "groups": [
+    "global"
+   ],
+   "countries": [],
+   "tags": [],
+   "first_seen": "2026-11-19",
+   "japan": false,
+   "econometrics": false,
+   "lang": "en"
+  },
+  "t:agingandstructuralchangecostdiseaseinthecaresectorbynickpretnarfinnkydlandtonyaykydland": {
+   "title": "Aging and Structural Change: Cost Disease in the Care Sector -- by Nick Pretnar, Finn Kydland, Tonya Y. Kydland",
+   "url": "https://www.nber.org/papers/w36024#fromrss",
+   "authors": [],
+   "date": "",
+   "abstract": "For most of the service sector, market productivity growth has pulled production out of the home. We show that formal nursing care is an exception because its productivity growth has been negative. A two-sector general equilibrium overlapping generations model with informal care attributes the rise in formal care's relative price to this decline, not demography. Care/non-care complementarity dominates formal/informal complementarity. As formal prices rise, elders substitute non-care consumption for formal care, shifting care onto informal caregivers. Population aging need not slow growth if non-care productivity rises or entering cohorts grow and its effects are offset by declining care need",
+   "doi": "",
+   "venue": "NBER 新着ワーキングペーパー",
+   "sources": [
+    "NBER 新着ワーキングペーパー"
+   ],
+   "groups": [
+    "global"
+   ],
+   "countries": [],
+   "tags": [],
+   "first_seen": "2026-11-19",
+   "japan": false,
+   "econometrics": false,
+   "lang": "en"
+  },
+  "t:thehealtheffectsofeatingredmeatanaturalexperimentinalphagalsyndromebyvishalpatelchristophermworshammichaelliuhassanupamjena": {
+   "title": "The Health Effects of Eating Red Meat: A Natural Experiment in Alpha-Gal Syndrome -- by Vishal Patel, Christopher M. Worsham, Michael Liu-Hass, Anupam Jena",
+   "url": "https://www.nber.org/papers/w36025#fromrss",
+   "authors": [],
+   "date": "",
+   "abstract": "Observational associations between red meat consumption and cardiometabolic disease are confounded by diet and other health behaviors. Alpha-gal syndrome, a tick-borne allergy to mammalian meat, leads to an abrupt and involuntary cessation of red meat consumption. Using national electronic health records, we compared changes in weight and cardiometabolic health over two years before and after newly detected alpha-gal syndrome with those in patients with other tick-borne diseases, who were also bitten and sought care but whose diagnoses carry no dietary restriction. Relative to this comparison group, diagnosis of alpha-gal syndrome led to a sustained 0.8 kg (95% CI, 0.6 to 1.0) reduction in b",
+   "doi": "",
+   "venue": "NBER 新着ワーキングペーパー",
+   "sources": [
+    "NBER 新着ワーキングペーパー"
+   ],
+   "groups": [
+    "global"
+   ],
+   "countries": [],
+   "tags": [],
+   "first_seen": "2026-11-19",
+   "japan": false,
+   "econometrics": false,
+   "lang": "en"
+  },
+  "t:crimeonicelocalpolicebehaviorandimmigrationenforcementintheunitedstatesbyjohnjdonohuetaimarkmanericabaldwin": {
+   "title": "Crime on ICE: Local Police Behavior and Immigration Enforcement in the United States -- by John J. Donohue, Tai Markman, Eric A. Baldwin",
+   "url": "https://www.nber.org/papers/w36026#fromrss",
+   "authors": [],
+   "date": "",
+   "abstract": "A growing number of local police departments now hold authority to enforce federal immigration law, a role traditionally reserved for federal officers. Despite claims that this authority enhances public safety, empirical evidence remains limited. Using FBI Uniform Crime Report data from 2000–2024, we exploit staggered adoption across U.S. jurisdictions to estimate causal effects on policing. We find that this enforcement authority increases arrests for low-level, discretionary offenses by approximately 7%, with no corresponding decreases in offense rates or serious crime. These results suggest that such agreements realign police priorities toward discretionary enforcement without measurable ",
+   "doi": "",
+   "venue": "NBER 新着ワーキングペーパー",
+   "sources": [
+    "NBER 新着ワーキングペーパー"
+   ],
+   "groups": [
+    "global"
+   ],
+   "countries": [],
+   "tags": [],
+   "first_seen": "2026-11-19",
+   "japan": false,
+   "econometrics": false,
+   "lang": "en"
+  },
+  "t:federaleminentdomainandinterstateenergyinfrastructureevidencefromhistorybyzacharyliscowjosephsshapiroheidilwilliams": {
+   "title": "Federal Eminent Domain and Interstate Energy Infrastructure: Evidence from History -- by Zachary Liscow, Joseph S. Shapiro, Heidi L. Williams",
+   "url": "https://www.nber.org/papers/w36027#fromrss",
+   "authors": [],
+   "date": "",
+   "abstract": "We analyze a historical episode to generate evidence on how federal eminent domain authority affected construction of energy transportation infrastructure. The 1947 amendment to the Natural Gas Act gave federally approved interstate natural gas pipelines the power to acquire rights of way by eminent domain when negotiations with landowners failed. We compare construction of interstate gas pipelines with construction of oil pipelines and of within-state gas pipelines, neither of which was directly affected by the reform, using newly digitized historical government records and trade press listings. After 1947, annual additions to interstate gas pipeline mileage rose nearly sixfold while oil pi",
+   "doi": "",
+   "venue": "NBER 新着ワーキングペーパー",
+   "sources": [
+    "NBER 新着ワーキングペーパー"
+   ],
+   "groups": [
+    "global"
+   ],
+   "countries": [],
+   "tags": [],
+   "first_seen": "2026-11-19",
+   "japan": false,
+   "econometrics": false,
+   "lang": "en"
+  },
+  "t:crashinjuriesandfatalitiesintheunitedstatesfollowingstandardizationofautomaticemergencybrakingbyvishalpatelchristophermworshammichaelliuhassthomastsaianupamjena": {
+   "title": "Crash Injuries and Fatalities in the United States Following Standardization of Automatic Emergency Braking -- by Vishal Patel, Christopher M. Worsham, Michael Liu-Hass, Thomas Tsai, Anupam Jena",
+   "url": "https://www.nber.org/papers/w36028#fromrss",
+   "authors": [],
+   "date": "",
+   "abstract": "Whether vehicle safety technologies reduce crash injuries and fatalities is relevant to consumers and regulators, but rigorous real world evidence is limited because drivers who choose optional features differ from those who do not. As a natural experiment, we leveraged the staggered implementation of automatic emergency braking as standard rather than optional equipment on 39 vehicle models between 2017 and 2022. Across the United States, the percentage of crash injuries from rear-end collisions caused by the vehicle fell from 13.9% to 8.0% at the first standard model year, and the percentage of crash fatalities fell from 6.0% to 4.7%. Neither fell in models that never standardized the tech",
+   "doi": "",
+   "venue": "NBER 新着ワーキングペーパー",
+   "sources": [
+    "NBER 新着ワーキングペーパー"
+   ],
+   "groups": [
+    "global"
+   ],
+   "countries": [],
+   "tags": [],
+   "first_seen": "2026-11-19",
+   "japan": false,
+   "econometrics": false,
+   "lang": "en"
+  },
+  "t:childhoodlearningandadultearningsinfourlmiccohortsbyjishnudasyashdhuldhoyamartafavaraamorygethinalansánchezabhijeetsingh": {
+   "title": "Childhood Learning and Adult Earnings in Four LMIC Cohorts -- by Jishnu Das, Yash Dhuldhoya, Marta Favara, Amory Gethin, Alan Sánchez, Abhijeet Singh",
+   "url": "https://www.nber.org/papers/w36029#fromrss",
+   "authors": [],
+   "date": "",
+   "abstract": "Researchers and policymakers in low- and middle-income countries (LMICs) have customarily relied on indirect evidence to justify investments in learning, either by linking test scores to economic growth or by connecting adult cognitive assessments to earnings. This reliance on indirect evidence largely stems from the scarcity of longitudinal data linking school-age learning to adult earnings. We address this gap by using data from Ethiopia, India, Pakistan, and Peru to estimate associations between foundational learning (FL), measured by test scores around age 12, and human capital and earnings in young adulthood. In Peru, India, and Pakistan, a one-standard-deviation increase in FL is assoc",
+   "doi": "",
+   "venue": "NBER 新着ワーキングペーパー",
+   "sources": [
+    "NBER 新着ワーキングペーパー"
+   ],
+   "groups": [
+    "global"
+   ],
+   "countries": [],
+   "tags": [],
+   "first_seen": "2026-11-19",
+   "japan": false,
+   "econometrics": false,
+   "lang": "en"
+  },
+  "t:learntoearnthelongtermeffectsoffoundationallearningbytahirandrabinataliebaujishnudasasimijazkhwajacatherinemichaudleclerc": {
+   "title": "Learn to Earn: The Long-Term Effects of Foundational Learning -- by Tahir Andrabi, Natalie Bau, Jishnu Das, Asim Ijaz Khwaja, Catherine Michaud-Leclerc",
+   "url": "https://www.nber.org/papers/w36030#fromrss",
+   "authors": [],
+   "date": "",
+   "abstract": "Tracking Pakistani students over 15 years, we use two identification strategies to provide the first causal evidence linking learning in primary school to adult outcomes in a low-income country. Exposure to a school with higher test score value-added increases educational attainment and earnings 15 years later. A randomized information intervention that led to learning gains at the village level generated similar effects. Lifetime earnings gains across all students attending a 1sd better school total US$175,000, and for the information intervention, the marginal value of public funds is infinity for men. There is a strong economic case for investing in learning.",
+   "doi": "",
+   "venue": "NBER 新着ワーキングペーパー",
+   "sources": [
+    "NBER 新着ワーキングペーパー"
+   ],
+   "groups": [
+    "global"
+   ],
+   "countries": [],
+   "tags": [],
+   "first_seen": "2026-11-19",
+   "japan": false,
+   "econometrics": false,
+   "lang": "en"
+  },
+  "t:ablessingindisguisethelongtermeffectsofchildhoodexposuretothebollweevilonoldagemalelongevitybyhamidnoghanibehambarijasonfletcher": {
+   "title": "A Blessing in Disguise: The Long-Term Effects of Childhood Exposure to the Boll Weevil on Old-Age Male Longevity -- by Hamid Noghanibehambari, Jason Fletcher",
+   "url": "https://www.nber.org/papers/w36031#fromrss",
+   "authors": [],
+   "date": "",
+   "abstract": "The infamous agricultural pest, the boll weevil, spread across southern US counties between 1892 and 1920. It had devastating impacts on cotton production, a highly child-labor-intensive crop. This study examines how the arrival of the boll weevil and the subsequent reductions in child labor affect later-life mortality outcomes. Using Social Security Administration death records linked with the 1940 census, we document that the staggered spread of the boll weevil improved the longevity of exposed male children. Full exposure to the boll weevil is associated with an intent-to-treat effect of 1-3 months of higher longevity. We show that the estimated effects are robust across a wide array of s",
+   "doi": "",
+   "venue": "NBER 新着ワーキングペーパー",
+   "sources": [
+    "NBER 新着ワーキングペーパー"
+   ],
+   "groups": [
+    "global"
+   ],
+   "countries": [],
+   "tags": [],
+   "first_seen": "2026-11-19",
+   "japan": false,
+   "econometrics": false,
+   "lang": "en"
+  },
+  "t:cloudsofcreditmappingthefinancialwebbehindaicomputebystijnvannieuwerburghzijinsu": {
+   "title": "Clouds of Credit: Mapping the Financial Web Behind AI Compute -- by Stijn Van Nieuwerburgh, Zijin Su",
+   "url": "https://www.nber.org/papers/w36032#fromrss",
+   "authors": [],
+   "date": "",
+   "abstract": "We map the financial network supporting the AI buildout. Substantial equity cushions protect creditors against large obligations outstanding in mid-2026, but concentrated exposures and interconnected claims create weak links. Our calibrated model supports a large compute expansion in the coming years. The equilibrium investment exceeds the social optimum because firms do not internalize their effects on competitors' revenues. Debt finances nearly 60% of the expansion, increasing leverage, while non-recourse borrowing leaves project lenders exposed despite equity buffers. In the low-productivity state, losses reach $16.8 trillion across shareholders and creditors, with 40% loss-given-default ",
+   "doi": "",
+   "venue": "NBER 新着ワーキングペーパー",
+   "sources": [
+    "NBER 新着ワーキングペーパー"
+   ],
+   "groups": [
+    "global"
+   ],
+   "countries": [],
+   "tags": [],
+   "first_seen": "2026-11-19",
+   "japan": false,
+   "econometrics": false,
+   "lang": "en"
+  },
+  "t:preconceptionmedicaidandmaternalandinfanthealthevidencefromlinkedadministrativedatabygennacampainsarahmillerpetraperssonmayarossinslaterlaurawherrykatlynnking": {
+   "title": "Preconception Medicaid and Maternal and Infant Health: Evidence from Linked Administrative Data -- by Genna Campain, Sarah Miller, Petra Persson, Maya Rossin-Slater, Laura Wherry, Katlyn N. King",
+   "url": "https://www.nber.org/papers/w36033#fromrss",
+   "authors": [],
+   "date": "",
+   "abstract": "Despite pregnancy-focused public insurance coverage in the U.S., low-income mothers and infants face persistent health disadvantages. Using linked birth, tax, and enrollment data, we examine the effects of preconception coverage from California's 2014 Medicaid expansion, comparing changes in outcomes for first-time mothers just below and above the income eligibility threshold. Expansion increased preconception Medicaid enrollment by 3.4 months (+23 percentage points in 12-month continuous coverage), first-month pregnancy enrollment by 24 percentage points, and adequate prenatal care and STI screening. Yet we find no improvements in maternal or infant health, suggesting preconception coverage",
+   "doi": "",
+   "venue": "NBER 新着ワーキングペーパー",
+   "sources": [
+    "NBER 新着ワーキングペーパー"
+   ],
+   "groups": [
+    "global"
+   ],
+   "countries": [],
+   "tags": [],
+   "first_seen": "2026-11-19",
+   "japan": false,
+   "econometrics": false,
+   "lang": "en"
+  },
+  "t:therecentandimpendingevolutionofusfederalsupportforstateandlocalgovernmentsbyjeffreyclemensanwitamahajan": {
+   "title": "The Recent and Impending Evolution of US Federal Support for State and Local Governments -- by Jeffrey Clemens, Anwita Mahajan",
+   "url": "https://www.nber.org/papers/w36034#fromrss",
+   "authors": [],
+   "date": "",
+   "abstract": "In the US federal system, the federal government provides substantial fiscal support to state and local governments. In this paper, we describe how the landscape of intergovernmental grants, which exceeded $1.2 trillion in 2025, evolved during and in the wake of the COVID-19 pandemic. We provide short-run evidence on how state and local government budgets have adapted as pandemic-era fiscal supports wound down. We further emphasize the pressures state and local budgets will face as several provisions of the One Big Beautiful Bill Act (OBBBA), which are intended to restrain intergovernmental grants, go into effect over the coming years.",
+   "doi": "",
+   "venue": "NBER 新着ワーキングペーパー",
+   "sources": [
+    "NBER 新着ワーキングペーパー"
+   ],
+   "groups": [
+    "global"
+   ],
+   "countries": [],
+   "tags": [],
+   "first_seen": "2026-11-19",
+   "japan": false,
+   "econometrics": false,
+   "lang": "en"
+  },
+  "t:willaigrowthreachthedevelopingworldbydanielbjörkegrendavidlagakosmitchellvanvuren": {
+   "title": "Will AI Growth Reach the Developing World? -- by Daniel Björkegren, David Lagakos, Mitchell VanVuren",
+   "url": "https://www.nber.org/papers/w36035#fromrss",
+   "authors": [],
+   "date": "",
+   "abstract": "This paper explores how economic growth driven by AI will impact the developing world. Our analysis is based on a growth model of a developed and developing economy where AI services are traded on the world market, and may substitute for or complement different labor inputs in production. Preferences allow for the possibility that demand for services provided by AI has an upper bound. The model predicts that developing countries may not benefit as much from AI-driven growth. First, they may lack complementary skills needed to fully utilize AI domestically. Second, they may be priced out of world markets due to their relatively lower productivity. We use our model to simulate how growth and w",
+   "doi": "",
+   "venue": "NBER 新着ワーキングペーパー",
+   "sources": [
+    "NBER 新着ワーキングペーパー"
+   ],
+   "groups": [
+    "global"
+   ],
+   "countries": [],
+   "tags": [],
+   "first_seen": "2026-11-19",
+   "japan": false,
+   "econometrics": false,
+   "lang": "en"
+  },
+  "t:howdoescapitalflowtopoorcountriesevidencefromventurecapitalandprivateequitybyemanuelecolonnellimarciocruzjoshlernermarianapereiralopezyuanchangwei": {
+   "title": "How Does Capital Flow To Poor Countries? Evidence from Venture Capital and Private Equity -- by Emanuele Colonnelli, Marcio Cruz, Josh Lerner, Mariana Pereira-Lopez, Yuanchang Wei",
+   "url": "https://www.nber.org/papers/w36036#fromrss",
+   "authors": [],
+   "date": "",
+   "abstract": "Why does so little private capital flow to poor countries? We study how venture capital and private equity investors evaluate firms across countries, using an experimental survey of 1,485 investors in 108 countries who are incentivized to evaluate hypothetical investment opportunities with randomized firm characteristics, locations, and investment terms. Investors respond similarly to firm fundamentals, but otherwise comparable firms attract substantially less interest in poorer countries. This poor-country penalty is much smaller among investors specialized in emerging markets. Detailed survey data show that emerging market and developed market investors have largely similar investment prac",
+   "doi": "",
+   "venue": "NBER 新着ワーキングペーパー",
+   "sources": [
+    "NBER 新着ワーキングペーパー"
+   ],
+   "groups": [
+    "global"
+   ],
+   "countries": [],
+   "tags": [],
+   "first_seen": "2026-11-19",
+   "japan": false,
+   "econometrics": false,
+   "lang": "en"
+  },
+  "arxiv:2611.23851": {
+   "title": "Match Rate Is Not Match Quality",
+   "url": "https://arxiv.org/abs/2611.23851",
+   "authors": [
+    "Tobias B. Konitzer",
+    "David M. Rothschild"
+   ],
+   "date": "2026-11-18",
+   "abstract": "Third-party identity-resolution vendors commonly emphasize match rate, the share of submitted records they can link to identifiers for advertising activation, as their core metric of quality. Yet a high match rate does not necessarily mean that those matched identifiers belong to the submitted records (i.e., the intended targets). In this paper we explore match quality as an alternative metric to match rate, utilizing a unique data set to evaluate match quality. We are able to compare two demographics, age and gender, from a submitted record (voter files) to the same demographics in self-reported surveys matched to mobile advertising identifiers linked together by two leading identity-resolu",
+   "doi": "",
+   "venue": "arXiv econ.EM",
+   "sources": [
+    "arXiv econ.EM(計量経済学)"
+   ],
+   "groups": [
+    "ecm"
+   ],
+   "countries": [],
+   "tags": [
+    "econ.EM"
+   ],
+   "first_seen": "2026-11-19",
+   "japan": false,
+   "econometrics": true,
+   "lang": "en"
+  },
+  "arxiv:2611.23798": {
+   "title": "Developing a Subdistrict-Level Economic Progress Index Using Geospatial Data",
+   "url": "https://arxiv.org/abs/2611.23798",
+   "authors": [
+    "Meenu Mohan",
+    "Siddhartha Chattopadhyay"
+   ],
+   "date": "2026-11-18",
+   "abstract": "This paper develops an Economic Progress Index (EPI), a composite measure built from Earth Observation (EO) and open geospatial data with unsupervised Principal Component Analysis (PCA) weighting. The index captures the observable productive and enabling capacity of local economies and the intensity with which economic space is used. Sub-national monitoring in developing economies is held back by sparse data: district GDP estimates arrive with multi-year lags, rely on price deflators and top-down allocation, and do not exist at the subdistrict (taluka/tehsil) scale where place-based policy is targeted. The EPI fuses multi-sensor satellite data, gridded population and OpenStreetMap road and a",
+   "doi": "",
+   "venue": "arXiv econ.EM",
+   "sources": [
+    "arXiv econ.EM(計量経済学)"
+   ],
+   "groups": [
+    "ecm"
+   ],
+   "countries": [],
+   "tags": [
+    "econ.EM",
+    "stat.AP"
+   ],
+   "first_seen": "2026-11-19",
+   "japan": false,
+   "econometrics": true,
+   "lang": "en"
+  },
+  "arxiv:2611.23642": {
+   "title": "A Tail-Geometric Approach to Kotlarski's Lemma with Order Statistics",
+   "url": "https://arxiv.org/abs/2611.23642",
+   "authors": [
+    "Yao Luo"
+   ],
+   "date": "2026-11-18",
+   "abstract": "We develop a tail-geometric approach to nonparametric identification in repeated-measurement models based on large within-unit gaps. Differencing eliminates the common latent component, while conditioning on a large gap pushes the idiosyncratic errors into opposite tails. Under a regular thinner-than-Gaussian tail condition, an idiosyncratic component concentrates around a deterministic, gap-dependent location. Consequently, the corresponding observed measurement, after recentering, reveals the distribution of the common latent component up to location. The idiosyncratic distribution can then be recovered through deconvolution. This principle applies both to the classical two-measurement Kot",
+   "doi": "",
+   "venue": "arXiv econ.EM",
+   "sources": [
+    "arXiv econ.EM(計量経済学)"
+   ],
+   "groups": [
+    "ecm"
+   ],
+   "countries": [],
+   "tags": [
+    "econ.EM"
+   ],
+   "first_seen": "2026-11-19",
+   "japan": false,
+   "econometrics": true,
+   "lang": "en"
+  },
+  "arxiv:2611.23438": {
+   "title": "Plausibly Exogenous Instruments in Probit Models: Sensitivity Bounds for Average Partial and Interaction Effects",
+   "url": "https://arxiv.org/abs/2611.23438",
+   "authors": [
+    "Luke Taylor",
+    "Jesper N. Wulff"
+   ],
+   "date": "2026-11-17",
+   "abstract": "Sensitivity analysis for imperfect instruments usually targets a linear two-stage least squares coefficient, yet many applications have binary outcomes and probability-scale targets. We extend the plausibly exogenous framework to the control-function probit, targeting average partial and interaction effects. We derive the generated-regressor variance, union and local-to-zero intervals, and their asymptotic coverage under stated model and calibration conditions. A violation stated on the wrong latent scale can miscalibrate the interval by a factor set by the endogeneity correlation. Applications to Catholic schooling, sibling sex composition and Confucian clans compare probit and linear analy",
+   "doi": "",
+   "venue": "arXiv econ.EM",
+   "sources": [
+    "arXiv econ.EM(計量経済学)"
+   ],
+   "groups": [
+    "ecm"
+   ],
+   "countries": [],
+   "tags": [
+    "econ.EM"
+   ],
+   "first_seen": "2026-11-19",
+   "japan": false,
+   "econometrics": true,
+   "lang": "en"
+  },
+  "arxiv:2611.23174": {
+   "title": "Inference after coding agents",
+   "url": "https://arxiv.org/abs/2611.23174",
+   "authors": [
+    "Florian Gunsilius",
+    "David Van Dijcke",
+    "Kaspar Wüthrich"
+   ],
+   "date": "2026-11-17",
+   "abstract": "Empirical research is changing rapidly as AI coding agents are becoming increasingly proficient in every step of it, from writing code to manipulating data. We argue that while the potential of coding agents for science is vast, their use in hypothesis testing poses a substantial threat to classical inference, as these agents enable a supercharged form of selective inference. In particular, we argue that coding agents carrying out empirical research introduce a new type of post-selection inference that combines human-like, open-ended search over an implicit space of estimators with programmatic replayability of both the selection and the estimation process. Indeed, we find that on simulated ",
+   "doi": "",
+   "venue": "arXiv econ.EM",
+   "sources": [
+    "arXiv econ.EM(計量経済学)"
+   ],
+   "groups": [
+    "ecm"
+   ],
+   "countries": [],
+   "tags": [
+    "stat.ME",
+    "cs.AI",
+    "econ.EM"
+   ],
+   "first_seen": "2026-11-19",
+   "japan": false,
+   "econometrics": true,
+   "lang": "en"
+  },
+  "arxiv:2611.22984": {
+   "title": "Long-Term Quantile Treatment Effects with Combined Experimental and Observational Data",
+   "url": "https://arxiv.org/abs/2611.22984",
+   "authors": [
+    "Nan Liu",
+    "Yanbo Liu",
+    "Yuya Sasaki",
+    "Yichong Zhang"
+   ],
+   "date": "2026-11-17",
+   "abstract": "This paper studies the identification, estimation, and inference of long-term quantile treatment effects (LTQTEs) when short-term experimental data are supplemented with long-term observational data. Under a latent unconfoundedness framework, we establish identification of the LTQTE curve and derive the corresponding efficient influence functions. Building on these influence functions, we propose a semiparametrically efficient estimation procedure and develop a multiplier bootstrap method for uniform inference on the LTQTE curve, yielding valid simultaneous confidence bands over a continuum of quantile indices.",
+   "doi": "",
+   "venue": "arXiv econ.EM",
+   "sources": [
+    "arXiv econ.EM(計量経済学)"
+   ],
+   "groups": [
+    "ecm"
+   ],
+   "countries": [],
+   "tags": [
+    "econ.EM",
+    "math.ST"
+   ],
+   "first_seen": "2026-11-19",
+   "japan": false,
+   "econometrics": true,
+   "lang": "en"
+  },
+  "arxiv:2611.22921": {
+   "title": "Action-outcome coupling: a pre-investment feasibility audit for offline reinforcement learning in supply chain operations",
+   "url": "https://arxiv.org/abs/2611.22921",
+   "authors": [
+    "Tung Dang",
+    "The Hung Phung",
+    "Son Lam Nguyen",
+    "Tu Nguyen"
+   ],
+   "date": "2026-11-17",
+   "abstract": "Prescriptive analytics initiatives in logistics, such as offline reinforcement learning and next-best-action systems, are often funded before anyone verifies that the available historical logs can support an improved decision policy. We formalise this pre-investment feasibility question via action-outcome coupling: a total-effect variance index measuring how much expected outcomes change with the logged action. Coupling provides an algorithm-independent upper bound on any policy's achievable value, expressed in monetary units per decision for both single-step and discounted sequential objectives. We also analyse the asymptotic false-licensing risk of an invalid workflow: fitting a value mode",
+   "doi": "",
+   "venue": "arXiv econ.EM",
+   "sources": [
+    "arXiv econ.EM(計量経済学)"
+   ],
+   "groups": [
+    "ecm"
+   ],
+   "countries": [],
+   "tags": [
+    "cs.LG",
+    "cs.CE",
+    "econ.EM",
+    "stat.AP"
+   ],
+   "first_seen": "2026-11-19",
+   "japan": false,
+   "econometrics": true,
+   "lang": "en"
+  },
+  "arxiv:2611.22675": {
+   "title": "Exact and Approximate Maximum Likelihood Estimation for Multivariate Diffusions under High-Frequency Sampling",
+   "url": "https://arxiv.org/abs/2611.22675",
+   "authors": [
+    "Duy Nguyen"
+   ],
+   "date": "2026-11-17",
+   "abstract": "We establish the asymptotic theory of the exact maximum likelihood estimator (MLE) for discretely observed multivariate ergodic diffusions under high-frequency, long-span sampling, solving an open problem posed by \\citet{YCW2019} and \\citet{Li2013}. The drift may grow linearly, and the volatility is bounded away from zero and either bounded or proportional to $1+|x|$. When the sampling interval decays polynomially, the exact MLE is consistent, asymptotically normal and efficient, with rates $\\sqrt{nΔ_n}$ for drift and $\\sqrt n$ for diffusion parameters. Under an additional condition on ergodic averages, and when the time span $nΔ_n$ also grows polynomially, its moments converge as well. The ",
+   "doi": "",
+   "venue": "arXiv econ.EM",
+   "sources": [
+    "arXiv econ.EM(計量経済学)"
+   ],
+   "groups": [
+    "ecm"
+   ],
+   "countries": [],
+   "tags": [
+    "math.ST",
+    "econ.EM",
+    "math.PR"
+   ],
+   "first_seen": "2026-11-19",
+   "japan": false,
+   "econometrics": true,
+   "lang": "en"
+  },
+  "arxiv:2611.22638": {
+   "title": "Nested logit: model structure and normalisation",
+   "url": "https://arxiv.org/abs/2611.22638",
+   "authors": [
+    "Stephane Hess"
+   ],
+   "date": "2026-11-17",
+   "abstract": "Nested logit remains a widely used model, especially in applied work. However, there remains substantial confusion surrounding the existence of different versions of the model, different normalisations for the same version, and different software implementations. This paper argues that the labels in common use, RU1 and RU2, and the name non-normalised nested logit (NNNL) itself, have contributed to the confusion. The model is written in two forms: one in which utilities are divided by the structural parameter of the nest that contains them, which is consistent with utility maximisation by construction, and one without that division, known as NNNL. The difference between these forms is not on",
+   "doi": "",
+   "venue": "arXiv econ.EM",
+   "sources": [
+    "arXiv econ.EM(計量経済学)"
+   ],
+   "groups": [
+    "ecm"
+   ],
+   "countries": [],
+   "tags": [
+    "econ.EM"
+   ],
+   "first_seen": "2026-11-19",
+   "japan": false,
+   "econometrics": true,
+   "lang": "en"
+  },
+  "arxiv:2611.22289": {
+   "title": "Estimation and Model Selection in Factor Models with Long Memory",
+   "url": "https://arxiv.org/abs/2611.22289",
+   "authors": [
+    "Dominik Ammon",
+    "Tobias Hartl",
+    "Rolf Tschernig"
+   ],
+   "date": "2026-11-17",
+   "abstract": "Panels in economics, finance and climate science are often driven by common components that differ in memory, such as common trends, cycles, or joint shocks. We study approximate factor models whose common factors are fractionally integrated with heterogeneous and unknown memory and develop the asymptotic theory of principal components for the panel in levels. Our theory builds on the eigenvalues of the sample covariance matrix being ordered by memory asymptotically: a nonstationary factor group with memory $d>1/2$ generates eigenvalues of order $NT^{2d-1}$, whereas stationary factors generate eigenvalues of order $N$. Principal components estimate the factors consistently up to rotation, wh",
+   "doi": "",
+   "venue": "arXiv econ.EM",
+   "sources": [
+    "arXiv econ.EM(計量経済学)"
+   ],
+   "groups": [
+    "ecm"
+   ],
+   "countries": [],
+   "tags": [
+    "econ.EM"
+   ],
+   "first_seen": "2026-11-19",
+   "japan": false,
+   "econometrics": true,
+   "lang": "en"
+  },
+  "arxiv:2611.22257": {
+   "title": "The Online LSTM Prediction Models and The Term Structure of Predictions",
+   "url": "https://arxiv.org/abs/2611.22257",
+   "authors": [
+    "Christian Gourieroux",
+    "Joann Jasiak",
+    "Cheng Zhong"
+   ],
+   "date": "2026-11-17",
+   "abstract": "We examine and illustrate the properties of the Long Short Term Memory (LSTM) prediction models applied online to stationary inputs. We discuss the effects of: a) the network architecture that defines the admissible prediction functions, b) the objective function used to measure the prediction accuracy, and c) the Stochastic Gradient Descent (SGD) algorithm. We also study the prediction optimality, the term structure of predictions, the filtered memory dynamics. We also introduce a set of diagnostic tools for memory-based prediction models that focus on the estimated dynamics of the hidden states.",
+   "doi": "",
+   "venue": "arXiv econ.EM",
+   "sources": [
+    "arXiv econ.EM(計量経済学)"
+   ],
+   "groups": [
+    "ecm"
+   ],
+   "countries": [],
+   "tags": [
+    "econ.EM"
+   ],
+   "first_seen": "2026-11-19",
+   "japan": false,
+   "econometrics": true,
+   "lang": "en"
+  },
+  "arxiv:2611.21496": {
+   "title": "Never too LATE: Exploiting restrictions for inference on the Local Average Treatment Effect",
+   "url": "https://arxiv.org/abs/2611.21496",
+   "authors": [
+    "Xavier D'Haultfœuille",
+    "Yagan Hazard",
+    "Philipp Ketz"
+   ],
+   "date": "2026-11-16",
+   "abstract": "Under the exclusion restriction, independence, and monotonicity assumptions, Imbens and Angrist (1994) show that the Wald estimand is equal to the local average treatment effect (LATE). However, these assumptions entail additional restrictions, which we exploit for inference on the LATE. Specifically, we propose a conditional likelihood ratio test that we show controls asymptotic size uniformly over a large class of data-generating processes. The test has very low computational cost: it requires no simulation and involves solving at most four quadratic programming problems. Monte Carlo simulations show that our test can offer substantial power gains over the Wald and Anderson-Rubin tests, in",
+   "doi": "",
+   "venue": "arXiv econ.EM",
+   "sources": [
+    "arXiv econ.EM(計量経済学)"
+   ],
+   "groups": [
+    "ecm"
+   ],
+   "countries": [],
+   "tags": [
+    "econ.EM"
+   ],
+   "first_seen": "2026-11-19",
+   "japan": false,
+   "econometrics": true,
+   "lang": "en"
+  },
+  "arxiv:2611.21474": {
+   "title": "Sharp High-Dimensional Gaussian Approximations over Rectangles without Covariance Restrictions",
+   "url": "https://arxiv.org/abs/2611.21474",
+   "authors": [
+    "Victor Chernozhukov",
+    "Denis Chetverikov",
+    "Kengo Kato",
+    "Yuta Koike"
+   ],
+   "date": "2026-11-16",
+   "abstract": "We study how well a sum of $n$ independent random vectors with $p$ coordinates can be approximated by a Gaussian vector with the same mean and covariance. We measure the error over rectangles, so the bounds apply to maxima and simultaneous confidence regions. The coordinates may be arbitrarily dependent, even exactly linearly dependent, and the bounds do not deteriorate as the covariance matrix becomes singular. After standardizing the coordinate variances, bounded or sub-exponential coordinates give the $n^{-1/2}$ sample-size rate up to logarithmic factors, with the size or tail bounds held fixed. The main upper bounds retain the Gaussian expected maximum, improving the rates when the coord",
+   "doi": "",
+   "venue": "arXiv econ.EM",
+   "sources": [
+    "arXiv econ.EM(計量経済学)"
+   ],
+   "groups": [
+    "ecm"
+   ],
+   "countries": [],
+   "tags": [
+    "econ.EM",
+    "math.ST"
+   ],
+   "first_seen": "2026-11-19",
+   "japan": false,
+   "econometrics": true,
+   "lang": "en"
+  },
+  "arxiv:2611.21230": {
+   "title": "Shrink Responsibly: Empirical Bayes in Economics",
+   "url": "https://arxiv.org/abs/2611.21230",
+   "authors": [
+    "Peter Hull",
+    "Michal Kolesár"
+   ],
+   "date": "2026-11-16",
+   "abstract": "Empirical researchers are often interested in the relative causal impact of individuals or institutions such as teachers, schools, hospitals, or neighborhoods. Regression-based estimates of such unit-specific parameters are often noisy; empirical Bayes (eB) methods can help isolate the signal from the estimation noise. This article provides an overview of eB methodology, showing how eB shrinkage can improve compound decisions---such as selecting individuals with the highest causal impacts---even when the working model motivating the shrinkage is misspecified. Not all analyses benefit from eB shrinkage, however, and we discuss which types of causal summaries are best estimated directly and ho",
+   "doi": "",
+   "venue": "arXiv econ.EM",
+   "sources": [
+    "arXiv econ.EM(計量経済学)"
+   ],
+   "groups": [
+    "ecm"
+   ],
+   "countries": [],
+   "tags": [
+    "econ.EM"
+   ],
+   "first_seen": "2026-11-19",
+   "japan": false,
+   "econometrics": true,
+   "lang": "en"
+  },
+  "arxiv:2611.21207": {
+   "title": "Who Is the Regression About? Auditing AI-Labeled Treatments When Effects Differ",
+   "url": "https://arxiv.org/abs/2611.21207",
+   "authors": [
+    "Ayman Farahat"
+   ],
+   "date": "2026-11-16",
+   "abstract": "Researchers increasingly regress outcomes on treatments labeled by large language models. When effects differ, OLS averages the effect on the treated (ATT) and on the untreated (ATU), weighting the smaller group more. A label's bias then has two parts: classical attenuation from misclassification, and a selective term when its errors are correlated with the outcome. In LinkedIn postings, the model misses better-paid remote jobs: a precision check passes, yet the remote pay gap is understated by nearly 40 percent, a bias that more data cannot remove. A stratified, blind audit of both labeled groups corrects it and recovers both effects.",
+   "doi": "",
+   "venue": "arXiv econ.EM",
+   "sources": [
+    "arXiv econ.EM(計量経済学)"
+   ],
+   "groups": [
+    "ecm"
+   ],
+   "countries": [],
+   "tags": [
+    "stat.AP",
+    "econ.EM"
+   ],
+   "first_seen": "2026-11-19",
+   "japan": false,
+   "econometrics": true,
+   "lang": "en"
+  },
+  "arxiv:2611.20806": {
+   "title": "Do Hierarchical Networks Actually Learn? Insights from Word-of-Mouth Estimation",
+   "url": "https://arxiv.org/abs/2611.20806",
+   "authors": [
+    "Andrea Da Col",
+    "Cristian R. Rojas"
+   ],
+   "date": "2026-11-16",
+   "abstract": "We study recursive estimation of a constant state vector by a hierarchical network of asymmetrically informed linear estimators, modeled as a directed tree. Only the leaves observe the regression signal, whereas every other estimator learns by word of mouth from noisy signal estimates relayed by its children. Authority within the hierarchy is expressed through common prior information: after each round, every estimator adopts the estimate and error covariance broadcast by the root. The more accurate this common information, the larger the effective noise variance on local observations, which makes estimation intrinsically self-defeating. The resulting performance is the subject of this paper",
+   "doi": "",
+   "venue": "arXiv econ.EM",
+   "sources": [
+    "arXiv econ.EM(計量経済学)"
+   ],
+   "groups": [
+    "ecm"
+   ],
+   "countries": [],
+   "tags": [
+    "eess.SP",
+    "econ.EM"
+   ],
+   "first_seen": "2026-11-19",
+   "japan": false,
+   "econometrics": true,
+   "lang": "en"
+  },
+  "arxiv:2611.20322": {
+   "title": "Maximum Scores and Treatment Feedback in Regression Discontinuity Designs",
+   "url": "https://arxiv.org/abs/2611.20322",
+   "authors": [
+    "Subir Hait"
+   ],
+   "date": "2026-11-15",
+   "abstract": "Hospitals use repeated risk scores to decide when to send an alert. Some evaluations summarize these scores by their maximum and use the maximum as the running variable in a regression discontinuity (RD) design. The maximum shows correctly whether a patient was ever alerted. However, it can include scores recorded after an earlier alert has already changed care. In this paper, we study what the maximum-score RD estimates when an earlier intervention changes a later score. We use a two-assessment model and derive a formula that splits the RD contrast into the causal effect and a composition term. When feedback moves scores in one direction, the composition term equals the relative jump in the",
+   "doi": "",
+   "venue": "arXiv econ.EM",
+   "sources": [
+    "arXiv econ.EM(計量経済学)"
+   ],
+   "groups": [
+    "ecm"
+   ],
+   "countries": [],
+   "tags": [
+    "stat.ME",
+    "econ.EM"
+   ],
+   "first_seen": "2026-11-19",
+   "japan": false,
+   "econometrics": true,
+   "lang": "en"
+  },
+  "arxiv:2611.20209": {
+   "title": "Knowing Less After a Diagnostic Test: Dilation in Clinical Decision-Making",
+   "url": "https://arxiv.org/abs/2611.20209",
+   "authors": [
+    "Filip Obradović",
+    "Gabriel Ziegler"
+   ],
+   "date": "2026-11-15",
+   "abstract": "Dilation (Seidenfeld and Wasserman 1993) occurs when conditioning on new information \\textit{only} increases uncertainty regardless of what the information reveals. Often viewed as an undesirable feature of models of ambiguity, dilation has sparked sustained debate about belief updating. This paper shows that following established clinical guidance can induce dilation, even for diagnostic tests that meet conventional performance benchmarks. We characterize when a test is dilation-inducing and show that a ubiquitous feature of performance studies -- evaluating tests against an imperfect reference -- creates scope for dilation. To facilitate detection before clinical use and inform regulatory ",
+   "doi": "",
+   "venue": "arXiv econ.EM",
+   "sources": [
+    "arXiv econ.EM(計量経済学)"
+   ],
+   "groups": [
+    "ecm"
+   ],
+   "countries": [],
+   "tags": [
+    "econ.TH",
+    "econ.EM",
+    "stat.AP"
+   ],
+   "first_seen": "2026-11-19",
+   "japan": false,
+   "econometrics": true,
+   "lang": "en"
+  },
+  "arxiv:2611.20030": {
+   "title": "High-Dimensional Approximate Factor Models with Score-Driven Dynamics: Estimation and Inference",
+   "url": "https://arxiv.org/abs/2611.20030",
+   "authors": [
+    "Matteo Barigozzi",
+    "Enzo D'Innocenzo"
+   ],
+   "date": "2026-11-15",
+   "abstract": "We propose a factor model for high-dimensional time series where the dynamics of the latent factors is generated by a multivariate score-driven model, thus allowing to model nonlinearities and heavy tails in both the conditional mean and the conditional variance. Estimation is in two steps: first the factors are extracted via Principal Components and then the parameters of the score-driven model are estimated via Quasi Maximum Likelihood based on the estimated factors. Since factors are not identified, we first establish set-consistency and asymptotic normality for the estimated parameters governing their dynamics, as both the number of time series and the sample size diverge to infinity. Th",
+   "doi": "",
+   "venue": "arXiv econ.EM",
+   "sources": [
+    "arXiv econ.EM(計量経済学)"
+   ],
+   "groups": [
+    "ecm"
+   ],
+   "countries": [],
+   "tags": [
+    "econ.EM",
+    "stat.ME"
+   ],
+   "first_seen": "2026-11-19",
+   "japan": false,
+   "econometrics": true,
+   "lang": "en"
+  },
+  "arxiv:2611.19690": {
+   "title": "Comparing Two-Sample IV Estimators under Weak Instruments",
+   "url": "https://arxiv.org/abs/2611.19690",
+   "authors": [
+    "Jeffrey Tse"
+   ],
+   "date": "2026-11-15",
+   "abstract": "We compare three estimators in a two-sample summary-data instrumental variables (IV) model: inverse-variance weighting (IVW), debiased inverse-variance weighting (dIVW), and the profile score (PS) estimator. The framework assumes independent samples and instrument-specific summary estimates, with two-sample Mendelian randomisation as a leading application. We compare existing fixed- and many-weak-instrument results and the sufficient conditions for the three estimators. Under the variance scaling used in the profile-score literature, the principal collective-strength conditions for PS and dIVW are equivalent, although their additional restrictions on instrument concentration and growth diffe",
+   "doi": "",
+   "venue": "arXiv econ.EM",
+   "sources": [
+    "arXiv econ.EM(計量経済学)"
+   ],
+   "groups": [
+    "ecm"
+   ],
+   "countries": [],
+   "tags": [
+    "econ.EM",
+    "stat.ME"
+   ],
+   "first_seen": "2026-11-19",
+   "japan": false,
+   "econometrics": true,
+   "lang": "en"
+  },
+  "arxiv:2611.19476": {
+   "title": "Team Stability: Theory and Evidence",
+   "url": "https://arxiv.org/abs/2611.19476",
+   "authors": [
+    "Anton Badev"
+   ],
+   "date": "2026-11-14",
+   "abstract": "Teams emerge organically when individuals decide on their own their activities and collaborators. I develop and test a theory in which teams form with consent, interactions reflect team composition, and payoffs feature externalities and several forms of congestion. Stability constraints concern group interactions and require each team member to be willing to remain rather than withdraw or pursue a project alone. Empirical analysis of research collaborations among economists at the Federal Reserve Board suggests that: (i.) these constraints help explain observed teams beyond the payoffs to collaboration; (ii.) estimated violations point to large teams of entrants that appear to be assigned; (",
+   "doi": "",
+   "venue": "arXiv econ.EM",
+   "sources": [
+    "arXiv econ.EM(計量経済学)"
+   ],
+   "groups": [
+    "ecm"
+   ],
+   "countries": [],
+   "tags": [
+    "econ.EM",
+    "cs.SI"
+   ],
+   "first_seen": "2026-11-19",
+   "japan": false,
+   "econometrics": true,
+   "lang": "en"
+  },
+  "arxiv:2611.19432": {
+   "title": "Cluster-Robust Inference in Small Samples Using Bias Corrections",
+   "url": "https://arxiv.org/abs/2611.19432",
+   "authors": [
+    "M. Hashem Pesaran",
+    "Yimeng Xie"
+   ],
+   "date": "2026-11-14",
+   "abstract": "This paper derives an exact expression for the bias of the linearized estimator of the variance for cluster-robust inference, which generalizes an earlier result derived by Bell and McCaffrey (2002). Both cases of continuous and binary treatments are discussed. Under the former it is shown that the bias of the linearized variance estimator and its jackknife variant are of order $G^{-1}$ relative to the true variance, where $G$ denotes the total number of clusters. A bias-corrected variance estimator (BCCV) is then proposed and shown to have a relative bias of order $G^{-2}$. In the case of models with binary treatments the orders of the bias of standard estimators and the proposed bias-corre",
+   "doi": "",
+   "venue": "arXiv econ.EM",
+   "sources": [
+    "arXiv econ.EM(計量経済学)"
+   ],
+   "groups": [
+    "ecm"
+   ],
+   "countries": [],
+   "tags": [
+    "econ.EM"
+   ],
+   "first_seen": "2026-11-19",
+   "japan": false,
+   "econometrics": true,
+   "lang": "en"
+  },
+  "arxiv:2611.19209": {
+   "title": "Unit-Level Conformal Inference for Panel Counterfactuals",
+   "url": "https://arxiv.org/abs/2611.19209",
+   "authors": [
+    "Ziyi Liu",
+    "Yiqing Xu"
+   ],
+   "date": "2026-11-14",
+   "abstract": "We develop conformal inference for panel counterfactual estimators using the exchangeability of prediction errors across units rather than over time. Existing conformal methods for panels with few treated units rely on temporal properties of treated-unit residuals, which are vulnerable to strong temporal heterogeneity such as nonstationarity. We instead hold out each control unit, hide its relevant outcomes, and predict them using the same rule applied to the treated unit. Target-date estimators, including difference-in-differences and synthetic control, use controls' pre-treatment and target-date outcomes to construct the counterfactual, allowing both full conformal confidence sets and Jack",
+   "doi": "",
+   "venue": "arXiv econ.EM",
+   "sources": [
+    "arXiv econ.EM(計量経済学)"
+   ],
+   "groups": [
+    "ecm"
+   ],
+   "countries": [],
+   "tags": [
+    "econ.EM",
+    "stat.ME"
+   ],
+   "first_seen": "2026-11-19",
+   "japan": false,
+   "econometrics": true,
+   "lang": "en"
+  },
+  "arxiv:2611.19177": {
+   "title": "Alternative Computational Formulations for Testing Discrete-Choice Random Utility Models: Half-Space and Network-Flow Formulations",
+   "url": "https://arxiv.org/abs/2611.19177",
+   "authors": [
+    "Haoge Chang",
+    "Kota Saito",
+    "Mingxi Zhu"
+   ],
+   "date": "2026-11-14",
+   "abstract": "This paper develops computational algorithms for testing discrete-choice random utility models (RUM). The set of RUM-consistent choice probabilities forms a polytope, and existing computational methods rely on its vertex representation. We exploit alternative half-space (Block--Marschak inequalities) and network-flow representations to develop two methods based on the alternating direction method of multipliers and a flow-based column-generation algorithm. Compared with current vertex-based methods, our algorithms are better suited to GPU implementation. We establish convergence guarantees and provide optimality certificates for all three algorithms. The resulting algorithms achieve $100$--$",
+   "doi": "",
+   "venue": "arXiv econ.EM",
+   "sources": [
+    "arXiv econ.EM(計量経済学)"
+   ],
+   "groups": [
+    "ecm"
+   ],
+   "countries": [],
+   "tags": [
+    "econ.EM",
+    "econ.TH"
+   ],
+   "first_seen": "2026-11-19",
+   "japan": false,
+   "econometrics": true,
+   "lang": "en"
+  },
+  "arxiv:2611.18479": {
+   "title": "Estimating a Rational Inattention Discrete Choice Model: A Semiparametric Approach",
+   "url": "https://arxiv.org/abs/2611.18479",
+   "authors": [
+    "Hanqi Wang"
+   ],
+   "date": "2026-11-13",
+   "abstract": "People's choices depend on both the payoffs of the available options and what they learn about those payoffs before deciding. This paper shows how choice data identify both unobserved payoff heterogeneity and the cost of information acquisition in a rational inattention discrete-choice model. I establish conditions for semiparametric point identification using exogenous payoff and information-cost shifters, without imposing parametric forms on the taste-shock distribution or on how the unit cost of information varies with observed characteristics. In the model with binary choice, I construct an unobserved choice threshold whose cumulative distribution function is the choice probability as a ",
+   "doi": "",
+   "venue": "arXiv econ.EM",
+   "sources": [
+    "arXiv econ.EM(計量経済学)"
+   ],
+   "groups": [
+    "ecm"
+   ],
+   "countries": [],
+   "tags": [
+    "econ.EM",
+    "stat.ME"
+   ],
+   "first_seen": "2026-11-19",
+   "japan": false,
+   "econometrics": true,
+   "lang": "en"
+  },
+  "arxiv:2611.18444": {
+   "title": "Constrained Stochastic Policy Targeting under Heterogeneous Partial Interference",
+   "url": "https://arxiv.org/abs/2611.18444",
+   "authors": [
+    "Elena Dal Torrione",
+    "Chan Park",
+    "Laura Forastiere"
+   ],
+   "date": "2026-11-13",
+   "abstract": "Under heterogeneous interference, treating individuals with particular characteristics affects the population average outcome through their heterogeneous direct response to treatment and indirect effect on others, creating opportunities for efficient policy design. For instance, policymakers may minimize resource use by vaccinating individuals identified as superspreaders to achieve a target reduction in disease incidence. In such setting, we first study the problem of learning individualized stochastic treatment policies that minimize population average treatment probability subject to a prespecified outcome target. We propose an estimation approach based on a smooth surrogate for constrain",
+   "doi": "",
+   "venue": "arXiv econ.EM",
+   "sources": [
+    "arXiv econ.EM(計量経済学)"
+   ],
+   "groups": [
+    "ecm"
+   ],
+   "countries": [],
+   "tags": [
+    "stat.ME",
+    "econ.EM"
+   ],
+   "first_seen": "2026-11-19",
+   "japan": false,
+   "econometrics": true,
+   "lang": "en"
+  },
+  "arxiv:2611.18411": {
+   "title": "Making Experiment Results Comparable through Sitewide Impact Estimation",
+   "url": "https://arxiv.org/abs/2611.18411",
+   "authors": [
+    "Xiaochen Zhang",
+    "Wenjing Zheng",
+    "Xingye Kang",
+    "Vamsi Manthena"
+   ],
+   "date": "2026-11-13",
+   "abstract": "Roblox spans many product surfaces-discovery, the virtual economy, creator tools-that differ sharply in reach and in how much the affected population contributes to any sitewide metric. A randomized experiment shows whether a treatment works for the users in its sample, but this experiment lift is not comparable across surfaces, because surfaces differ in reach and in their contribution to sitewide metrics. The quantity a strategic decision needs is a counterfactual-how much an aggregated sitewide metric (e.g., total platform play time) would move if the treatment reached 100% of its target population, which may be only part of the sitewide population, during the measurement period. We call ",
+   "doi": "",
+   "venue": "arXiv econ.EM",
+   "sources": [
+    "arXiv econ.EM(計量経済学)"
+   ],
+   "groups": [
+    "ecm"
+   ],
+   "countries": [],
+   "tags": [
+    "stat.AP",
+    "econ.EM"
+   ],
+   "first_seen": "2026-11-19",
+   "japan": false,
+   "econometrics": true,
+   "lang": "en"
+  },
+  "arxiv:2611.18227": {
+   "title": "Broken Adaptive Ridge in High-Dimensional Vector Autoregressions",
+   "url": "https://arxiv.org/abs/2611.18227",
+   "authors": [
+    "Gianluca Cubadda",
+    "Luca Margaritella",
+    "Orest Prifti"
+   ],
+   "date": "2026-11-13",
+   "abstract": "We study regularized estimation in high-dimensional vector autoregressions under physical dependence and row-wise approximate sparsity using the Broken Adaptive Ridge (BAR) estimator. BAR is an iteratively reweighted Ridge procedure whose fixed-point first-order conditions imply a coordinatewise thresholding rule that produces exact zeros. We show that the BAR estimation error can be analyzed on the union of the population support above the BAR threshold and the support selected in the sample. The size of this union can be controlled at the rate implied by approximate sparsity, allowing us to establish the required restricted-curvature condition and derive L1, L2, and prediction error rates ",
+   "doi": "",
+   "venue": "arXiv econ.EM",
+   "sources": [
+    "arXiv econ.EM(計量経済学)"
+   ],
+   "groups": [
+    "ecm"
+   ],
+   "countries": [],
+   "tags": [
+    "econ.EM",
+    "stat.ME"
+   ],
+   "first_seen": "2026-11-19",
+   "japan": false,
+   "econometrics": true,
+   "lang": "en"
+  },
+  "arxiv:2611.18116": {
+   "title": "Positive Weights Do Not Certify TWFE Inference: A Design Diagnostic under Treatment-Effect Heterogeneity",
+   "url": "https://arxiv.org/abs/2611.18116",
+   "authors": [
+    "Stanisław M. S. Halkiewicz"
+   ],
+   "date": "2026-11-13",
+   "abstract": "Conventional two-way fixed-effects (TWFE) inference need not be uniformly adequate even when all treatment weights are positive. Under a local treatment-effect drift, the statistic for the equally weighted treated-cell effect has worst-case mean shift $(c/q)Γ$, where $Γ=\\sqrt{N_1}\\|w-u\\|_2$ is design-only and $q$ is the cluster-score noise scale. Projection matches the exposure to cohort, event-time, additive, and saturated group-time pilots; when residualized treatment is constant within treated group-time cells, $Γ_{\\mathrm{gt}}=Γ$. A direct score estimator is feasible with fixed panel length as clusters grow. Because a debiased quadratic pilot is nonregular at zero, we use two regular one",
+   "doi": "",
+   "venue": "arXiv econ.EM",
+   "sources": [
+    "arXiv econ.EM(計量経済学)"
+   ],
+   "groups": [
+    "ecm"
+   ],
+   "countries": [],
+   "tags": [
+    "econ.EM"
+   ],
+   "first_seen": "2026-11-19",
+   "japan": false,
+   "econometrics": true,
+   "lang": "en"
+  },
+  "arxiv:2611.17692": {
+   "title": "Random Utility Models in the Consumption-Budget Setting: Vertex and Network-Flow Characterizations",
+   "url": "https://arxiv.org/abs/2611.17692",
+   "authors": [
+    "Haoge Chang",
+    "Kota Saito",
+    "Mingxi Zhu"
+   ],
+   "date": "2026-11-13",
+   "abstract": "This note supplements our paper \\textit{Alternative Computational Formulations for Testing Discrete-Choice Random Utility Models: Half-Space and Network-Flow Formulations} and serves two purposes: 1. We clarify the conceptual distinctions between two classes of random utility models (RUM): those in the consumption-budget setting \\citep{kitamura2019nonparametric} (hereafter KS) and those in the finite-alternative setting (e.g., Chapter~7 of \\cite{chambers2016revealed}). In particular, we show (Theorem 1) that each rational type, as defined in KS, can be obtained as a coordinate projection of the deterministic choice vector induced by a strict preference ranking that satisfies what we call a p",
+   "doi": "",
+   "venue": "arXiv econ.EM",
+   "sources": [
+    "arXiv econ.EM(計量経済学)"
+   ],
+   "groups": [
+    "ecm"
+   ],
+   "countries": [],
+   "tags": [
+    "econ.EM",
+    "econ.TH"
+   ],
+   "first_seen": "2026-11-19",
+   "japan": false,
+   "econometrics": true,
+   "lang": "en"
+  },
+  "arxiv:2611.17578": {
+   "title": "Orthogonal Scores and Double/Debiased Machine Learning for Possibly Misspecified GMM",
+   "url": "https://arxiv.org/abs/2611.17578",
+   "authors": [
+    "Byunghoon Kang"
+   ],
+   "date": "2026-11-12",
+   "abstract": "We develop Neyman orthogonal scores for GMM models that remain valid when the moment conditions may fail to hold. Existing score constructions typically require the moment conditions to hold exactly, which may fail in over-identified models, where the number of moment functions exceeds the number of parameters. We construct \\emph{misspecification-robust} orthogonal score that has a closed form; it is the conventional orthogonal score plus adjustment terms, for the estimation of the Jacobian and of the weighting matrix, which are proportional to the population moment and vanish under correct specification. The moment functions may depend on nonparametric or machine learning first steps, and w",
+   "doi": "",
+   "venue": "arXiv econ.EM",
+   "sources": [
+    "arXiv econ.EM(計量経済学)"
+   ],
+   "groups": [
+    "ecm"
+   ],
+   "countries": [],
+   "tags": [
+    "econ.EM"
+   ],
+   "first_seen": "2026-11-19",
+   "japan": false,
+   "econometrics": true,
+   "lang": "en"
+  },
+  "arxiv:2611.18785": {
+   "title": "Setting Optimal Reserve Prices using Fine-Tuned Language Models",
+   "url": "https://arxiv.org/abs/2611.18785",
+   "authors": [
+    "Joshua Foster",
+    "Fredrik Odegaard"
+   ],
+   "date": "2026-11-12",
+   "abstract": "Online auction houses must set reserve prices for highly differentiated products whose unstructured descriptions contain valuable demand information. Existing approaches generally require managers to specify product attributes in advance. We ask whether a language model can instead learn from listing descriptions and historical bids to set item-specific reserve prices before bidding begins. We fine-tune a pretrained text embedding language model using the structural likelihood of auction bids as its training objective. This directs representation learning toward the valuation distribution that determines the reserve decision. We show that consecutive upper bids identify the tail information ",
+   "doi": "",
+   "venue": "arXiv econ.EM",
+   "sources": [
+    "arXiv econ.EM(計量経済学)"
+   ],
+   "groups": [
+    "ecm"
+   ],
+   "countries": [],
+   "tags": [
+    "cs.LG",
+    "econ.EM",
+    "stat.ML"
+   ],
+   "first_seen": "2026-11-19",
+   "japan": false,
+   "econometrics": true,
+   "lang": "en"
+  },
+  "arxiv:2611.16584": {
+   "title": "Uniform Inference for Two-Way Clustered Data",
+   "url": "https://arxiv.org/abs/2611.16584",
+   "authors": [
+    "Ulrich Hounyo",
+    "Jiahao Lin",
+    "Xiaojun Song",
+    "Hansheng Wang"
+   ],
+   "date": "2026-11-12",
+   "abstract": "We establish uniformly asymptotically exact inference for the population mean of two-way clustered data, allowing the data-generating process to vary with sample size. This finding does not contradict the well-known impossibility result of Menzel (2021), which places a fundamental limit on uniform estimation of the asymptotic distribution of the normalized full-array mean. We estimate the same population mean by averaging the sample means from random matchings. A closed-form standard error makes the resulting confidence interval straightforward to implement. The variance estimator is positive semidefinite and the studentized matching estimator is uniformly asymptotically standard normal. The",
+   "doi": "",
+   "venue": "arXiv econ.EM",
+   "sources": [
+    "arXiv econ.EM(計量経済学)"
+   ],
+   "groups": [
+    "ecm"
+   ],
+   "countries": [],
+   "tags": [
+    "econ.EM"
+   ],
+   "first_seen": "2026-11-19",
+   "japan": false,
+   "econometrics": true,
+   "lang": "en"
+  },
+  "arxiv:2611.16556": {
+   "title": "Localizing Mean Shifts in High-Dimensional Vector Autoregressive Models",
+   "url": "https://arxiv.org/abs/2611.16556",
+   "authors": [
+    "Hongqiang Sun",
+    "Sayar Karmakar",
+    "George Michailidis"
+   ],
+   "date": "2026-11-12",
+   "abstract": "We study the localization of mean changes in high-dimensional vector autoregressions (VARs) when the autoregressive dynamics remain common across regimes. We develop a three-step procedure that first obtains preliminary change-point estimates from the raw series ignoring the dependence structure, then estimates a common sparse VAR using observations away from the estimated changes, and finally filters the series to refine the change point locations. For a single change point, we show that the preliminary localization rate depends directly on the strength of temporal dependence, whereas filtering removes this dependence penalty from the oracle rate. With an estimated filter, the refined rate ",
+   "doi": "",
+   "venue": "arXiv econ.EM",
+   "sources": [
+    "arXiv econ.EM(計量経済学)"
+   ],
+   "groups": [
+    "ecm"
+   ],
+   "countries": [],
+   "tags": [
+    "stat.ME",
+    "econ.EM"
+   ],
+   "first_seen": "2026-11-19",
+   "japan": false,
+   "econometrics": true,
+   "lang": "en"
+  },
+  "arxiv:2611.16406": {
+   "title": "One-Sided Randomization in Two-Sided Platform Experiments: Which Side Should be Randomized?",
+   "url": "https://arxiv.org/abs/2611.16406",
+   "authors": [
+    "Ramesh Johari",
+    "Anushka Murthy"
+   ],
+   "date": "2026-11-12",
+   "abstract": "Two-sided marketplace platforms often use randomized experiments to evaluate new features, raising the question of whether to randomize customers or listings. Randomizing the smaller (\\emph{short}) side can reduce interference bias due to weaker competition, while randomizing the larger (\\emph{long}) side provides a larger nominal sample, potentially reducing variance. On the surface, these competing considerations suggest a bias-variance trade-off in choosing which side to randomize. We investigate this trade-off in a two-sided marketplace with first-come, first-served (FCFS) booking and heterogeneous customer preferences, studying the bias and variance of difference-in-means estimators of ",
+   "doi": "",
+   "venue": "arXiv econ.EM",
+   "sources": [
+    "arXiv econ.EM(計量経済学)"
+   ],
+   "groups": [
+    "ecm"
+   ],
+   "countries": [],
+   "tags": [
+    "stat.ME",
+    "econ.EM",
+    "econ.TH"
+   ],
+   "first_seen": "2026-11-19",
+   "japan": false,
+   "econometrics": true,
+   "lang": "en"
+  },
+  "arxiv:2611.16242": {
+   "title": "A Sensitivity Framework for Assessing External Validity",
+   "url": "https://arxiv.org/abs/2611.16242",
+   "authors": [
+    "Ariel Boyarsky",
+    "Naoki Egami",
+    "Hongseok Namkoong"
+   ],
+   "date": "2026-11-12",
+   "abstract": "Assessing the external validity of experimental results is a pervasive challenge in causal inference as internally valid findings need not generalize beyond sites in which the experiments were conducted. Since the number of sites is often smaller than the number of site-level variables that moderate causal effects, we develop a partial identification framework that lets practitioners assess external validity under a wide range of assumptions that allow extrapolation across site-level variables. Our optimization-driven approach can accommodate any affine family of parameter restrictions, such as interaction terms being dominated by direct effects (the \"effect hierarchy principle\"). Since stan",
+   "doi": "",
+   "venue": "arXiv econ.EM",
+   "sources": [
+    "arXiv econ.EM(計量経済学)"
+   ],
+   "groups": [
+    "ecm"
+   ],
+   "countries": [],
+   "tags": [
+    "stat.ME",
+    "econ.EM",
+    "stat.ML"
+   ],
+   "first_seen": "2026-11-19",
+   "japan": false,
+   "econometrics": true,
+   "lang": "en"
+  },
+  "arxiv:2611.16199": {
+   "title": "Testing Density Discontinuity Using Spacings",
+   "url": "https://arxiv.org/abs/2611.16199",
+   "authors": [
+    "William T. Firmin"
+   ],
+   "date": "2026-11-12",
+   "abstract": "In the regression discontinuity design, researchers assess the credibility of assumptions by testing the running variable's density for a discontinuity at the cutoff. This paper proposes a novel such test. The test uses q spacings on each side of the cutoff, where spacings are the widths between ordered observations. Spacings yield a continuous statistic that behaves well under weak assumptions. I study its properties in two asymptotic frameworks: one where q is fixed as the sample size increases and one where q slowly diverges to infinity. With q fixed, the test achieves exact asymptotic size control without user randomization. When q increases slowly, the test becomes consistent without sa",
+   "doi": "",
+   "venue": "arXiv econ.EM",
+   "sources": [
+    "arXiv econ.EM(計量経済学)"
+   ],
+   "groups": [
+    "ecm"
+   ],
+   "countries": [],
+   "tags": [
+    "econ.EM"
+   ],
+   "first_seen": "2026-11-19",
+   "japan": false,
+   "econometrics": true,
+   "lang": "en"
+  },
+  "arxiv:2611.15947": {
+   "title": "Introducing and Repealing an EV Subsidy: Evidence from New Zealand's Clean Car Discount",
+   "url": "https://arxiv.org/abs/2611.15947",
+   "authors": [
+    "Fabian Dunker",
+    "Jyotsna Garg"
+   ],
+   "date": "2026-11-11",
+   "abstract": "New Zealand's Clean Car Discount (CCD) was a feebate scheme that offered rebates for low-emission vehicles from July 2021, added fees for high-emission vehicles from April 2022, and was abolished at the end of December 2023. Shortly afterwards, road user charges were introduced for electric vehicles (EVs). We study how EV adoption responded to the introduction and the abrupt repeal of the scheme, using monthly vehicle registration data from 2014 to 2024. A structural break analysis following Bai and Perron, combined with a regression discontinuity in time, shows that breaks in the registrations of battery electric, plug-in hybrid and conventional vehicles coincide with the policy dates. To e",
+   "doi": "",
+   "venue": "arXiv econ.EM",
+   "sources": [
+    "arXiv econ.EM(計量経済学)"
+   ],
+   "groups": [
+    "ecm"
+   ],
+   "countries": [],
+   "tags": [
+    "econ.EM",
+    "stat.AP"
+   ],
+   "first_seen": "2026-11-19",
+   "japan": false,
+   "econometrics": true,
+   "lang": "en"
+  },
+  "arxiv:2611.15552": {
+   "title": "Inference After Model Refutation: Uniform Post-Relaxation Inference for Partially Identified Models",
+   "url": "https://arxiv.org/abs/2611.15552",
+   "authors": [
+    "Ulrich Hounyo"
+   ],
+   "date": "2026-11-11",
+   "abstract": "When data reject an econometric model, the researcher must decide which identifying assumptions to give up. If several equally preferred repairs restore compatibility, the repair itself is unknown, and inference under any one of them can exclude structural values supported by the others, even when that inference is exact. I propose Post-Relaxation Projection (PR), which carries one simultaneous confidence event through every repair that may be minimal. With repair-by-repair primitive bounds, PR equals the union of all post-relaxation targets compatible with the band, so no smaller band-based set has the same guarantee. I derive limits on learning the repair, the exact perturbation radius of ",
+   "doi": "",
+   "venue": "arXiv econ.EM",
+   "sources": [
+    "arXiv econ.EM(計量経済学)"
+   ],
+   "groups": [
+    "ecm"
+   ],
+   "countries": [],
+   "tags": [
+    "econ.EM",
+    "stat.ME"
+   ],
+   "first_seen": "2026-11-19",
+   "japan": false,
+   "econometrics": true,
+   "lang": "en"
+  },
+  "arxiv:2611.14789": {
+   "title": "Lost in the Bins: Treatment Effects with Discretized Covariates",
+   "url": "https://arxiv.org/abs/2611.14789",
+   "authors": [
+    "Cenchen Liu"
+   ],
+   "date": "2026-11-10",
+   "abstract": "Mean independence restrictions are widely used to identify average treatment effects, but the covariates used to formulate these restrictions are often observed or used in coarsened form. This paper shows that mean independence conditional on a finely measured covariate need not hold after the covariate is replaced by a coarsened version. Coarsening can therefore change the identifying content of the comparison rather than only the precision of estimation. I characterize the resulting coarsening bias for the ATT and ATE. For the ATT, the bias is driven by within-cell composition in untreated potential outcomes. For the ATE, an additional treatment effect heterogeneity term appears. I then in",
+   "doi": "",
+   "venue": "arXiv econ.EM",
+   "sources": [
+    "arXiv econ.EM(計量経済学)"
+   ],
+   "groups": [
+    "ecm"
+   ],
+   "countries": [],
+   "tags": [
+    "econ.EM",
+    "stat.ME"
+   ],
+   "first_seen": "2026-11-19",
+   "japan": false,
+   "econometrics": true,
+   "lang": "en"
+  },
+  "arxiv:2611.14752": {
+   "title": "Identification of Rational Inattention-Additive Random Utility Models",
+   "url": "https://arxiv.org/abs/2611.14752",
+   "authors": [
+    "Dennis Kristensen",
+    "Ruolei Zhu"
+   ],
+   "date": "2026-11-10",
+   "abstract": "This paper introduces a novel class of econometric models, called Rational Inattention-Additive Random Utility Models. It is based on the discrete choice rational inattention model of Matvejka and McKay (2015) with additive unobserved heterogeneity incorporated. We show that some of the systematic components of the primitives of the model are nonparametrically identified even if the distributions of unobserved variables and the prior of decision makers are both unknown to the Econometrician. If additional information about the prior is known to the Econometrician, even stronger identification results become available.",
+   "doi": "",
+   "venue": "arXiv econ.EM",
+   "sources": [
+    "arXiv econ.EM(計量経済学)"
+   ],
+   "groups": [
+    "ecm"
+   ],
+   "countries": [],
+   "tags": [
+    "econ.EM",
+    "stat.ME"
+   ],
+   "first_seen": "2026-11-19",
+   "japan": false,
+   "econometrics": true,
+   "lang": "en"
+  },
+  "arxiv:2611.14673": {
+   "title": "Recent developments in spatial econometrics",
+   "url": "https://arxiv.org/abs/2611.14673",
+   "authors": [
+    "Abhimanyu Gupta"
+   ],
+   "date": "2026-11-10",
+   "abstract": "We conduct a non-exhaustive survey of the recent spatial econometrics literature by placing it in historical context and mapping current trends. The focus will be primarily on methodological aspects. Starting from the canonical spatial autoregressive model, we cover its many extensions and richer parameterizations. We discuss spatial panel data models and advancements in the study of nonlinear and nonparametric models. Specification testing for spatial econometric models, with its roots in the $J$-test of Davidson and MacKinnon (1981), is also covered, as is spatial correlation robust inference. Finally, we review advancements in general limit theory, limited dependent variable models, spati",
+   "doi": "",
+   "venue": "arXiv econ.EM",
+   "sources": [
+    "arXiv econ.EM(計量経済学)"
+   ],
+   "groups": [
+    "ecm"
+   ],
+   "countries": [],
+   "tags": [
+    "econ.EM",
+    "stat.OT"
+   ],
+   "first_seen": "2026-11-19",
+   "japan": false,
+   "econometrics": true,
    "lang": "en"
   }
  },
@@ -35706,6 +38137,41 @@
     "CiNii:ファイナンス 実証": "CINII_APPID が未設定のため省略しました(手順書のステップ5参照)"
    },
    "new": 5
+  },
+  {
+   "date": "2026-11-19 11:49",
+   "counts": {
+    "日本銀行(WP・日銀レビュー等)": 5,
+    "RIETI ディスカッション・ペーパー": 183,
+    "内閣府 経済社会総合研究所(ESRI)": 0,
+    "金融庁(金融研究センター等)": 0,
+    "NEP 計量経済学 (nep-ecm)": 20,
+    "NEP 計量時系列 (nep-ets)": 11,
+    "NEP 東南・東アジア (nep-sea)": 9,
+    "NEP 金融市場 (nep-fmk)": 7,
+    "NEP 金融政策 (nep-mon)": 18,
+    "NEP 銀行 (nep-ban)": 20,
+    "NEP コーポレートファイナンス (nep-cfn)": 6,
+    "NBER 新着ワーキングペーパー": 31,
+    "arXiv econ.EM(計量経済学)": 100,
+    "Econometrica": 0,
+    "Journal of Econometrics": 5,
+    "Journal of Business & Economic Statistics": 2,
+    "Journal of Financial Economics": 8,
+    "Journal of Finance": 5,
+    "Review of Financial Studies": 5,
+    "Japan and the World Economy": 2,
+    "Journal of the Japanese and International Economies": 0
+   },
+   "errors": {
+    "OpenAlex:日本の研究機関の著者を含む論文": "HTTPError: HTTP Error 401: Unauthorized",
+    "OpenAlex:タイトル・抄録に Japan を含む論文": "HTTPError: HTTP Error 429: Too Many Requests",
+    "CiNii:計量経済": "CINII_APPID が未設定のため省略しました(手順書のステップ5参照)",
+    "CiNii:実証分析 経済": "CINII_APPID が未設定のため省略しました(手順書のステップ5参照)",
+    "CiNii:実証分析 金融": "CINII_APPID が未設定のため省略しました(手順書のステップ5参照)",
+    "CiNii:ファイナンス 実証": "CINII_APPID が未設定のため省略しました(手順書のステップ5参照)"
+   },
+   "new": 97
   }
  ]
 }
