@@ -27196,15 +27196,17 @@
    ],
    "date": "2026-10-26",
    "abstract": "Proxy SVARs often rely on a single credible proxy, leaving proxy exogeneity untestable. Narrative arguments used to justify proxy validity imply a stronger form of exogeneity. We formalize the strong exogeneity assumption and propose a corresponding test based on internal synthetic proxies. The approach uses the external proxy to locate the target-shock direction in the reduced-form innovations and synthesize the candidate shock into an additional internal synthetic proxies, which allows to test the joint exogeneity of the original and internal synthetic proxy. We derive the large-sample theory for the ISP test and show that the identification strength is governed by a direct measure of the ",
-   "doi": "",
+   "doi": "10.1016/j.jeconom.2026.106354",
    "venue": "arXiv econ.EM",
    "sources": [
+    "Journal of Econometrics",
     "NEP 計量時系列 (nep-ets)",
     "NEP 計量経済学 (nep-ecm)",
     "arXiv econ.EM(計量経済学)"
    ],
    "groups": [
-    "ecm"
+    "ecm",
+    "journal"
    ],
    "countries": [],
    "tags": [
@@ -36740,9 +36742,9 @@
    ],
    "countries": [],
    "tags": [
-    "stat.ME",
     "cs.AI",
-    "econ.EM"
+    "econ.EM",
+    "stat.ME"
    ],
    "first_seen": "2026-11-19",
    "japan": false,
@@ -36799,8 +36801,8 @@
    ],
    "countries": [],
    "tags": [
-    "cs.LG",
     "cs.CE",
+    "cs.LG",
     "econ.EM",
     "stat.AP"
    ],
@@ -36827,9 +36829,9 @@
    ],
    "countries": [],
    "tags": [
-    "math.ST",
     "econ.EM",
-    "math.PR"
+    "math.PR",
+    "math.ST"
    ],
    "first_seen": "2026-11-19",
    "japan": false,
@@ -37015,8 +37017,8 @@
    ],
    "countries": [],
    "tags": [
-    "stat.AP",
-    "econ.EM"
+    "econ.EM",
+    "stat.AP"
    ],
    "first_seen": "2026-11-19",
    "japan": false,
@@ -37042,8 +37044,8 @@
    ],
    "countries": [],
    "tags": [
-    "eess.SP",
-    "econ.EM"
+    "econ.EM",
+    "eess.SP"
    ],
    "first_seen": "2026-11-19",
    "japan": false,
@@ -37068,8 +37070,8 @@
    ],
    "countries": [],
    "tags": [
-    "stat.ME",
-    "econ.EM"
+    "econ.EM",
+    "stat.ME"
    ],
    "first_seen": "2026-11-19",
    "japan": false,
@@ -37095,8 +37097,8 @@
    ],
    "countries": [],
    "tags": [
-    "econ.TH",
     "econ.EM",
+    "econ.TH",
     "stat.AP"
    ],
    "first_seen": "2026-11-19",
@@ -37175,8 +37177,8 @@
    ],
    "countries": [],
    "tags": [
-    "econ.EM",
-    "cs.SI"
+    "cs.SI",
+    "econ.EM"
    ],
    "first_seen": "2026-11-19",
    "japan": false,
@@ -37310,8 +37312,8 @@
    ],
    "countries": [],
    "tags": [
-    "stat.ME",
-    "econ.EM"
+    "econ.EM",
+    "stat.ME"
    ],
    "first_seen": "2026-11-19",
    "japan": false,
@@ -37339,8 +37341,8 @@
    ],
    "countries": [],
    "tags": [
-    "stat.AP",
-    "econ.EM"
+    "econ.EM",
+    "stat.AP"
    ],
    "first_seen": "2026-11-19",
    "japan": false,
@@ -37529,8 +37531,8 @@
    ],
    "countries": [],
    "tags": [
-    "stat.ME",
-    "econ.EM"
+    "econ.EM",
+    "stat.ME"
    ],
    "first_seen": "2026-11-19",
    "japan": false,
@@ -37556,9 +37558,9 @@
    ],
    "countries": [],
    "tags": [
-    "stat.ME",
     "econ.EM",
-    "econ.TH"
+    "econ.TH",
+    "stat.ME"
    ],
    "first_seen": "2026-11-19",
    "japan": false,
@@ -37585,8 +37587,8 @@
    ],
    "countries": [],
    "tags": [
-    "stat.ME",
     "econ.EM",
+    "stat.ME",
     "stat.ML"
    ],
    "first_seen": "2026-11-19",
@@ -37749,6 +37751,907 @@
    "first_seen": "2026-11-19",
    "japan": false,
    "econometrics": true,
+   "lang": "en"
+  },
+  "t:金融研究所英文機関誌monetaryandeconomicstudies第44巻": {
+   "title": "金融研究所 英文機関誌 Monetary and Economic Studies（第44巻）",
+   "url": "http://www.boj.or.jp/research/imes/mes/mes_261120.htm",
+   "authors": [],
+   "date": "2026-11-20",
+   "abstract": "",
+   "doi": "",
+   "venue": "日本銀行(WP・日銀レビュー等)",
+   "sources": [
+    "日本銀行(WP・日銀レビュー等)"
+   ],
+   "groups": [
+    "jp"
+   ],
+   "countries": [],
+   "tags": [],
+   "first_seen": "2026-11-23",
+   "japan": true,
+   "econometrics": false,
+   "lang": "ja"
+  },
+  "t:accesstocapitalandtheipodecisionananalysisofusprivatefirms": {
+   "title": "Access to Capital and the IPO Decision: An Analysis of US Private Firms",
+   "url": "https://d.repec.org/n?u=RePEc:nbr:nberwo:35888&r=&r=cfn",
+   "authors": [
+    "Andres Almazan",
+    "Nathan Swem",
+    "Sheridan Titman",
+    "Gregory Weitzner"
+   ],
+   "date": "2026-10-01",
+   "abstract": "We analyze firms’ IPO decisions using detailed financial data on US private firms. Firms with higher external capital needs are more likely to go public. Following the IPO, firms increase investment and debt issuance, leaving their leverage ratios un-changed from pre-IPO levels. Finally, newly public firms borrow from an expanded pool of lenders on improved terms, and the within-firm dispersion in banks’ private risk assessments declines. Our analysis suggests that firms go public to improve their access to capital, which is facilitated by reduced asymmetric information, and that the benefit extends beyond the IPO itself to new sources of debt.",
+   "doi": "",
+   "venue": "NEP コーポレートファイナンス (nep-cfn)",
+   "sources": [
+    "NEP コーポレートファイナンス (nep-cfn)"
+   ],
+   "groups": [
+    "global"
+   ],
+   "countries": [],
+   "tags": [],
+   "first_seen": "2026-11-23",
+   "japan": false,
+   "econometrics": false,
+   "lang": "en"
+  },
+  "t:startupfinancingentryandinnovation": {
+   "title": "Start-up Financing, Entry and Innovation",
+   "url": "https://d.repec.org/n?u=RePEc:cam:camdae:2682&r=&r=cfn",
+   "authors": [
+    "Parry, C."
+   ],
+   "date": "2026-08-31",
+   "abstract": "I develop and estimate an equilibrium model of the VC market to quantify distortions and explain cross-country differences in VC activity. The model maps directly to observable start-up funding histories and outcomes, facilitating estimation. For US start-ups first funded in 2005â€“2015, my estimates suggest that 40% shut down despite having positive continuation value; with continued funding, half would achieve a successful exit. In the UK, the model attributes the gap in activity to the US to financing conditions and acquisition opportunities, and counterfactuals suggest there may be gains to retargeting existing government support towards late-stage start-ups.",
+   "doi": "",
+   "venue": "NEP コーポレートファイナンス (nep-cfn)",
+   "sources": [
+    "NEP コーポレートファイナンス (nep-cfn)"
+   ],
+   "groups": [
+    "global"
+   ],
+   "countries": [],
+   "tags": [
+    "Start-Ups, Innovation, Venture Capital"
+   ],
+   "first_seen": "2026-11-23",
+   "japan": false,
+   "econometrics": false,
+   "lang": "en"
+  },
+  "t:commercialcreditintelligenceaframeworkforenterprisedebtportfoliomanagement": {
+   "title": "Commercial Credit Intelligence: A Framework for Enterprise Debt Portfolio Management",
+   "url": "https://d.repec.org/n?u=RePEc:pra:mprapa:130670&r=&r=cfn",
+   "authors": [
+    "Toncheff, Ryan"
+   ],
+   "date": "2026-08-26",
+   "abstract": "Corporate borrowers manage an increasingly complex web of credit facilities—term loans, revolving lines, equipment financing, commercial real estate mortgages, and government-guaranteed programs—yet the tools available to them for managing that debt have lagged far behind the analytical infrastructure available to their lenders. While banks deploy sophisticated credit risk models, covenant surveillance systems, and portfolio analytics, the typical middle-market borrower monitors its own debt obligations through spreadsheets, filing cabinets, and institutional memory. This paper introduces Commercial Credit Intelligence as an emerging discipline: the systematic, borrower-side aggregation, mon",
+   "doi": "",
+   "venue": "NEP コーポレートファイナンス (nep-cfn)",
+   "sources": [
+    "NEP コーポレートファイナンス (nep-cfn)"
+   ],
+   "groups": [
+    "global"
+   ],
+   "countries": [],
+   "tags": [
+    "commercial credit, debt covenants, corporate treasury, debt portfolio management, financial technology, covenant compliance, middle-market lending"
+   ],
+   "first_seen": "2026-11-23",
+   "japan": false,
+   "econometrics": false,
+   "lang": "en"
+  },
+  "t:thepersistenceofzombiefirmsacrosscountryanalysisofprevalenceanddeterminants": {
+   "title": "The Persistence of Zombie Firms: a Cross-Country Analysis of Prevalence and Determinants",
+   "url": "https://d.repec.org/n?u=RePEc:fbk:wpaper:2026-4&r=&r=cfn",
+   "authors": [
+    "Mattia Casadei Gardini",
+    "Alessio Tomelleri",
+    "Roberto Gabriele"
+   ],
+   "date": "2026-10-01",
+   "abstract": "This article explores the concept of zombie firms, tracing its theoretical origins and analyzing its implications for economic productivity and resource allocation. We review global standards for identifying zombie firms and advance a theoretical distinction between subsidized-credit, profitability-based, and hybrid definitions. The paper then focuses on five OECD countries as a case study, investigating the incidence of zombie firms and their anatomy. Empirically, we employ linear probability models and dynamic logit models to study the probability of a firm being classified as a zombie at any point in time. We find that firm history, returns on assets, productivity dynamics, and debt accum",
+   "doi": "",
+   "venue": "NEP コーポレートファイナンス (nep-cfn)",
+   "sources": [
+    "NEP コーポレートファイナンス (nep-cfn)"
+   ],
+   "groups": [
+    "global"
+   ],
+   "countries": [],
+   "tags": [
+    "Zombie Firms, ICR, Firm productivity, Financial performance, OECD countries"
+   ],
+   "first_seen": "2026-11-23",
+   "japan": false,
+   "econometrics": false,
+   "lang": "en"
+  },
+  "t:financialstressindicatorforperuviannonfinancialcorporations": {
+   "title": "Financial Stress Indicator for Peruvian Non-Financial Corporations",
+   "url": "https://d.repec.org/n?u=RePEc:gii:giihei:heidwp29-2026&r=&r=cfn",
+   "authors": [
+    "Gerald Cisneros",
+    "Marcos Cerón",
+    "Jose Apaza"
+   ],
+   "date": "2026-10-27",
+   "abstract": "This paper develops a financial stress indicator for Peruvian non-financial corporations using annual financial statements over the period 2000–2025. First, we evaluate the gains in predictive performance from recalibrating the original Altman model using Peruvian data. We then construct a broader set of financial indicators from six dimensions: profitability, liquidity, leverage, coverage, activity, and growth and size, to estimate a range of distress models, including static logit, panel logit, and hazard specifications. The results show that the original Altman model performs poorly when applied directly to Peruvian firms, and the recalibration improves predictive accuracy. Expanding the ",
+   "doi": "",
+   "venue": "NEP コーポレートファイナンス (nep-cfn)",
+   "sources": [
+    "NEP コーポレートファイナンス (nep-cfn)"
+   ],
+   "groups": [
+    "global"
+   ],
+   "countries": [],
+   "tags": [
+    "financial distress; bankruptcy prediction; financial stress indicator; LDA, logistic regression, LASSO; emerging markets; Peru"
+   ],
+   "first_seen": "2026-11-23",
+   "japan": false,
+   "econometrics": false,
+   "lang": "en"
+  },
+  "t:theimpactofinternalgovernancemechanismsonthefinancialperformanceofmoroccanbanks": {
+   "title": "The Impact of Internal Governance Mechanisms on the Financial Performance of Moroccan Banks",
+   "url": "https://d.repec.org/n?u=RePEc:hal:journl:hal-05721500&r=&r=cfn",
+   "authors": [
+    "Btissame Raibouaa",
+    "Elarbi El Fakir"
+   ],
+   "date": "2026-01-01",
+   "abstract": "This study analyzes the impact of internal governance practices specifically board of directors characteristics and ownership structure on the financial performance of Moroccan banks, as measured by return on assets (ROA). The empirical analysis is based on panel data for six banks covering the period 2012–2024. The methodology employed relies on ordinary least squares (OLS) regression, with robust standard errors clustered at the bank level, to ensure the validity of statistical inferences. The empirical results, derived from a hypothetical-deductive approach, indicate that several internal governance mechanisms do not have a significant impact on return on assets. However, the dual role of",
+   "doi": "",
+   "venue": "NEP コーポレートファイナンス (nep-cfn)",
+   "sources": [
+    "NEP コーポレートファイナンス (nep-cfn)"
+   ],
+   "groups": [
+    "global"
+   ],
+   "countries": [],
+   "tags": [
+    "Ownership Structure, Gouvernance interne Structure de propriété Conseil d'administration ROA Banques OLS. JEL Classification : C23 G21 G32 O16 Type du papier : Recherche empirique Internal governance Ownership Structure Board of directors ROA Banks OLS. Classification JEL : C23 G21 G32 O16, O16, OLS. Classification JEL : C23, Banks, Board of directors, Gouvernance interne, O16 Type du papier : Recherche empirique Internal governance, G32, G21, OLS. JEL Classification : C23, Banques, ROA, Conseil d'administration, Structure de propriété"
+   ],
+   "first_seen": "2026-11-23",
+   "japan": false,
+   "econometrics": false,
+   "lang": "en"
+  },
+  "arxiv:2611.26410": {
+   "title": "Statistical Inference with Ill-Conditioned Random Weight Neural Network Sieves",
+   "url": "https://arxiv.org/abs/2611.26410",
+   "authors": [
+    "Giovanni Ballarin",
+    "Lukas Gonon",
+    "Lyudmila Grigoryeva"
+   ],
+   "date": "2026-11-19",
+   "abstract": "Random weight neural networks (RWNNs) are shallow networks whose hidden-layer parameters are randomly generated and then kept fixed, while only the output coefficients are estimated. Conditional on the sampled parameters, RWNN regression is a linear sieve problem with random approximation space. We show that such random sieves cannot remain uniformly well-conditioned as their dimension grows. For parametrized feature families satisfying polynomial covering and Lipschitz conditions, the eigenvalues of the population covariance matrix are proven to have polynomial upper bounds determined by the covering geometry of the parameter space, leading to a vanishing smallest eigenvalue. We develop app",
+   "doi": "",
+   "venue": "arXiv econ.EM",
+   "sources": [
+    "arXiv econ.EM(計量経済学)"
+   ],
+   "groups": [
+    "ecm"
+   ],
+   "countries": [],
+   "tags": [
+    "stat.ME",
+    "cs.LG",
+    "econ.EM",
+    "stat.ML"
+   ],
+   "first_seen": "2026-11-23",
+   "japan": false,
+   "econometrics": true,
+   "lang": "en"
+  },
+  "arxiv:2611.25951": {
+   "title": "Measuring climate credibility? Talk, emissions, and corporate debt composition",
+   "url": "https://arxiv.org/abs/2611.25951",
+   "authors": [
+    "Georgios Chortareas",
+    "Fangyuan Kou",
+    "Alexia Ventouri"
+   ],
+   "date": "2026-11-19",
+   "abstract": "We examine whether a directional measure that compares emissions growth with earlier climate discussion is associated with corporate debt composition. The analysis links earnings-call climate language, LSEG/Refinitiv emissions, Capital IQ debt shares, RepRisk incidents, and accounting information for public firms over 2010--2021. The Emissions-to-Talk Index (ETI) is the central empirical measure, but we describe it literally rather than treating it as a general indicator of disclosure quality. In the baseline industry-and-year fixed-effect specification, a higher ETI is associated with a lower bank-debt share. The estimate falls by about four-fifths and is statistically insignificant when fi",
+   "doi": "",
+   "venue": "arXiv econ.EM",
+   "sources": [
+    "arXiv econ.EM(計量経済学)"
+   ],
+   "groups": [
+    "ecm"
+   ],
+   "countries": [],
+   "tags": [
+    "econ.EM"
+   ],
+   "first_seen": "2026-11-23",
+   "japan": false,
+   "econometrics": true,
+   "lang": "en"
+  },
+  "arxiv:2611.25702": {
+   "title": "The Statistical Cost of Second-Order Orthogonality",
+   "url": "https://arxiv.org/abs/2611.25702",
+   "authors": [
+    "Juan Carlos Escanciano",
+    "Joël R. Terschuur"
+   ],
+   "date": "2026-11-19",
+   "abstract": "Debiased machine learning removes the first-order effect of nuisance estimation, but the remaining quadratic bias can invalidate inference when nuisance functions are hard to learn. Second-order orthogonal moments remove this bias at the cost of additional variance. We characterize this cost as the minimum variance of a correction that offsets the quadratic sensitivity of the moment to nuisance errors, and show that exact correction is possible only when this cost is finite. Because the cost varies across moments, the first-order efficient moment need not minimize total variance. We therefore choose the moment and its correction jointly, and derive the resulting minimum variance, a second-or",
+   "doi": "",
+   "venue": "arXiv econ.EM",
+   "sources": [
+    "arXiv econ.EM(計量経済学)"
+   ],
+   "groups": [
+    "ecm"
+   ],
+   "countries": [],
+   "tags": [
+    "econ.EM"
+   ],
+   "first_seen": "2026-11-23",
+   "japan": false,
+   "econometrics": true,
+   "lang": "en"
+  },
+  "arxiv:2611.25420": {
+   "title": "Structural Fine-Tuning under Economic Restrictions",
+   "url": "https://arxiv.org/abs/2611.25420",
+   "authors": [
+    "Yi Niu",
+    "Yuecheng Su",
+    "Ethan Yang"
+   ],
+   "date": "2026-11-19",
+   "abstract": "How should a predictor trained on historical data be adapted to a new economic environment or task when few target observations are available? We propose structural fine-tuning, a framework that introduces economic restrictions to guide the adaptation of pretrained predictors. The framework does not require a complete structural model; instead, it utilizes constraints based on economic knowledge, ranging from simple, ubiquitous assumptions to particular workhorse models. Theoretically, we characterize conditions when economic restrictions improve prediction over the original model and ordinary fine-tuning. Then, we illustrate the framework through a simulation exercise of a credit issuer's c",
+   "doi": "",
+   "venue": "arXiv econ.EM",
+   "sources": [
+    "arXiv econ.EM(計量経済学)"
+   ],
+   "groups": [
+    "ecm"
+   ],
+   "countries": [],
+   "tags": [
+    "econ.EM"
+   ],
+   "first_seen": "2026-11-23",
+   "japan": false,
+   "econometrics": true,
+   "lang": "en"
+  },
+  "arxiv:2611.25253": {
+   "title": "Informative Local Average Treatment Effects Using Propensity Scores",
+   "url": "https://arxiv.org/abs/2611.25253",
+   "authors": [
+    "Martin Huber",
+    "Ying-Ying Lee"
+   ],
+   "date": "2026-11-18",
+   "abstract": "In instrumental variable (IV) models, comparisons of conditional local average treatment effects across covariates can mix effect heterogeneity in observed covariates with changes in the complier population, that is, those whose treatment responds to the instrument. Compliers at different covariate values may differ in unobserved characteristics that may also drive effect heterogeneity. We propose informative conditional local average treatment effects (ICLATEs), which condition on a subset of covariates of interest and on the treatment propensity scores under both values of a binary instrument. Fixing these scores holds constant the range of unobservables that drive treatment selection and ",
+   "doi": "",
+   "venue": "arXiv econ.EM",
+   "sources": [
+    "arXiv econ.EM(計量経済学)"
+   ],
+   "groups": [
+    "ecm"
+   ],
+   "countries": [],
+   "tags": [
+    "econ.EM"
+   ],
+   "first_seen": "2026-11-23",
+   "japan": false,
+   "econometrics": true,
+   "lang": "en"
+  },
+  "arxiv:2611.25238": {
+   "title": "Stability Bands for Feature Attribution: The Core, the Nucleolus and the Bargaining Set of Explained-Variance Games",
+   "url": "https://arxiv.org/abs/2611.25238",
+   "authors": [
+    "Fernando Delbianco",
+    "Fernando Tohmé"
+   ],
+   "date": "2026-11-18",
+   "abstract": "Shapley-value attributions are the default way of explaining machine-learning predictions in economics, but they report a single number per feature and say nothing about whether a coalition of features that jointly accounts for more than it receives could contest that allocation. We study feature attribution through the core, the nucleolus and the bargaining set of an explained-variance game, in which the worth of a set of features is the variance of the model's predictions that those features generate. For every feature we report a stability band (its range of shares over the core, or over the least core when the core is empty), with the nucleolus as distinguished point and a certificate th",
+   "doi": "",
+   "venue": "arXiv econ.EM",
+   "sources": [
+    "arXiv econ.EM(計量経済学)"
+   ],
+   "groups": [
+    "ecm"
+   ],
+   "countries": [],
+   "tags": [
+    "cs.GT",
+    "cs.LG",
+    "econ.EM"
+   ],
+   "first_seen": "2026-11-23",
+   "japan": false,
+   "econometrics": true,
+   "lang": "en"
+  },
+  "arxiv:2611.25222": {
+   "title": "Network-Adaptive Instrumental Variables",
+   "url": "https://arxiv.org/abs/2611.25222",
+   "authors": [
+    "Yi Niu",
+    "Zhengyan Xu"
+   ],
+   "date": "2026-11-18",
+   "abstract": "Three mechanisms generate endogeneity in regressions under interference. We address them by constructing network-adaptive instrumental variables (NIV) for a spatial autoregressive (SAR) model with endogenous covariates and unknown network weights. Under network-conditional exclusion and information equivalence, the resulting instruments yield valid moments without knowing the true network. We establish joint identification of the structural mean coefficients and the network parameters, providing two sufficient routes. Then under additional covariance restrictions, we identify the disturbance spillover coefficient and the innovation variance. We develop NIV-GMM estimation, establish consisten",
+   "doi": "",
+   "venue": "arXiv econ.EM",
+   "sources": [
+    "arXiv econ.EM(計量経済学)"
+   ],
+   "groups": [
+    "ecm"
+   ],
+   "countries": [],
+   "tags": [
+    "econ.EM"
+   ],
+   "first_seen": "2026-11-23",
+   "japan": false,
+   "econometrics": true,
+   "lang": "en"
+  },
+  "arxiv:2611.24402": {
+   "title": "Design-Based Inference for Fuzzy Difference-in-Differences",
+   "url": "https://arxiv.org/abs/2611.24402",
+   "authors": [
+    "Pedro Picchetti"
+   ],
+   "date": "2026-11-18",
+   "abstract": "I study fuzzy difference-in-differences designs from a design-based perspective, in which potential outcomes and treatment decisions are fixed and only the assignment of a policy is random, with heterogeneous and possibly unknown assignment probabilities. The Wald-DiD design estimand equals an assignment-weighted complier effect plus contamination from switchers, from changes in always-takers' effects and from trends in untreated outcomes. I derive the conditions under which the estimand holds a clear causal interpretation. The conditions are weaker than parallel trends in both outcomes and treatments. We propose an Anderson--Rubin-type test with a conservative Neyman variance that remains v",
+   "doi": "",
+   "venue": "arXiv econ.EM",
+   "sources": [
+    "arXiv econ.EM(計量経済学)"
+   ],
+   "groups": [
+    "ecm"
+   ],
+   "countries": [],
+   "tags": [
+    "econ.EM",
+    "stat.ME"
+   ],
+   "first_seen": "2026-11-23",
+   "japan": false,
+   "econometrics": true,
+   "lang": "en"
+  },
+  "arxiv:2611.23952": {
+   "title": "Exploiting Common Volatility Dynamics in High-Dimensional Portfolio Selection",
+   "url": "https://arxiv.org/abs/2611.23952",
+   "authors": [
+    "Dominik Ammon",
+    "Julian Heinz"
+   ],
+   "date": "2026-11-18",
+   "abstract": "We study how commonalities in monthly realized stock volatilities can be exploited for high-dimensional covariance forecasting and portfolio selection. We compare latent factor models with ARMA models that pool dynamic parameters within pre-specified groups of stocks. We show that pooled ARMA models admit an exact dynamic factor representation with group-specific dynamics and stock-specific loadings. The implied static factor representation involves group-specific factors that need not be pervasive. Combining volatility forecasts with realized dynamic conditional correlations and nonlinear shrinkage, we evaluate out-of-sample minimum variance portfolios of S&P 500 constituents. Pooling-based",
+   "doi": "",
+   "venue": "arXiv econ.EM",
+   "sources": [
+    "arXiv econ.EM(計量経済学)"
+   ],
+   "groups": [
+    "ecm"
+   ],
+   "countries": [],
+   "tags": [
+    "econ.EM"
+   ],
+   "first_seen": "2026-11-23",
+   "japan": false,
+   "econometrics": true,
+   "lang": "en"
+  },
+  "doi:10.3982/ecta24769": {
+   "title": "The Social Learning Barrier",
+   "url": "https://doi.org/10.3982/ecta24769",
+   "authors": [
+    "Florian Brandl"
+   ],
+   "date": "2026-01-01",
+   "abstract": "Long‐lived agents interact repeatedly in a social network. In each period, each agent observes a private signal, chooses an action, and then observes the actions of her neighbors. We show that the learning rate of the slowest‐learning agent is capped by a constant that depends only on the distribution of the most informative private signal, but not on the number of agents, the network structure, correlations between the private signals, or the agents' strategies. For equilibrium learning with rational agents, the same result bounds the learning rate of every agent in any equilibrium under a broad class of conditions. The result is driven by an information‐theoretic tradeoff between optimal a",
+   "doi": "10.3982/ecta24769",
+   "venue": "Econometrica",
+   "sources": [
+    "Econometrica"
+   ],
+   "groups": [
+    "journal"
+   ],
+   "countries": [],
+   "tags": [],
+   "first_seen": "2026-11-23",
+   "japan": false,
+   "econometrics": false,
+   "lang": "en"
+  },
+  "doi:10.3982/ecta22288": {
+   "title": "Two‐Sided Markets Shaped by Platform‐Guided Search",
+   "url": "https://doi.org/10.3982/ecta22288",
+   "authors": [
+    "Kwok Hao Lee",
+    "Leon Musolff"
+   ],
+   "date": "2026-01-01",
+   "abstract": "This paper investigates concerns that vertically integrated platforms like Amazon steer demand toward their own offers via algorithmic prominence, potentially harming consumers. On Amazon, for each product, the Buybox prominence algorithm selects one seller to feature, influencing which offers consumers consider. Using novel Amazon sales and Buybox (prominence) data, we estimate a structural model capturing the effects of such algorithmic prominence on consumer choices, seller pricing, and entry. We find that the platform can indeed steer demand as 95% of consumers consider only the Buybox offer. The Buybox is highly price‐elastic (−21), but skews toward Amazon's own offers, which are featur",
+   "doi": "10.3982/ecta22288",
+   "venue": "Econometrica",
+   "sources": [
+    "Econometrica"
+   ],
+   "groups": [
+    "journal"
+   ],
+   "countries": [],
+   "tags": [],
+   "first_seen": "2026-11-23",
+   "japan": false,
+   "econometrics": false,
+   "lang": "en"
+  },
+  "doi:10.3982/ecta22276": {
+   "title": "Extreme Value Theory With Heterogeneous Agents",
+   "url": "https://doi.org/10.3982/ecta22276",
+   "authors": [
+    "Sephorah Mangin"
+   ],
+   "date": "2026-01-01",
+   "abstract": "Extreme value processes feature in any economic model in which agents receive a number of draws from some distribution of values and we examine the behavior of the maximum value in the limit as the number of draws becomes large. This paper asks: Do the average outcomes of such processes change when different agents receive a different number of draws? To answer this, we allow the number of draws an agent receives from the underlying distribution of values (e.g., productivities, ideas, or utility shocks) to be given by a search technology , which reflects heterogeneity in the expected number of draws across different types of agents. We derive a new class of extreme value distributions that g",
+   "doi": "10.3982/ecta22276",
+   "venue": "Econometrica",
+   "sources": [
+    "Econometrica"
+   ],
+   "groups": [
+    "journal"
+   ],
+   "countries": [],
+   "tags": [],
+   "first_seen": "2026-11-23",
+   "japan": false,
+   "econometrics": false,
+   "lang": "en"
+  },
+  "doi:10.3982/ecta22886": {
+   "title": "Correction to ‘General Equilibrium Effects of Cash Transfers: Experimental Evidence From Kenya’ by Dennis Egger, Johannes Haushofer, Edward Miguel, Paul Niehaus, and Michael Walker",
+   "url": "https://doi.org/10.3982/ecta22886",
+   "authors": [
+    "Dennis Egger",
+    "Johannes Haushofer",
+    "Edward Miguel",
+    "Paul Niehaus",
+    "Michael Walker"
+   ],
+   "date": "2026-01-01",
+   "abstract": "",
+   "doi": "10.3982/ecta22886",
+   "venue": "Econometrica",
+   "sources": [
+    "Econometrica"
+   ],
+   "groups": [
+    "journal"
+   ],
+   "countries": [],
+   "tags": [],
+   "first_seen": "2026-11-23",
+   "japan": false,
+   "econometrics": false,
+   "lang": "en"
+  },
+  "doi:10.3982/ecta19299": {
+   "title": "Production Function Estimation With Factor‐Augmenting Technology: An Application to Markups",
+   "url": "https://doi.org/10.3982/ecta19299",
+   "authors": [
+    "Mert Demirer"
+   ],
+   "date": "2026-01-01",
+   "abstract": "I develop a new method for estimating production functions with labor‐augmenting technology and apply it to markup estimation. The method imposes limited parametric restrictions and generalizes prior approaches that rely on the CES production function. I first extend the canonical Olley–Pakes framework assumptions to multidimensional productivity and then develop an identification strategy based on a control variable approach and first‐order conditions. I use this method to estimate output elasticities and markups in manufacturing industries in the US and four developing countries. I find that neglecting labor‐augmenting productivity underestimates capital elasticity, overestimates variable ",
+   "doi": "10.3982/ecta19299",
+   "venue": "Econometrica",
+   "sources": [
+    "Econometrica"
+   ],
+   "groups": [
+    "journal"
+   ],
+   "countries": [],
+   "tags": [],
+   "first_seen": "2026-11-23",
+   "japan": false,
+   "econometrics": true,
+   "lang": "en"
+  },
+  "doi:10.3982/ecta22079": {
+   "title": "Informal Redistribution Through Work",
+   "url": "https://doi.org/10.3982/ecta22079",
+   "authors": [
+    "Elisa Macchi",
+    "Jeremia Stalder"
+   ],
+   "date": "2026-01-01",
+   "abstract": "We investigate work as informal redistribution, leveraging field experiments and firm‐level survey data from Kampala, Uganda. Employers and workers consistently choose redistribution through work over cash transfers, revealing a willingness to pay for work. By randomizing work tasks—some designed to have zero marginal product—we find that production value does not explain these choices: employers pay for zero‐value work. These patterns are also inconsistent with other relational benefits, such as social image concerns or networking. Instead, motivations are normative. Experimental evidence reveals an internalized norm for redistribution through work rooted in incentive arguments on the deman",
+   "doi": "10.3982/ecta22079",
+   "venue": "Econometrica",
+   "sources": [
+    "Econometrica"
+   ],
+   "groups": [
+    "journal"
+   ],
+   "countries": [],
+   "tags": [],
+   "first_seen": "2026-11-23",
+   "japan": false,
+   "econometrics": false,
+   "lang": "en"
+  },
+  "doi:10.3982/ecta946fm": {
+   "title": "Frontmatter of Econometrica 94 Iss. 6",
+   "url": "https://doi.org/10.3982/ecta946fm",
+   "authors": [],
+   "date": "2026-01-01",
+   "abstract": "",
+   "doi": "10.3982/ecta946fm",
+   "venue": "Econometrica",
+   "sources": [
+    "Econometrica"
+   ],
+   "groups": [
+    "journal"
+   ],
+   "countries": [],
+   "tags": [],
+   "first_seen": "2026-11-23",
+   "japan": false,
+   "econometrics": true,
+   "lang": "en"
+  },
+  "doi:10.3982/ecta21141": {
+   "title": "Intermediate Input Substitutability",
+   "url": "https://doi.org/10.3982/ecta21141",
+   "authors": [
+    "Alessandra Peter",
+    "Cian Ruane"
+   ],
+   "date": "2026-01-01",
+   "abstract": "We estimate long‐run elasticities of substitution between intermediate inputs for Indian manufacturing plants. India's trade liberalization in the early 1990s provides an ideal natural policy experiment, with permanent and heterogeneous tariff reductions inducing changes in relative prices which we use for identification. We find a high degree of substitutability at the plant‐level between 8 broad categories of material inputs, significantly above the Cobb–Douglas benchmark of 1. In contrast, when considering shorter time horizons or more transitory shocks to relative prices, we find evidence of much lower elasticities. Using our long‐run elasticities in a quantitative model, we find that mi",
+   "doi": "10.3982/ecta21141",
+   "venue": "Econometrica",
+   "sources": [
+    "Econometrica"
+   ],
+   "groups": [
+    "journal"
+   ],
+   "countries": [],
+   "tags": [],
+   "first_seen": "2026-11-23",
+   "japan": false,
+   "econometrics": false,
+   "lang": "en"
+  },
+  "doi:10.3982/ecta24250": {
+   "title": "Optimal Formula Instruments",
+   "url": "https://doi.org/10.3982/ecta24250",
+   "authors": [
+    "Kirill Borusyak",
+    "Peter Hull"
+   ],
+   "date": "2026-01-01",
+   "abstract": "When estimating the effects of treatments defined by complex formulas, researchers often use simple functions of exogenous shocks as instruments. A leading example is “simulated instruments” for public policy eligibility, which capture variation in state‐level policy generosity. We show how more powerful instruments can be constructed by incorporating heterogeneous shock exposure while using a recentering procedure to avoid bias. We characterize the asymptotically efficient instruments in this class and propose an algorithm for constructing feasible approximations to them. Compared to a simulated instrument approach, our approach yields a 44% smaller standard error on the private insurance c",
+   "doi": "10.3982/ecta24250",
+   "venue": "Econometrica",
+   "sources": [
+    "Econometrica"
+   ],
+   "groups": [
+    "journal"
+   ],
+   "countries": [],
+   "tags": [],
+   "first_seen": "2026-11-23",
+   "japan": false,
+   "econometrics": false,
+   "lang": "en"
+  },
+  "doi:10.3982/ecta25748": {
+   "title": "Correction to ‘Dynamic Spatial General Equilibrium’ by Benny Kleinman, Ernest Liu, and Stephen Redding",
+   "url": "https://doi.org/10.3982/ecta25748",
+   "authors": [
+    "Benny Kleinman",
+    "Ernest Liu",
+    "Stephen J. Redding",
+    "Tomohiro Uchiyama"
+   ],
+   "date": "2026-01-01",
+   "abstract": "",
+   "doi": "10.3982/ecta25748",
+   "venue": "Econometrica",
+   "sources": [
+    "Econometrica"
+   ],
+   "groups": [
+    "journal"
+   ],
+   "countries": [],
+   "tags": [],
+   "first_seen": "2026-11-23",
+   "japan": false,
+   "econometrics": false,
+   "lang": "en"
+  },
+  "doi:10.3982/ecta23194": {
+   "title": "Why Are the Wealthiest so Wealthy? New Longitudinal Empirical Evidence and Implications for Theories of Wealth Inequality",
+   "url": "https://doi.org/10.3982/ecta23194",
+   "authors": [
+    "Joachim Hubmer",
+    "Elin Halvorsen",
+    "Sergio Salgado",
+    "Serdar Ozkan"
+   ],
+   "date": "2026-01-01",
+   "abstract": "We study the lifecycle dynamics of wealth inequality using 1993–2019 Norwegian administrative panel data on wealth and income. Employing a novel budget‐constraint approach, we decompose the excess wealth of the top 0.1% households relative to the median between ages 45 and 64 into higher saving rates (36%), inheritances (31%), returns (28%), and labor income (5%). One‐quarter of the wealthiest—the “New Money”—start with negative wealth on average but accumulate rapidly through high labor income and exceptionally high saving rates and returns. The “Old Money” inherit substantial wealth and grow it through above‐average though more modest saving and returns. We use these dynamic facts to evalu",
+   "doi": "10.3982/ecta23194",
+   "venue": "Econometrica",
+   "sources": [
+    "Econometrica"
+   ],
+   "groups": [
+    "journal"
+   ],
+   "countries": [],
+   "tags": [],
+   "first_seen": "2026-11-23",
+   "japan": false,
+   "econometrics": false,
+   "lang": "en"
+  },
+  "doi:10.3982/ecta946bm": {
+   "title": "Backmatter of Econometrica Vol. 94 Iss. 6",
+   "url": "https://doi.org/10.3982/ecta946bm",
+   "authors": [],
+   "date": "2026-01-01",
+   "abstract": "",
+   "doi": "10.3982/ecta946bm",
+   "venue": "Econometrica",
+   "sources": [
+    "Econometrica"
+   ],
+   "groups": [
+    "journal"
+   ],
+   "countries": [],
+   "tags": [],
+   "first_seen": "2026-11-23",
+   "japan": false,
+   "econometrics": true,
+   "lang": "en"
+  },
+  "doi:10.3982/ecta21760": {
+   "title": "Comment on ‘Selection and Comparative Advantage in Technology Adoption’ by Tavneet Suri",
+   "url": "https://doi.org/10.3982/ecta21760",
+   "authors": [
+    "Emilia Tjernström",
+    "Dalia Ghanem",
+    "Aleksandr Michuda",
+    "Oscar Barriga-Cabanillas",
+    "Travis J. Lybbert",
+    "Jeffrey D. Michler"
+   ],
+   "date": "2026-01-01",
+   "abstract": "This paper illustrates and addresses weak identification in the correlated random coefficient (CRC) model that Suri (2011) uses to study agricultural technology adoption. Using the publicly available data set, which differs slightly from the version used in Suri (2011), we obtain different point estimates for the paper's main CRC model. To understand why these differences are as large as they are, we recast the CRC model as a more general random coefficient model in which the returns to hybrid adoption are restricted to be linear in comparative advantage. This reveals that the key structural parameter in the CRC model ( ϕ ), which governs the relationship between baseline productivity and th",
+   "doi": "10.3982/ecta21760",
+   "venue": "Econometrica",
+   "sources": [
+    "Econometrica"
+   ],
+   "groups": [
+    "journal"
+   ],
+   "countries": [],
+   "tags": [],
+   "first_seen": "2026-11-23",
+   "japan": false,
+   "econometrics": false,
+   "lang": "en"
+  },
+  "doi:10.3982/ecta24013": {
+   "title": "Putting the ‘Finance’ Into ‘Public Finance’: A Theory of Capital Gains Taxation",
+   "url": "https://doi.org/10.3982/ecta24013",
+   "authors": [
+    "Mark Aguiar",
+    "Benjamin Moll",
+    "Florian Scheuer"
+   ],
+   "date": "2026-01-01",
+   "abstract": "Standard optimal capital tax theory abstracts from modeling asset prices, making it unsuitable for thinking about capital gains and wealth taxation. We study optimal redistributive taxation in an environment with asset‐price movements, adopting the modern finance view that asset prices fluctuate not only because of changing cash flows, but also due to other factors (“discount rates”). We show that a combination of realization‐based capital gains and cash flow taxes implements the optimal allocation regardless of the source of asset‐price fluctuations. Moreover, the capital gains tax avoids distortions in portfolio choice (the so‐called lock‐in effect) by targeting total net trades rather tha",
+   "doi": "10.3982/ecta24013",
+   "venue": "Econometrica",
+   "sources": [
+    "Econometrica"
+   ],
+   "groups": [
+    "journal"
+   ],
+   "countries": [],
+   "tags": [],
+   "first_seen": "2026-11-23",
+   "japan": false,
+   "econometrics": false,
+   "lang": "en"
+  },
+  "doi:10.3982/ecta22545": {
+   "title": "An Exact t ‐Test",
+   "url": "https://doi.org/10.3982/ecta22545",
+   "authors": [
+    "Guillaume A. Pouliot"
+   ],
+   "date": "2026-01-01",
+   "abstract": "Multivariate linear regression and randomization‐based inference are two essential methods in statistics and econometrics. Nevertheless, the problem of producing a randomized test for the value of a single regression coefficient that is exactly valid when errors are exchangeable, and which is asymptotically valid for the best linear predictor, has remained elusive. In this paper, we produce a test that is exactly valid with exchangeable errors and which allows for general covariate designs; covariates may be continuous as well as discrete and may be correlated. The test is asymptotically valid when the errors are not exchangeable, in particular in the presence of conditional heteroskedastici",
+   "doi": "10.3982/ecta22545",
+   "venue": "Econometrica",
+   "sources": [
+    "Econometrica"
+   ],
+   "groups": [
+    "journal"
+   ],
+   "countries": [],
+   "tags": [],
+   "first_seen": "2026-11-23",
+   "japan": false,
+   "econometrics": false,
+   "lang": "en"
+  },
+  "doi:10.3982/ecta22958": {
+   "title": "From Predictive Algorithms to the Automatic Generation of Anomalies",
+   "url": "https://doi.org/10.3982/ecta22958",
+   "authors": [
+    "Sendhil Mullainathan",
+    "Ashesh Rambachan"
+   ],
+   "date": "2026-01-01",
+   "abstract": "How can we extract theoretical insights from machine learning algorithms? We take a familiar lesson: researchers often turn intuition into theoretical insight by constructing “anomalies”—specific examples highlighting hypothesized flaws in a theory, such as the Allais paradox. We develop procedures that replace researchers' intuitions with predictive algorithms: given a predictive algorithm and a theory, our procedures automatically generate anomalies for that theory. We illustrate our procedures by generating anomalies for expected utility theory. Based on a neural network that accurately predicts lottery choices, we recover known anomalies for expected utility theory and discover novel one",
+   "doi": "10.3982/ecta22958",
+   "venue": "Econometrica",
+   "sources": [
+    "Econometrica"
+   ],
+   "groups": [
+    "journal"
+   ],
+   "countries": [],
+   "tags": [],
+   "first_seen": "2026-11-23",
+   "japan": false,
+   "econometrics": false,
+   "lang": "en"
+  },
+  "doi:10.3982/ecta23921": {
+   "title": "Coalitions in Repeated Games",
+   "url": "https://doi.org/10.3982/ecta23921",
+   "authors": [
+    "S. Nageeb Ali",
+    "Ce Liu"
+   ],
+   "date": "2026-01-01",
+   "abstract": "This paper proposes a framework and solution concept for repeated coalitional behavior. We model history‐dependent schemes that use continuation promises and punishments to deter coalitions from blocking. We evaluate the effectiveness of these schemes with and without transferable utility, and apply the framework to study the implications of wage transparency in labor markets.",
+   "doi": "10.3982/ecta23921",
+   "venue": "Econometrica",
+   "sources": [
+    "Econometrica"
+   ],
+   "groups": [
+    "journal"
+   ],
+   "countries": [],
+   "tags": [],
+   "first_seen": "2026-11-23",
+   "japan": false,
+   "econometrics": false,
+   "lang": "en"
+  },
+  "doi:10.1016/j.jfineco.2026.104404": {
+   "title": "Populism, polarization and green investment",
+   "url": "https://doi.org/10.1016/j.jfineco.2026.104404",
+   "authors": [
+    "Anders Anderson",
+    "David T. Robinson"
+   ],
+   "date": "2027-01-01",
+   "abstract": "",
+   "doi": "10.1016/j.jfineco.2026.104404",
+   "venue": "Journal of Financial Economics",
+   "sources": [
+    "Journal of Financial Economics"
+   ],
+   "groups": [
+    "journal"
+   ],
+   "countries": [],
+   "tags": [],
+   "first_seen": "2026-11-23",
+   "japan": false,
+   "econometrics": false,
+   "lang": "en"
+  },
+  "doi:10.1016/j.jfineco.2026.104395": {
+   "title": "Time-series efficient factors",
+   "url": "https://doi.org/10.1016/j.jfineco.2026.104395",
+   "authors": [
+    "Sina Ehsani",
+    "Serhiy Kozak",
+    "Juhani Linnainmaa"
+   ],
+   "date": "2027-01-01",
+   "abstract": "",
+   "doi": "10.1016/j.jfineco.2026.104395",
+   "venue": "Journal of Financial Economics",
+   "sources": [
+    "Journal of Financial Economics"
+   ],
+   "groups": [
+    "journal"
+   ],
+   "countries": [],
+   "tags": [],
+   "first_seen": "2026-11-23",
+   "japan": false,
+   "econometrics": false,
+   "lang": "en"
+  },
+  "doi:10.1016/j.jjie.2026.101452": {
+   "title": "The Impact of the Overtime Cap on Working Hours in Japan",
+   "url": "https://doi.org/10.1016/j.jjie.2026.101452",
+   "authors": [
+    "Erina Inoue"
+   ],
+   "date": "2026-11-01",
+   "abstract": "",
+   "doi": "10.1016/j.jjie.2026.101452",
+   "venue": "Journal of the Japanese and International Economies",
+   "sources": [
+    "Journal of the Japanese and International Economies"
+   ],
+   "groups": [
+    "journal"
+   ],
+   "countries": [],
+   "tags": [],
+   "first_seen": "2026-11-23",
+   "japan": true,
+   "econometrics": false,
    "lang": "en"
   }
  },
@@ -38172,6 +39075,41 @@
     "CiNii:ファイナンス 実証": "CINII_APPID が未設定のため省略しました(手順書のステップ5参照)"
    },
    "new": 97
+  },
+  {
+   "date": "2026-11-23 10:58",
+   "counts": {
+    "日本銀行(WP・日銀レビュー等)": 5,
+    "RIETI ディスカッション・ペーパー": 181,
+    "内閣府 経済社会総合研究所(ESRI)": 0,
+    "金融庁(金融研究センター等)": 0,
+    "NEP 計量経済学 (nep-ecm)": 20,
+    "NEP 計量時系列 (nep-ets)": 11,
+    "NEP 東南・東アジア (nep-sea)": 9,
+    "NEP 金融市場 (nep-fmk)": 7,
+    "NEP 金融政策 (nep-mon)": 18,
+    "NEP 銀行 (nep-ban)": 20,
+    "NEP コーポレートファイナンス (nep-cfn)": 6,
+    "NBER 新着ワーキングペーパー": 31,
+    "arXiv econ.EM(計量経済学)": 99,
+    "Econometrica": 17,
+    "Journal of Econometrics": 5,
+    "Journal of Business & Economic Statistics": 2,
+    "Journal of Financial Economics": 9,
+    "Journal of Finance": 3,
+    "Review of Financial Studies": 2,
+    "Japan and the World Economy": 2,
+    "Journal of the Japanese and International Economies": 1
+   },
+   "errors": {
+    "OpenAlex:日本の研究機関の著者を含む論文": "HTTPError: HTTP Error 401: Unauthorized",
+    "OpenAlex:タイトル・抄録に Japan を含む論文": "HTTPError: HTTP Error 401: Unauthorized",
+    "CiNii:計量経済": "CINII_APPID が未設定のため省略しました(手順書のステップ5参照)",
+    "CiNii:実証分析 経済": "CINII_APPID が未設定のため省略しました(手順書のステップ5参照)",
+    "CiNii:実証分析 金融": "CINII_APPID が未設定のため省略しました(手順書のステップ5参照)",
+    "CiNii:ファイナンス 実証": "CINII_APPID が未設定のため省略しました(手順書のステップ5参照)"
+   },
+   "new": 36
   }
  ]
 }
