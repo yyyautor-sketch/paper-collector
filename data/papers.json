@@ -23671,6 +23671,7 @@
    "doi": "",
    "venue": "arXiv econ.EM",
    "sources": [
+    "NEP 計量時系列 (nep-ets)",
     "arXiv econ.EM(計量経済学)"
    ],
    "groups": [
@@ -24816,10 +24817,12 @@
    "doi": "",
    "venue": "arXiv econ.EM",
    "sources": [
+    "NEP 金融政策 (nep-mon)",
     "arXiv econ.EM(計量経済学)"
    ],
    "groups": [
-    "ecm"
+    "ecm",
+    "global"
    ],
    "countries": [],
    "tags": [
@@ -24892,6 +24895,7 @@
    "doi": "",
    "venue": "arXiv econ.EM",
    "sources": [
+    "NEP 計量時系列 (nep-ets)",
     "arXiv econ.EM(計量経済学)"
    ],
    "groups": [
@@ -30654,6 +30658,7 @@
    "doi": "10.1080/07350015.2026.2729095",
    "venue": "arXiv econ.EM",
    "sources": [
+    "NEP 計量時系列 (nep-ets)",
     "arXiv econ.EM(計量経済学)"
    ],
    "groups": [
@@ -30760,6 +30765,7 @@
    "doi": "",
    "venue": "arXiv econ.EM",
    "sources": [
+    "NEP 計量時系列 (nep-ets)",
     "arXiv econ.EM(計量経済学)"
    ],
    "groups": [
@@ -30785,6 +30791,7 @@
    "doi": "",
    "venue": "arXiv econ.EM",
    "sources": [
+    "NEP 計量時系列 (nep-ets)",
     "arXiv econ.EM(計量経済学)"
    ],
    "groups": [
@@ -30864,6 +30871,7 @@
    "doi": "",
    "venue": "arXiv econ.EM",
    "sources": [
+    "NEP 計量時系列 (nep-ets)",
     "arXiv econ.EM(計量経済学)"
    ],
    "groups": [
@@ -32228,6 +32236,7 @@
    "doi": "",
    "venue": "arXiv econ.EM",
    "sources": [
+    "NEP 計量時系列 (nep-ets)",
     "arXiv econ.EM(計量経済学)"
    ],
    "groups": [
@@ -33981,6 +33990,7 @@
    ],
    "countries": [],
    "tags": [
+    "Financial Development; Inequality; Mobile Money; Africa",
     "financial development; inequality; mobile money; Africa"
    ],
    "first_seen": "2026-11-12",
@@ -37362,6 +37372,7 @@
    "doi": "",
    "venue": "arXiv econ.EM",
    "sources": [
+    "NEP 計量時系列 (nep-ets)",
     "arXiv econ.EM(計量経済学)"
    ],
    "groups": [
@@ -37950,9 +37961,9 @@
    ],
    "countries": [],
    "tags": [
-    "stat.ME",
     "cs.LG",
     "econ.EM",
+    "stat.ME",
     "stat.ML"
    ],
    "first_seen": "2026-11-23",
@@ -38653,6 +38664,2435 @@
    "japan": true,
    "econometrics": false,
    "lang": "en"
+  },
+  "t:modalestimationandinferenceofautoregressivedistributedlagmodelappliedtocovid19pandemicdata": {
+   "title": "Modal Estimation and Inference of Autoregressive Distributed Lag Model Applied to COVID-19 Pandemic Data",
+   "url": "https://d.repec.org/n?u=RePEc:yon:wpaper:2026rwp-298&r=&r=ets",
+   "authors": [
+    "XIN JING",
+    "JIN SEO CHO"
+   ],
+   "date": "2026-10-01",
+   "abstract": "This study applies modal regression to the autoregressive distributed lag (ARDL) model and estimates the long- and short-run relationships between integrated series with outliers. Using the proposed modal ARDL (MARDL) methodology, we provide asymptotic distributions of the parameter estimators in the model. We corroborate the theoretical results by simulation of the short- and long-run parameter estimators and Wald tests defined by these estimators. We then apply the MARDL methodology to analyze the short- and long-run relationships between COVID-19 confirmed cases and deaths that are notably characterized by outliers. To assess the dynamic changes in confirmed cases and deaths during the pr",
+   "doi": "",
+   "venue": "NEP 計量時系列 (nep-ets)",
+   "sources": [
+    "NEP 計量時系列 (nep-ets)"
+   ],
+   "groups": [
+    "ecm"
+   ],
+   "countries": [],
+   "tags": [
+    "MARDL; Cointegration; Modal Regression; Conditional Mode; COVID-19; Vaccination; Government Response."
+   ],
+   "first_seen": "2026-11-26",
+   "japan": false,
+   "econometrics": true,
+   "lang": "en"
+  },
+  "t:fittingdynamicconditionaldensitiestocrosssectionalreturnswithpersistenttailintensities": {
+   "title": "Fitting Dynamic Conditional Densities to Cross-Sectional Returns with Persistent Tail Intensities",
+   "url": "https://d.repec.org/n?u=RePEc:toh:dssraa:156&r=&r=ets",
+   "authors": [
+    "Yasumasa Matsuda",
+    "Keigo Sato"
+   ],
+   "date": "2026-10-01",
+   "abstract": "We propose dynamic conditional densities with spline mixtures (DCD-SM) to detect whether the tail intensity of financial returns depends on past information after accounting for volatility and tail-order dynamics. The target is a weighted mixture of the conditional return densities of individual assets in a cross section. Individual distributions may differ, and returns within a date may be dependent. A normalized spline-mixture correction uses score-driven updates to change left and right tail intensities while preserving the reference tail order. We use Wald tests for persistence and assess empirical size, power, and forecast stability in simulations. With fitted references that have dynam",
+   "doi": "",
+   "venue": "NEP 計量時系列 (nep-ets)",
+   "sources": [
+    "NEP 計量時系列 (nep-ets)"
+   ],
+   "groups": [
+    "ecm"
+   ],
+   "countries": [],
+   "tags": [],
+   "first_seen": "2026-11-26",
+   "japan": false,
+   "econometrics": true,
+   "lang": "en"
+  },
+  "t:directionalintradaydependenceandpredictabilityinpetroleummarkets": {
+   "title": "Directional Intraday Dependence and Predictability in Petroleum Markets",
+   "url": "https://d.repec.org/n?u=RePEc:pre:wpaper:202640&r=&r=ets",
+   "authors": [
+    "Oguzhan Cepni",
+    "Rangan Gupta",
+    "Kefu Liao"
+   ],
+   "date": "2026-11-01",
+   "abstract": "We examine whether intraday dependence within a petroleum market helps predict subsequent directional dependence between crude oil and refined products. Using five-minute observations on Bloomberg futures subindices for crude oil, gasoline and heating oil, we separate lagged realised cross-covariances into four return-sign components and condition their daily dynamics on heterogeneous-horizon persistence. The clearest predictive asymmetry concerns same-sign positive returns: product-market own dependence predicts subsequent product-to-crude dependence more strongly than the corresponding crude-source relationship. This pattern coexists with average total dependence that favours crude-to-prod",
+   "doi": "",
+   "venue": "NEP 計量時系列 (nep-ets)",
+   "sources": [
+    "NEP 計量時系列 (nep-ets)"
+   ],
+   "groups": [
+    "ecm"
+   ],
+   "countries": [],
+   "tags": [
+    "petroleum markets, intraday dependence, lagged realised covariance, sign asymmetry, forecast evaluation"
+   ],
+   "first_seen": "2026-11-26",
+   "japan": false,
+   "econometrics": true,
+   "lang": "en"
+  },
+  "t:decomposingrankreversalsundertemporalnonstationarityalignmentaggressivenessandinstability": {
+   "title": "Decomposing Rank Reversals under Temporal Nonstationarity: Alignment, Aggressiveness, and Instability",
+   "url": "https://d.repec.org/n?u=RePEc:arx:papers:2611.04116&r=&r=ets",
+   "authors": [
+    "Deying Song",
+    "Xueying Ding"
+   ],
+   "date": "2026-11-01",
+   "abstract": "Under temporal nonstationarity, model performance rankings reverse across training horizons due to heterogeneous sensitivities to memory. While existing literature addresses adaptive lookbacks, effective model complexity, and empirical forecast evaluation in isolation, no unified framework explains the structural mechanics driving these rank reversals. We bridge this gap by deriving a model-agnostic decomposition of out-of-sample $R^2$ into target alignment, miscalibrated aggressiveness, and predictive instability. Within this framework, we mathematically characterize complexity phase boundaries, establish closed-form optimal-memory equations for ridge regression under local drift, and exten",
+   "doi": "",
+   "venue": "NEP 計量時系列 (nep-ets)",
+   "sources": [
+    "NEP 計量時系列 (nep-ets)"
+   ],
+   "groups": [
+    "ecm"
+   ],
+   "countries": [],
+   "tags": [],
+   "first_seen": "2026-11-26",
+   "japan": false,
+   "econometrics": true,
+   "lang": "en"
+  },
+  "t:neuralrealizedmeasuresforecastsupervisedintradayaggregationforvolatilityforecasting": {
+   "title": "Neural Realized Measures: Forecast-Supervised Intraday Aggregation for Volatility Forecasting",
+   "url": "https://d.repec.org/n?u=RePEc:arx:papers:2611.07287&r=&r=ets",
+   "authors": [
+    "Brian Sing Fan Chan",
+    "Jennifer So Kuen Chan"
+   ],
+   "date": "2026-11-01",
+   "abstract": "High-frequency volatility forecasting typically separates measurement from prediction: intraday observations are first compressed into a daily realized measure using a fixed aggregation rule, and the resulting statistic is then passed to a forecasting model. This conventional pipeline therefore treats measure construction as forecast-agnostic preprocessing. We ask whether the aggregation stage itself can instead be learned from the downstream forecasting objective while preserving the statistical structure of established realized measures. We propose Neural Realized Measures (NRM), a primitive-preserving, forecast-supervised aggregation framework that retains the original measure-specific in",
+   "doi": "",
+   "venue": "NEP 計量時系列 (nep-ets)",
+   "sources": [
+    "NEP 計量時系列 (nep-ets)"
+   ],
+   "groups": [
+    "ecm"
+   ],
+   "countries": [],
+   "tags": [],
+   "first_seen": "2026-11-26",
+   "japan": false,
+   "econometrics": true,
+   "lang": "en"
+  },
+  "t:dsincbeyondhestonthe32andothernonaffinestochasticvolatilitymodels": {
+   "title": "DSINC beyond Heston: the 3/2 and other non-affine stochastic-volatility models",
+   "url": "https://d.repec.org/n?u=RePEc:arx:papers:2610.28847&r=&r=ets",
+   "authors": [
+    "Andrey Itkin"
+   ],
+   "date": "2026-10-01",
+   "abstract": "This paper extends the damped-sinc (DSINC) method for American options beyond the affine Heston class to general one-factor stochastic-volatility models. We show that the collapse identity, which reduces the early-exercise integral to a single spectral integral, remains valid for these models. Damping between zero and one is admissible whenever the discounted spot is a nonnegative local martingale. An It\\^o transformation of the volatility factorizes the conditional characteristic function and identifies a natural coordinate for approximating the exercise boundary. The 3/2 model admits closed-form joint transforms in terms of Kummer functions, while uncorrelated SABR admits a Bessel represen",
+   "doi": "",
+   "venue": "NEP 計量時系列 (nep-ets)",
+   "sources": [
+    "NEP 計量時系列 (nep-ets)"
+   ],
+   "groups": [
+    "ecm"
+   ],
+   "countries": [],
+   "tags": [],
+   "first_seen": "2026-11-26",
+   "japan": false,
+   "econometrics": true,
+   "lang": "en"
+  },
+  "t:sustainablemarinetourismasadriverofinclusivegrowthincoastalcommunitiescomparativeevidencefromindonesiaandmalaysia": {
+   "title": "Sustainable Marine Tourism as a Driver of Inclusive Growth in Coastal Communities: Comparative Evidence from Indonesia and Malaysia",
+   "url": "https://d.repec.org/n?u=RePEc:zbw:esconf:344633&r=&r=sea",
+   "authors": [
+    "Zevaya, Faradina",
+    "Zulgani, Z.",
+    "Junaidi, J.",
+    "Umiyati, Etik",
+    "Norhayati, Ab Manaf",
+    "Achmad, Erni",
+    "Rhogib, Fadwa"
+   ],
+   "date": "2026-01-01",
+   "abstract": "Sustainable marine tourism has emerged as a strategic pathway for advancing inclusive growth in coastal communities, particularly in emerging economies where livelihoods are closely linked to marine and cultural resources. This study examines how internal factors shape the sustainability of marine tourism and its capacity to generate inclusive economic benefits in two coastal regions: Karimun Regency, Indonesia, and Terengganu, Malaysia. Using a qualitative comparative approach, data were collected through focus group discussions, in-depth interviews, observations, and document analysis involving government officials, academics, tourism operators, and community representatives. The findings ",
+   "doi": "",
+   "venue": "NEP 東南・東アジア (nep-sea)",
+   "sources": [
+    "NEP 東南・東アジア (nep-sea)"
+   ],
+   "groups": [
+    "japan"
+   ],
+   "countries": [],
+   "tags": [
+    "sustainable marine tourism, inclusive growth, coastal communities, , Indonesia, Malaysia"
+   ],
+   "first_seen": "2026-11-26",
+   "japan": false,
+   "econometrics": false,
+   "lang": "en"
+  },
+  "t:agriculturaladaptationtodroughtevidencefromvietnam": {
+   "title": "Agricultural adaptation to drought: Evidence from Viet Nam",
+   "url": "https://d.repec.org/n?u=RePEc:unu:wpaper:wp-2026-128&r=&r=sea",
+   "authors": [
+    "Lifeng Ren",
+    "Giang Thai",
+    "Khoa Vu",
+    "Nguyen Dinh Tuan Vuong"
+   ],
+   "date": "2026-01-01",
+   "abstract": "We study how drought shapes agricultural adaptation through the reallocation of land and inputs in Viet Nam. Using a long difference approach, we find that in the long run, drought reallocates land away from rice towards other crops, while the shift towards aquaculture depends on local water conditions. Our mechanism analysis shows that drought persistently reduces rice productivity. Irrigation infrastructure mitigates the contraction of rice and facilitates crop diversification, while electricity access enables mechanization in aquaculture.",
+   "doi": "",
+   "venue": "NEP 東南・東アジア (nep-sea)",
+   "sources": [
+    "NEP 東南・東アジア (nep-sea)"
+   ],
+   "groups": [
+    "japan"
+   ],
+   "countries": [],
+   "tags": [
+    "Famine, Adaptation, Agriculture, Land use"
+   ],
+   "first_seen": "2026-11-26",
+   "japan": false,
+   "econometrics": false,
+   "lang": "en"
+  },
+  "t:digitalpaymentsandcashdemandinthephilippines": {
+   "title": "​Digital Payments and Cash Demand in the Philippines",
+   "url": "https://d.repec.org/n?u=RePEc:bhd:dpaper:202601&r=&r=sea",
+   "authors": [
+    "Tristan A. Canare",
+    "Ivory Myka R. Galang"
+   ],
+   "date": "2026-01-01",
+   "abstract": "This study analyzed the relationship between digital payments and demand for cash using data from the Philippines from late 2019 to 2024. Cash demand was measured using two indicators — bank cash withdrawals from the central bank and currency in circulation to GDP ratio. We also used two measures of digital payments. First is a narrow indicator that measures person-to-person (P2P) and person-to merchant (P2M) transactions made through the Philippines’ QR code system. Second is a wider and more encompassing measure that includes, aside from P2P and P2M, more sophisticated and higher-value financial transactions. Using the Auto-Regressive Distributed Lag method, with Instrumental Variable regr",
+   "doi": "",
+   "venue": "NEP 東南・東アジア (nep-sea)",
+   "sources": [
+    "NEP 東南・東アジア (nep-sea)",
+    "NEP 金融政策 (nep-mon)"
+   ],
+   "groups": [
+    "global",
+    "japan"
+   ],
+   "countries": [],
+   "tags": [],
+   "first_seen": "2026-11-26",
+   "japan": false,
+   "econometrics": false,
+   "lang": "en"
+  },
+  "t:theimpactofglobalshocksonrealinvestmentevidencefrommacroeconomicandfirmleveldatainthephilippines": {
+   "title": "​​The Impact of Global Shocks on Real Investment: Evidence from Macroeconomic and Firm-level Data in the Philippines",
+   "url": "https://d.repec.org/n?u=RePEc:bhd:dpaper:202602&r=&r=sea",
+   "authors": [
+    "Hazel C. Parcon-Santos",
+    "Cristeta B. Bagsic"
+   ],
+   "date": "2026-02-01",
+   "abstract": "This study examines the impact of global shocks on real investment in the Philippines through both macro-level and firm-level analyses, utilizing data-based and text-based indicators of global shocks. At the aggregate level, investment declines in response to US dollar volatility, particularly when the dollar is strengthening, as well as to heightened uncertainty in the US economy and global trade. Firm-level analysis reveals substantial heterogeneity in investment responses to global shocks, with the strongest effects observed in firms most exposed to foreign currency debt and import dependence. Manufacturing firms and exporters of goods experience pronounced sensitivity to dollar volatilit",
+   "doi": "",
+   "venue": "NEP 東南・東アジア (nep-sea)",
+   "sources": [
+    "NEP 東南・東アジア (nep-sea)"
+   ],
+   "groups": [
+    "japan"
+   ],
+   "countries": [],
+   "tags": [],
+   "first_seen": "2026-11-26",
+   "japan": false,
+   "econometrics": false,
+   "lang": "en"
+  },
+  "t:constructingindustryspecificeffectiveexchangeratesforthephilippinesatradeweightedapproachtocompetitiveness": {
+   "title": "​​​Constructing Industry-Specific Effective Exchange Rates for the Philippines: A Trade-Weighted Approach to Competitiveness​​",
+   "url": "https://d.repec.org/n?u=RePEc:bhd:dpaper:202603&r=&r=sea",
+   "authors": [
+    "Alyssa Cyrielle B. Villanueva"
+   ],
+   "date": "2026-03-01",
+   "abstract": "This study develops a methodology for constructing industry-specific nominal effective exchange rates (i-NEER) and real effective exchange rates (i-REER) in the Philippines. Using the Philippine Standard Industry Classification, 13 industry-level indices that cover the country's 13 major trading partners, were computed. The industry-level analysis captures trade dynamics that are often overlooked when using aggregate indices. This study’s computed i-NEERs and i-REERs use Producer Price Index, unlike the traditional effective exchange rate indices that use Consumer Price Index. The indices were calculated using a geometric chained methodology consistent with the Bangko Sentral ng Pilipinas’ a",
+   "doi": "",
+   "venue": "NEP 東南・東アジア (nep-sea)",
+   "sources": [
+    "NEP 東南・東アジア (nep-sea)"
+   ],
+   "groups": [
+    "japan"
+   ],
+   "countries": [],
+   "tags": [],
+   "first_seen": "2026-11-26",
+   "japan": false,
+   "econometrics": false,
+   "lang": "en"
+  },
+  "t:limitstoadaptationdistributionalimpactsofclimatechangeonmanufacturingfirmsinindia": {
+   "title": "Limits to adaptation: distributional impacts of climate change on manufacturing firms in India",
+   "url": "https://d.repec.org/n?u=RePEc:unu:wpaper:wp-2026-124&r=&r=sea",
+   "authors": [
+    "Garima Jasuja"
+   ],
+   "date": "2026-01-01",
+   "abstract": "Increasing heat poses growing challenges to firm performance and industrial output, especially in developing economies. This paper utilizes a large panel of formal manufacturing firms in India from the Annual Survey of Industries and applies Recentred Influence Function regressions to estimate the unconditional partial impacts of temperature across the entire production distribution of firms.",
+   "doi": "",
+   "venue": "NEP 東南・東アジア (nep-sea)",
+   "sources": [
+    "NEP 東南・東アジア (nep-sea)"
+   ],
+   "groups": [
+    "japan"
+   ],
+   "countries": [],
+   "tags": [
+    "India, Manufacturing firms, Firm productivity, Total factor productivity, Gender inequality"
+   ],
+   "first_seen": "2026-11-26",
+   "japan": false,
+   "econometrics": false,
+   "lang": "en"
+  },
+  "t:hydropowerdroughtsandthermalsubstitutioninchinaselectricitysystem": {
+   "title": "Hydropower Droughts and Thermal Substitution in China's Electricity System",
+   "url": "https://d.repec.org/n?u=RePEc:pre:wpaper:202641&r=&r=sea",
+   "authors": [
+    "Oguzhan Cepni",
+    "Rangan Gupta"
+   ],
+   "date": "2026-11-01",
+   "abstract": "Hydropower contributes to electricity decarbonisation, but prolonged drought can increase reliance on thermal generation and affect supply beyond the producing region. This study examines these adjustments using monthly electricity generation for China's 31 provinces over 1997-2026 and a drought index constructed from provincial weather data with upstream weights. Panel regressions and instrumental variables estimate local thermal substitution, while local projections trace its persistence and possible transmission to importing provinces. The results indicate that approximately 0.60 GWh of thermal generation replaces each GWh of weather-induced hydropower loss within the affected province in",
+   "doi": "",
+   "venue": "NEP 東南・東アジア (nep-sea)",
+   "sources": [
+    "NEP 東南・東アジア (nep-sea)"
+   ],
+   "groups": [
+    "japan"
+   ],
+   "countries": [],
+   "tags": [
+    "Hydropower, Drought, Thermal generation, Energy droughts, Power system flexibility, Local projections, China"
+   ],
+   "first_seen": "2026-11-26",
+   "japan": false,
+   "econometrics": true,
+   "lang": "en"
+  },
+  "t:identifyingfdiknowledgespilloversusinginnovationnetworksevidencefromchina": {
+   "title": "Identifying FDI Knowledge Spillovers Using Innovation Networks: Evidence from China",
+   "url": "https://d.repec.org/n?u=RePEc:kob:dpaper:dp2026-32&r=&r=sea",
+   "authors": [
+    "Li Jiang",
+    "Canlei Liu",
+    "Yue Lv",
+    "Jing Zhang",
+    "Laixun Zhao"
+   ],
+   "date": "2026-11-01",
+   "abstract": "We examine knowledge spillovers along the innovation network, using data on foreign direct investment (FDI) firms in China and global patent records. We measure FDI-embedded technology with a knowledge input–output (KIO) table based on patent citations and compare it with the conventional production input–output (PIO) framework. KIO-based FDI-embedded technology raises domestic patenting, whereas the PIO analogue becomes insignificant when both are considered jointly. Regarding mechanisms, FDI-embedded technology increases cross-border backward citations, with collaboration as an important observable channel. Spillovers are stronger where technological gaps are larger and technologies are mo",
+   "doi": "",
+   "venue": "NEP 東南・東アジア (nep-sea)",
+   "sources": [
+    "NEP 東南・東アジア (nep-sea)"
+   ],
+   "groups": [
+    "japan"
+   ],
+   "countries": [],
+   "tags": [
+    "FDI; Knowledge spillover; Innovation network"
+   ],
+   "first_seen": "2026-11-26",
+   "japan": false,
+   "econometrics": false,
+   "lang": "en"
+  },
+  "t:tracingthespreadofinflationnarrativesthetransmissionoffomccommunicationtohouseholdexpectationsviathemedia": {
+   "title": "Tracing the Spread of Inflation Narratives: The Transmission of FOMC Communication to Household Expectations via the Media",
+   "url": "https://d.repec.org/n?u=RePEc:han:dpaper:dp-753&r=&r=mon",
+   "authors": [
+    "Bethmage, Eleftherios",
+    "Zahner, Johannes"
+   ],
+   "date": "2026-11-01",
+   "abstract": "Households know little about central banking, yet research finds that they adjust their expectations around monetary policy announcements. We address this puzzle by showing that Federal Open Market Committee (FOMC) inflation narratives - causal explanations for a rising inflation rate - are transmitted to households via the media, thereby influencing how they form expectations. Using hand-annotated FOMC press conference transcripts, we evaluate large language models (LLMs) in their capability to identify inflation narratives. We then link these narratives to contemporaneous New York Times coverage and household expectation data to trace how FOMC communication shapes household expectations. E",
+   "doi": "",
+   "venue": "NEP 金融政策 (nep-mon)",
+   "sources": [
+    "NEP 金融政策 (nep-mon)"
+   ],
+   "groups": [
+    "global"
+   ],
+   "countries": [],
+   "tags": [
+    "Central Bank Communication, Household Expectations, Media Transmission, Narratives, Natural Language Processing, LLM"
+   ],
+   "first_seen": "2026-11-26",
+   "japan": false,
+   "econometrics": false,
+   "lang": "en"
+  },
+  "t:goldreserverelocationsaretheyalwaysbadnewsforusdollarreserves": {
+   "title": "Gold Reserve Relocations: Are They Always Bad News for U.S. Dollar Reserves?",
+   "url": "https://d.repec.org/n?u=RePEc:fip:fedgfn:104041&r=&r=mon",
+   "authors": [
+    "Colin Weiss"
+   ],
+   "date": "2026-11-09",
+   "abstract": "This note reviews several publicized gold reserve relocations by central banks in the Netherlands, France, and Germany since 2013 and any concurrent changes in their U.S. dollar reserve allocations. Generally, the choice of where to custody gold reserves may in part reflect the perceived risk of sanctions or expropriation in the jurisdiction of custody alongside other considerations like the proximity to international gold markets.",
+   "doi": "",
+   "venue": "NEP 金融政策 (nep-mon)",
+   "sources": [
+    "NEP 金融政策 (nep-mon)"
+   ],
+   "groups": [
+    "global"
+   ],
+   "countries": [],
+   "tags": [],
+   "first_seen": "2026-11-26",
+   "japan": false,
+   "econometrics": false,
+   "lang": "en"
+  },
+  "t:shocksdepolíticamonetariaysuimpactoenladistribucióndelingresoenuruguayenbaseaunenfoquefavar": {
+   "title": "Shocks de política monetaria y su impacto en la distribución del ingreso en Uruguay en base a un enfoque FAVAR",
+   "url": "https://d.repec.org/n?u=RePEc:bku:doctra:2025007&r=&r=mon",
+   "authors": [
+    "Alfonso Capurro",
+    "Giuliano Cantisani",
+    "Martín Cassella",
+    "Agustín Martínez",
+    "Nazareno Sánchez",
+    "Florencia Zufiría"
+   ],
+   "date": "2025-01-01",
+   "abstract": "This paper analyzes the impact of contractionary monetary policy shocks on income inequality in Uruguay. Using a three-stage strategy, we quantify the aggregate effects of a monetary shock using a FAVAR model and then distribute these effects across income quintiles using microsimulations, following the approach of Lenza and Slacalek (2024). The analysis is based on time series relevant to the Uruguayan economy during the period 2006-2024 and incorporates specific CPI for each quintile. The results show that the CPI for lower-income households respond more strongly to monetary policy shocks, due to the greater relative weight of tradable goods in their baskets. In turn, microsimulations allo",
+   "doi": "",
+   "venue": "NEP 金融政策 (nep-mon)",
+   "sources": [
+    "NEP 金融政策 (nep-mon)"
+   ],
+   "groups": [
+    "global"
+   ],
+   "countries": [],
+   "tags": [],
+   "first_seen": "2026-11-26",
+   "japan": false,
+   "econometrics": false,
+   "lang": "en"
+  },
+  "t:fiscalsurprisesandinflationexpectations": {
+   "title": "Fiscal Surprises and Inflation Expectations",
+   "url": "https://d.repec.org/n?u=RePEc:bku:doctra:2026005&r=&r=mon",
+   "authors": [
+    "Javier García-Cicco",
+    "Miguel Mello",
+    "Jorge Ponce",
+    "Esteban Tisnes"
+   ],
+   "date": "2026-01-01",
+   "abstract": "We causally identify how firms’ surprises about the fiscal situation affect their inflation expectations and beliefs about how fiscal imbalances will be resolved, using a randomized controlled trial embedded in Uruguay’s Business Expectations Survey. A treatment that reveals the true public debt-to-GDP ratio (and its medium-term forecast) changes the average one-year-ahead inflation expectations for those that significantly update prior beliefs: firms that had underestimated the debt-to-GDP ratio revised inflation expectations upward, whereas over-estimators revised them downward. Beyond inflation expectations, the treatments shifted firms’ subjective beliefs about the likely mode of fiscal ",
+   "doi": "",
+   "venue": "NEP 金融政策 (nep-mon)",
+   "sources": [
+    "NEP 金融政策 (nep-mon)"
+   ],
+   "groups": [
+    "global"
+   ],
+   "countries": [],
+   "tags": [
+    "Inflation expectations; fiscal determinants of inflation; credibility; communication; randomized controlled trial; Uruguay"
+   ],
+   "first_seen": "2026-11-26",
+   "japan": false,
+   "econometrics": false,
+   "lang": "en"
+  },
+  "t:cbdcsdesignimplicationsforfinancialstability": {
+   "title": "CBDC’s design implications for financial stability",
+   "url": "https://d.repec.org/n?u=RePEc:bku:doctra:2025002&r=&r=mon",
+   "authors": [
+    "Jorge Ponce",
+    "Santiago Taroco"
+   ],
+   "date": "2025-01-01",
+   "abstract": "This paper investigates the financial stability implications of introducing a central bank digital currency (CBDC) using an extension of the classical Diamond and Dybvig (1983) model. We analyze two key concerns associated with CBDCs: their potential to foster disintermediation of commercial banks and their impact on the likelihood and dynamics of bank runs. Our findings suggest that a simply designed CBDC—non-interest bearing, functioning as a digital equivalent of cash—does not inherently lead to disintermediation, as it primarily substitutes for physical cash in transactional use. Moreover, we show that a well-implemented Emergency Liquidity Assistance (ELA) policy, facilitated by CBDC tr",
+   "doi": "",
+   "venue": "NEP 金融政策 (nep-mon)",
+   "sources": [
+    "NEP 金融政策 (nep-mon)"
+   ],
+   "groups": [
+    "global"
+   ],
+   "countries": [],
+   "tags": [
+    "central bank digital currency; disintermediation; bank runs; financial stability"
+   ],
+   "first_seen": "2026-11-26",
+   "japan": false,
+   "econometrics": false,
+   "lang": "en"
+  },
+  "t:theeffectofoilpricesoncoreinflationrecentevidencefromtheadvancedeconomies": {
+   "title": "The Effect of Oil Prices on Core Inflation: Recent Evidence from the Advanced Economies",
+   "url": "https://d.repec.org/n?u=RePEc:fip:fedgfn:104039&r=&r=mon",
+   "authors": [
+    "Andrea De Michelis",
+    "Musa Orak",
+    "Avani Pradhan",
+    "Albert Queraltó"
+   ],
+   "date": "2026-11-09",
+   "abstract": "Elevated oil prices and heightened geopolitical uncertainty have renewed interest in a longstanding policy question: do supply shocks like oil-price increases pose a transitory or a persistent threat to price stability? This note sheds light on this question by providing new evidence on whether the inflation process has changed.",
+   "doi": "",
+   "venue": "NEP 金融政策 (nep-mon)",
+   "sources": [
+    "NEP 金融政策 (nep-mon)"
+   ],
+   "groups": [
+    "global"
+   ],
+   "countries": [],
+   "tags": [],
+   "first_seen": "2026-11-26",
+   "japan": false,
+   "econometrics": false,
+   "lang": "en"
+  },
+  "t:fromoilshocktodomesticinflationexchangeratetransmissionofastraitofhormuzdisruptioninthedemocraticrepublicofthecongo": {
+   "title": "From Oil Shock to Domestic Inflation: Exchange-Rate Transmission of a Strait of Hormuz Disruption in the Democratic Republic of the Congo",
+   "url": "https://d.repec.org/n?u=RePEc:osf:socarx:zy46e_v1&r=&r=mon",
+   "authors": [
+    "Pinshi, Christian P.",
+    "Ngunza, Kevin M.",
+    "Kumenga, Schadrack D."
+   ],
+   "date": "2026-11-05",
+   "abstract": "This paper examines the transmission of oil-price shocks to inflation in the Democratic Republic of the Congo (DRC), using the 2026 disruption of the Strait of Hormuz as the motivating geopolitical episode. Using 62 weekly observations from January 2025 to March 2026, we estimate a short-run autoregressive distributed-lag model, ADL(2, 1, 2), with Newey–West heteroskedasticity- and autocorrelation-consistent standard errors. The results show substantial but dynamically stable inflation persistence. Brent-price increases have a positive but modest and transitory direct effect: a US$10-per-barrel increase raises weekly inflation by about 0.09 percentage point on impact, but the cumulative effe",
+   "doi": "",
+   "venue": "NEP 金融政策 (nep-mon)",
+   "sources": [
+    "NEP 金融政策 (nep-mon)"
+   ],
+   "groups": [
+    "global"
+   ],
+   "countries": [],
+   "tags": [],
+   "first_seen": "2026-11-26",
+   "japan": false,
+   "econometrics": false,
+   "lang": "en"
+  },
+  "t:theimpactofmonetarypolicyonproductivity": {
+   "title": "The impact of monetary policy on productivity",
+   "url": "https://d.repec.org/n?u=RePEc:ecb:ecbops:2026402&r=&r=mon",
+   "authors": [
+    "Valderrama, Maria Teresa",
+    "Bonfim, Diana",
+    "Colciago, Andrea",
+    "Ferrando, Annalisa",
+    "González, Beatriz",
+    "Khametshin, Dmitry",
+    "Lalinsky, Tibor",
+    "Lopez-Garcia, Paloma",
+    "Martins, Fernando",
+    "Modhurima, Orchi",
+    "Vanhala, Juuso"
+   ],
+   "date": "2026-11-01",
+   "abstract": "This occasional paper extends previous analyses by the WGF Expert Group on Productivity of the impact of monetary policy on productivity by exploring new interactions, particularly the influence of market power and the role of productivity in the transmission of monetary policy through the banking system. Using a consistent definition of monetary policy shocks throughout the report and several large-scale micro distribution exercises across euro area countries, our study examines the short-run procyclical effects of monetary policy shocks on productivity through investment decisions. The results reveal a positive relationship between market power and the transmission of monetary policy to pr",
+   "doi": "",
+   "venue": "NEP 金融政策 (nep-mon)",
+   "sources": [
+    "NEP 金融政策 (nep-mon)"
+   ],
+   "groups": [
+    "global"
+   ],
+   "countries": [],
+   "tags": [
+    "capital misallocation, financial frictions, markups, monetary policy, monetary policy shocks, productivity growth, resource allocation"
+   ],
+   "first_seen": "2026-11-26",
+   "japan": false,
+   "econometrics": false,
+   "lang": "en"
+  },
+  "t:themicrostructureofmonetarytransmissioninabimonetaryeconomy": {
+   "title": "The Microstructure of Monetary Transmission in a Bimonetary Economy",
+   "url": "https://d.repec.org/n?u=RePEc:bku:doctra:2026011&r=&r=mon",
+   "authors": [
+    "Cecilia Dassatti",
+    "Javier García-Cicco",
+    "Miguel Mello"
+   ],
+   "date": "2026-01-01",
+   "abstract": "In a bimonetary economy the central bank sets the price of only one of the two inputs with which banks produce credit. We study that transmission using the universe of new loans granted by the Uruguayan banking system, by bank, industry, firm size, currency and product. The shock raises the cost of domestic-currency funding one for one on impact and leaves foreign-currency funding unchanged at first, moving it far less over the following year. The average bank passes that increase to the price of peso credit and does not alter the currency composition of its new loans. The quantity adjustment, by contrast, is entirely heterogeneous and depends on where each bank earns its margin and how it f",
+   "doi": "",
+   "venue": "NEP 金融政策 (nep-mon)",
+   "sources": [
+    "NEP 金融政策 (nep-mon)"
+   ],
+   "groups": [
+    "global"
+   ],
+   "countries": [],
+   "tags": [
+    "credit channel; bank intermediation margin; financial dollarization; loan-level data; local projections; Uruguay"
+   ],
+   "first_seen": "2026-11-26",
+   "japan": false,
+   "econometrics": false,
+   "lang": "en"
+  },
+  "t:evaluativecommunicationandpriorbeliefswheninflationislowandstable": {
+   "title": "Evaluative Communication and Prior Beliefs When Inflation Is Low and Stable",
+   "url": "https://d.repec.org/n?u=RePEc:bku:doctra:2026009&r=&r=mon",
+   "authors": [
+    "Miguel Mello",
+    "Jorge Ponce"
+   ],
+   "date": "2026-01-01",
+   "abstract": "When inflation is low and stable, public numbers can remain visible while receding from firms’ active consideration. We ask whether a central bank can restore their relevance by explaining what those numbers mean. In an experiment embedded in Uruguay’s Business Expectations Survey, every firm received the same inflation rate, point target and tolerance range, and the same opportunity to reconsider a previously reported forecast. Treatment varied only the addition of a short evaluative interpretation, cast either in terms of the gains from price stability or the losses associated with its absence. Interpretation redirected updating. The estimated revision incidence rose, and the additional re",
+   "doi": "",
+   "venue": "NEP 金融政策 (nep-mon)",
+   "sources": [
+    "NEP 金融政策 (nep-mon)"
+   ],
+   "groups": [
+    "global"
+   ],
+   "countries": [],
+   "tags": [
+    "inflation expectations; central bank communication; attention; framing; firms; survey experiment"
+   ],
+   "first_seen": "2026-11-26",
+   "japan": false,
+   "econometrics": false,
+   "lang": "en"
+  },
+  "t:detectingstagflationarystressinemergingeconomies": {
+   "title": "Detecting stagflationary stress in emerging economies",
+   "url": "https://d.repec.org/n?u=RePEc:phs:dpaper:202610&r=&r=mon",
+   "authors": [
+    "Jan Carlo B. Punongbayan"
+   ],
+   "date": "2026-11-01",
+   "abstract": "I compare two ways to date stagflationary stress in 139 emerging market and developing economies over 1980â€“2023. The capped floor preserves high-inflation contractions and adds positive-growth years with growth below 3 percent and more than two percentage points below trend. The fixed rule requires growth below 2 percent. With inflation above 5 percent, the rules share 661 country-years and 95 multi-year spells with identical dates. The capped floor alone identifies 57 country-years and the fixed rule alone identifies 184. With inflation above 8 percent, the corresponding disagreement counts are 38 and 135. The adjusted employment-growth difference between the two exclusive groups is 0.06 ",
+   "doi": "",
+   "venue": "NEP 金融政策 (nep-mon)",
+   "sources": [
+    "NEP 金融政策 (nep-mon)"
+   ],
+   "groups": [
+    "global"
+   ],
+   "countries": [],
+   "tags": [
+    "stagflation; emerging economies; inflation; growth shortfalls; surveillance; business-cycle dating"
+   ],
+   "first_seen": "2026-11-26",
+   "japan": false,
+   "econometrics": false,
+   "lang": "en"
+  },
+  "t:currencymismatchesandmisallocation": {
+   "title": "Currency Mismatches and Misallocation",
+   "url": "https://d.repec.org/n?u=RePEc:bku:doctra:2025005&r=&r=mon",
+   "authors": [
+    "Mariana Sans",
+    "Cecilia Dassatti"
+   ],
+   "date": "2025-01-01",
+   "abstract": "We study the role of firms' balance sheet currency mismatches---the excess of US dollar liabilities over dollar assets---in factor misallocation. Using matched firm-loan data from Uruguay for 2012-2019, a period marked by large exchange rate depreciations, we show that currency mismatches are prevalent and persistent. They are concentrated among firms with higher productivity, faster growth, and larger capital stock, and among foreign-owned firms. We find that currency mismatches account for no more than 7% of the dispersion in the marginal revenue products of capital and labor, suggesting they are a limited source of factor misallocation.",
+   "doi": "",
+   "venue": "NEP 金融政策 (nep-mon)",
+   "sources": [
+    "NEP 金融政策 (nep-mon)"
+   ],
+   "groups": [
+    "global"
+   ],
+   "countries": [],
+   "tags": [
+    "Currency Mismatches; Misallocations; Financial frictions"
+   ],
+   "first_seen": "2026-11-26",
+   "japan": false,
+   "econometrics": false,
+   "lang": "en"
+  },
+  "t:alongthepricechainglobalsupplychaindisruptionsandinflationineurope": {
+   "title": "Along the price chain: Global supply chain disruptions and inflation in Europe",
+   "url": "https://d.repec.org/n?u=RePEc:zbw:fubsbe:344518&r=&r=mon",
+   "authors": [
+    "Börger, Tobias",
+    "Strohsal, Till"
+   ],
+   "date": "2026-01-01",
+   "abstract": "Global supply chain disruptions exert substantial and persistent inflationary pressures across Europe. This paper employs local projections to trace the transmission of these shocks along the price chain: import prices respond first, producer prices follow, and consumer prices adjust more slowly. Producer prices rise almost as much as import prices and remain elevated after import prices have returned to baseline, with domestic producer prices responding more strongly than non-domestic producer prices. Among consumer prices, food and energy respond most strongly, while core prices rise less but persistently. After two years, supply chain shocks explain 6 to 14 percent of consumer price forec",
+   "doi": "",
+   "venue": "NEP 金融政策 (nep-mon)",
+   "sources": [
+    "NEP 金融政策 (nep-mon)"
+   ],
+   "groups": [
+    "global"
+   ],
+   "countries": [],
+   "tags": [
+    "Global supply chain shocks, inflation, import prices, producer prices, consumer prices, local projections"
+   ],
+   "first_seen": "2026-11-26",
+   "japan": false,
+   "econometrics": false,
+   "lang": "en"
+  },
+  "t:monetarypolicyunderfiscalrisk": {
+   "title": "Monetary Policy under Fiscal Risk",
+   "url": "https://d.repec.org/n?u=RePEc:idb:brikps:14843&r=&r=mon",
+   "authors": [
+    "Villamizar-Villegas, Mauricio",
+    "Valencia, Oscar",
+    "Prado Garcia, Andres Felipe",
+    "Aya, Nicolás"
+   ],
+   "date": "2026-11-01",
+   "abstract": "Fiscal stance and sovereign credibility shape monetary policy transmission even outside fiscal dominance. Using a panel of advanced and emerging economies since the mid-1990s, we show that sovereign-risk regimes differ less by headline debt than by borrowing costs, debt composition, and interest burdens. Elevated sovereign risk weakens the transmission of monetary policy, foreign-exchange intervention, macroprudential tools, and capital- flow measures to prices, exchange rates, and output. A small open-economy model with a fiscal block can rationalize these patterns. Emerging markets operate under tighter fiscal constraints, rely more on multi-instrument configurations, and face a narrower s",
+   "doi": "",
+   "venue": "NEP 金融政策 (nep-mon)",
+   "sources": [
+    "NEP 金融政策 (nep-mon)"
+   ],
+   "groups": [
+    "global"
+   ],
+   "countries": [],
+   "tags": [
+    "Monetary policy transmission;sovereign risk;Fiscal space;Foreing-exchange intervention;Macroprudential"
+   ],
+   "first_seen": "2026-11-26",
+   "japan": false,
+   "econometrics": false,
+   "lang": "en"
+  },
+  "t:heterogeneityinthetransmissionofglobalshockstothedistributionofinflationexpectations": {
+   "title": "Heterogeneity in the Transmission of Global Shocks to the Distribution of Inflation Expectations",
+   "url": "https://d.repec.org/n?u=RePEc:bku:doctra:2025009&r=&r=mon",
+   "authors": [
+    "Miguel Mello"
+   ],
+   "date": "2025-01-01",
+   "abstract": "This paper studies how global financial and monetary shocks shape the full distribution of Uruguayan firms’ inflation expectations. Using a unique monthly survey and externally identified shocks, we trace the response of the mean, dispersion, and percentiles of the distribution to global shocks. A contractionary global monetary shock lowers expected inflation most clearly in the upper tail by about 2 percentage points and compresses disagreement, consistent with stronger policy credibility. In contrast, global risk shocks and broad U.S. dollar appreciations raise expectations across the distribution (0.1 pp. on average). A domestic peso depreciation also increases expectations, but primarily",
+   "doi": "",
+   "venue": "NEP 金融政策 (nep-mon)",
+   "sources": [
+    "NEP 金融政策 (nep-mon)"
+   ],
+   "groups": [
+    "global"
+   ],
+   "countries": [],
+   "tags": [
+    "Firms’ inflation expectations; global monetary shocks; financial shocks; distribution inflation expectations; Uruguay"
+   ],
+   "first_seen": "2026-11-26",
+   "japan": false,
+   "econometrics": false,
+   "lang": "en"
+  },
+  "t:themacroeconomicsofstablecoins": {
+   "title": "The macroeconomics of stablecoins",
+   "url": "https://d.repec.org/n?u=RePEc:zbw:bubdps:344532&r=&r=mon",
+   "authors": [
+    "Hofmann, Boris",
+    "Kaldorf, Matthias",
+    "Rottner, Matthias"
+   ],
+   "date": "2026-01-01",
+   "abstract": "We analyse the macroeconomic impact of stablecoins using a quantitative macroe- conomic model. Stablecoins influence the economy through two opposing channels: (i) a bank lending channel, as household demand for stablecoins raises deposit rates, increases bank funding costs, and reduces loan supply; and (ii) a fiscal space chan- nel, as stablecoin issuers' demand for Treasury bills lowers sovereign borrowing costs, expands fiscal space for tax reductions or higher spending. Calibrated to the U.S., the model predicts that widespread stablecoin adoption modestly reduces long-run output, as the bank lending channel outweighs the fiscal space channel. However, the overall long-run impact may shi",
+   "doi": "",
+   "venue": "NEP 金融政策 (nep-mon)",
+   "sources": [
+    "NEP 金融政策 (nep-mon)"
+   ],
+   "groups": [
+    "global"
+   ],
+   "countries": [],
+   "tags": [
+    "Stablecoins, Macroeconomic Model, Regulation, Credit Supply, Fiscal Policy, Monetary Policy"
+   ],
+   "first_seen": "2026-11-26",
+   "japan": false,
+   "econometrics": false,
+   "lang": "en"
+  },
+  "t:theonsequencesofoptimismandpessimismorinflationdynamicsandmonetarypolicy": {
+   "title": "The onsequences of optimism and pessimism or inflation dynamics and monetary policy",
+   "url": "https://d.repec.org/n?u=RePEc:zbw:bubdps:344521&r=&r=mon",
+   "authors": [
+    "Hasenclever, Stefan",
+    "Hoffmann, Mathias"
+   ],
+   "date": "2026-01-01",
+   "abstract": "We study how imperfect information about the persistence of economic funda- mentals affects inflation dynamics and monetary policy. We focus on total factor productivity (TFP) growth, which encompasses demand- and supply-side effects linked to the post-COVID inflation surge. Agents in our model conduct Bayesian learning to infer the persistence of observed TFP growth rates. With imperfect information, waves of optimism and pessimism emerge, leading to a temporary divergence of inflation dynamics from fundamentals in terms of over- and undershooting. This mechanism helps explain the gradual rise of high inflation rates and the cautious monetary policy response in the aftermath of the COVID-19",
+   "doi": "",
+   "venue": "NEP 金融政策 (nep-mon)",
+   "sources": [
+    "NEP 金融政策 (nep-mon)"
+   ],
+   "groups": [
+    "global"
+   ],
+   "countries": [],
+   "tags": [
+    "Monetary Policy, Inflation Dynamics, Imperfect Information, Bayesian learning"
+   ],
+   "first_seen": "2026-11-26",
+   "japan": false,
+   "econometrics": false,
+   "lang": "en"
+  },
+  "t:authorityattentionandtheoriginsofmonetarypolicysurprises": {
+   "title": "Authority, Attention, and the Origins of Monetary Policy Surprises",
+   "url": "https://d.repec.org/n?u=RePEc:bfr:banfra:1067&r=&r=mon",
+   "authors": [
+    "David Gauthier"
+   ],
+   "date": "2026-01-01",
+   "abstract": "At FOMC announcements, markets are surprised by information that was public months earlier, voiced by the members they attend to least. Using Federal Reserve Board members’ communications since 1961, I show that attention follows institutional authority rather than informational content. Non-Chair speeches draw little press coverage and market reaction, yet their tone predicts interest-rate forecast errors and the forward-guidance component of monetary policy surprises. The asymmetry attaches to the office, not the person: upon promotion, the same speaker’s remarks gain attention and lose their predictive power. A rational-inattention model in which forecasters underweight non-Chairs’ influe",
+   "doi": "",
+   "venue": "NEP 金融政策 (nep-mon)",
+   "sources": [
+    "NEP 金融政策 (nep-mon)"
+   ],
+   "groups": [
+    "global"
+   ],
+   "countries": [],
+   "tags": [
+    "Central Bank Communication, Monetary Policy Surprises, Limited Attention, Forward Guidance, Textual Analysis, Federal Reserve"
+   ],
+   "first_seen": "2026-11-26",
+   "japan": false,
+   "econometrics": false,
+   "lang": "en"
+  },
+  "t:secondroundeffectsandasymmetryimpactofoilpriceshocksonemergingmarketinflation": {
+   "title": "​​​Second-round Effects and Asymmetry: Impact of Oil Price Shocks on Emerging Market Inflation​",
+   "url": "https://d.repec.org/n?u=RePEc:bhd:dpaper:202605&r=&r=mon",
+   "authors": [
+    "Joan Christine S. Allon-Pineda",
+    "Christian Kenneth R. Collado"
+   ],
+   "date": "2026-05-01",
+   "abstract": "Successive supply shocks drove inflation to historically high levels in many emerging economies between 2021 to 2023. Central banks need to assess both the direct and indirect pass-through of supply shocks to domestic prices in crafting an effective policy response to manage inflation. We estimate these effects for global oil price shocks using the local projections methodology and examine the asymmetries in the pass-through across various heterogeneous characteristics for selected emerging economies. Our results show significant and persistent direct and second round effects to a global oil price shock, with generally greater response from emerging economies. The heterogeneity results sugge",
+   "doi": "",
+   "venue": "NEP 金融政策 (nep-mon)",
+   "sources": [
+    "NEP 金融政策 (nep-mon)"
+   ],
+   "groups": [
+    "global"
+   ],
+   "countries": [],
+   "tags": [],
+   "first_seen": "2026-11-26",
+   "japan": false,
+   "econometrics": false,
+   "lang": "en"
+  },
+  "t:theinformationeffectpolicyruleambiguityandthedecompositionofmonetarypolicysurprises": {
+   "title": "The Information Effect, Policy Rule Ambiguity, and the Decomposition of Monetary Policy Surprises",
+   "url": "https://d.repec.org/n?u=RePEc:fip:fedcwq:104031&r=&r=mon",
+   "authors": [
+    "Chengcheng Jia"
+   ],
+   "date": "2026-11-05",
+   "abstract": "I study a New Keynesian economy in which the private sector has imperfect information about both the underlying shock and the monetary policy rule. The information effect of monetary policy makes the two sources of imperfect information interact with each other. On the normative side, I show that the conventional certainty equivalence result regarding optimal monetary policy breaks down. The optimal policy rule becomes less responsive to the underlying shock, and depends on the degree of rule ambiguity. On the positive side, in a dynamic New Keynesian model calibrated to the US economy, I decompose monetary policy surprises into shock uncertainty, rule ambiguity, and the interaction effect. ",
+   "doi": "",
+   "venue": "NEP 金融政策 (nep-mon)",
+   "sources": [
+    "NEP 金融政策 (nep-mon)"
+   ],
+   "groups": [
+    "global"
+   ],
+   "countries": [],
+   "tags": [
+    "monetary policy; information frictions; central bank; inflation expectations"
+   ],
+   "first_seen": "2026-11-26",
+   "japan": false,
+   "econometrics": false,
+   "lang": "en"
+  },
+  "t:doforeigncurrencyloansdefaultmoreloanlevelevidencefromarmenia": {
+   "title": "Do Foreign-Currency Loans Default More? Loan-Level Evidence from Armenia",
+   "url": "https://d.repec.org/n?u=RePEc:fau:wpaper:wp2026_32&r=&r=mon",
+   "authors": [
+    "Arthur Grigoryan",
+    "Adam Gersl"
+   ],
+   "date": "2026-11-01",
+   "abstract": "We ask whether foreign-currency loans default more often than local-currency loans, using the loan-level credit registry of the Central Bank of Armenia over 2005 to 2024. We estimate the FXâ€“local currency default gap over two horizons, each separately for business and mortgage loans. A lifetime (static) model asks whether a loan ever defaults, given conditions at origination; a monthly (dynamic) model, whether it defaults in a given month. The FX risk premium is positive and significant in both models and both segments, and holds as bank and macroeconomic controls enter. It survives outside crisis conditions, when the economy is calm, pointing to a risk that does not need the currency to m",
+   "doi": "",
+   "venue": "NEP 金融政策 (nep-mon)",
+   "sources": [
+    "NEP 金融政策 (nep-mon)"
+   ],
+   "groups": [
+    "global"
+   ],
+   "countries": [],
+   "tags": [
+    "FX credit risk, FX lending, dollarization, credit registry, macroprudential policy"
+   ],
+   "first_seen": "2026-11-26",
+   "japan": false,
+   "econometrics": false,
+   "lang": "en"
+  },
+  "t:defiyingthefedmonetarypolicytransmissiontostablecoindepositrates": {
+   "title": "DeFi-ying the Fed? Monetary Policy Transmission to Stablecoin Deposit Rates",
+   "url": "https://d.repec.org/n?u=RePEc:bfr:banfra:1069&r=&r=mon",
+   "authors": [
+    "Andrea Barbon",
+    "Jean Barthélemy",
+    "Benoît Nguyen"
+   ],
+   "date": "2026-01-01",
+   "abstract": "Does the Federal Reserve’s monetary policy influence the rates on USD-pegged stablecoins? While major stablecoin issuers do not pay interest, investors can earn returns by depositing stablecoins in Decentralized Finance (DeFi) protocols. We document unusually large and persistent spreads between traditional short-term interest rates and DeFi deposit rates, as well as a weak and unstable transmission of policy rate changes. We show that, in the short run, monetary policy shocks can move DeFi deposit rates in the opposite direction of policy rates, delaying a convergence that occurs only over the medium run. Both the sign of the short-run effect and the speed of convergence depend on the inten",
+   "doi": "",
+   "venue": "NEP 金融政策 (nep-mon)",
+   "sources": [
+    "NEP 金融政策 (nep-mon)"
+   ],
+   "groups": [
+    "global"
+   ],
+   "countries": [],
+   "tags": [
+    "Stablecoin, Crypto-assets, DeFi, Monetary Policy Transmission"
+   ],
+   "first_seen": "2026-11-26",
+   "japan": false,
+   "econometrics": false,
+   "lang": "en"
+  },
+  "t:measuringeuroareainflationriskwithoptionsmarketimplieddistributionandbalanceofrisks": {
+   "title": "Measuring Euro-Area Inflation Risk with Options: Market-Implied Distribution and Balance of Risks",
+   "url": "https://d.repec.org/n?u=RePEc:bde:opaper:2625e&r=&r=mon",
+   "authors": [
+    "Diego Bonelli"
+   ],
+   "date": "2026-10-01",
+   "abstract": "We recover risk-neutral spot distributions of euro-area inflation from caps and floors using two non-normal models — the parametric SABR smile and a nonparametric estimator — benchmarked against a normal model. We construct forward distributions from the spot marginals using a copula. Both non-normal models imply skewed and fat-tailed distributions, while the normal benchmark assigns less probability to extreme outcomes. We summarise the distributions with a balance-of-risks index, which varies sharply over short horizons but shows more limited movement over longer horizons. On matched dates, the option-implied balance of risks is generally lower than the corresponding measure reported by pr",
+   "doi": "",
+   "venue": "NEP 金融政策 (nep-mon)",
+   "sources": [
+    "NEP 金融政策 (nep-mon)"
+   ],
+   "groups": [
+    "global"
+   ],
+   "countries": [],
+   "tags": [
+    "inflation options, risk-neutral density, SABR, balance of risks, tail risk, euro area"
+   ],
+   "first_seen": "2026-11-26",
+   "japan": false,
+   "econometrics": false,
+   "lang": "en"
+  },
+  "t:visualvstextualcommunicationimpactonfirmsinflationexpectationsandcentralbankcredibility": {
+   "title": "Visual vs. textual communication: Impact on firms’ inflation expectations and central bank credibility",
+   "url": "https://d.repec.org/n?u=RePEc:bku:doctra:2025003&r=&r=mon",
+   "authors": [
+    "Miguel Mello",
+    "Jorge Ponce",
+    "Luis Rodrigo Arnabal"
+   ],
+   "date": "2025-01-01",
+   "abstract": "We causally identify how firms’ inflation expectations and their trust in the central bank respond to information with the same relevant content presented through different formats. Simple text and visual communication effectively influence inflation expectations, while complex text messaging fails to yield similar effects. Firms exposed to visual representations of information adjust their expectations significantly more than those receiving equivalent information in text form. Notably, the effect of visual content is particularly strong but short-lived. Complex text messages may undermine the credibility of the central bank. These results suggest a scope for tailoring communication to bett",
+   "doi": "",
+   "venue": "NEP 金融政策 (nep-mon)",
+   "sources": [
+    "NEP 金融政策 (nep-mon)"
+   ],
+   "groups": [
+    "global"
+   ],
+   "countries": [],
+   "tags": [
+    "Inflation expectations; credibility; monetary policy communication; randomized controlled trial; Uruguay"
+   ],
+   "first_seen": "2026-11-26",
+   "japan": false,
+   "econometrics": false,
+   "lang": "en"
+  },
+  "t:hasusmonetarypolicyreallyimproveda150yearperspective": {
+   "title": "Has U.S. Monetary Policy Really Improved? A 150‑Year Perspective",
+   "url": "https://d.repec.org/n?u=RePEc:fip:fednls:104038&r=&r=mon",
+   "authors": [
+    "Régis Barnichon",
+    "Geert Mesters"
+   ],
+   "date": "2026-11-09",
+   "abstract": "Has U.S. monetary policy actually improved over time? Or was the apparent success of the modern Federal Reserve mostly the result of more favorable economic conditions and better luck? In this post, we summarize our paper, * which develops a framework for comparing monetary policy across different economic environments. Our approach asks how close policy came to the best response given the economic conditions and shocks policymakers faced. Applying this framework to 150 years of U.S. monetary history, we find that meaningful improvements in monetary policy occurred only in the last thirty years. Most of the gains reflect, among other developments, substantially better responses to financial ",
+   "doi": "",
+   "venue": "NEP 金融政策 (nep-mon)",
+   "sources": [
+    "NEP 金融政策 (nep-mon)"
+   ],
+   "groups": [
+    "global"
+   ],
+   "countries": [],
+   "tags": [
+    "Monetary History; optimal policy; structural shocks; impulse responses"
+   ],
+   "first_seen": "2026-11-26",
+   "japan": false,
+   "econometrics": false,
+   "lang": "en"
+  },
+  "t:onlookingthroughsectoralshockstheroleofdeanchoredinflationexpectations": {
+   "title": "On looking through sectoral shocks: The role of (de-)anchored inflation expectations",
+   "url": "https://d.repec.org/n?u=RePEc:zbw:bubdps:344524&r=&r=mon",
+   "authors": [
+    "Gerke, Rafael",
+    "Röttger, Joost"
+   ],
+   "date": "2026-01-01",
+   "abstract": "How does a possible de-anchoring of inflation expectations alter the conventional monetary policy prescription of look- ing through sectoral shocks? To answer this question, we study optimal monetary policy in a multisector New Keyne- sian model extended to allow for endogenous long-run inflation expectations. We find that the risk of de-anchoring does not change the key policy trade-offs. It remains optimal for monetary policy to stabilise the output gap and inflation in sectors with stickier prices, confirming previous findings in the literature. Moreover, output and inflation dynamics are both hardly affected by a possible de-anchoring. This contrasts with the nominal interest rate respon",
+   "doi": "",
+   "venue": "NEP 金融政策 (nep-mon)",
+   "sources": [
+    "NEP 金融政策 (nep-mon)"
+   ],
+   "groups": [
+    "global"
+   ],
+   "countries": [],
+   "tags": [
+    "Multisector economy, New Keynesian model, optimal monetary policy, de-anchored inflation expectations"
+   ],
+   "first_seen": "2026-11-26",
+   "japan": false,
+   "econometrics": false,
+   "lang": "en"
+  },
+  "t:underpressureregionaldivergenceandmonetaryaccommodationincanada": {
+   "title": "Under Pressure: Regional Divergence and Monetary Accommodation in Canada",
+   "url": "https://d.repec.org/n?u=RePEc:cir:cirwor:2026s-28&r=&r=mon",
+   "authors": [
+    "Étienne Farvaque",
+    "Marcelin Joanis"
+   ],
+   "date": "2026-11-14",
+   "abstract": "This paper examines whether regional economic divergence helps explain monetary policy deviations from standard aggregate prescriptions. Using monthly Canadian data from 1999 to 2024, we estimate benchmark Taylor-type rules for the Bank of Canada and interpret the residual component, with reversed sign, as a measure of monetary accommodation relative to fundamentals. We then relate this measure to provincial labor-market conditions constructed from unemployment gaps. The main result is that greater cross-province dispersion in unemployment gaps predicts more accommodative policy relative to the benchmark rule. This relationship is robust across alternative specifications and does not appear ",
+   "doi": "",
+   "venue": "NEP 金融政策 (nep-mon)",
+   "sources": [
+    "NEP 金融政策 (nep-mon)"
+   ],
+   "groups": [
+    "global"
+   ],
+   "countries": [],
+   "tags": [
+    "Monetary policy, Regional divergence, Regional slack, Taylor rules, Monetary accommodation, Bank of Canada, Politique monétaire, divergences régionales, sous-utilisation des ressources régionales, règles de Taylor, orientation accommodante de la politique monétaire, Banque du Canada"
+   ],
+   "first_seen": "2026-11-26",
+   "japan": false,
+   "econometrics": false,
+   "lang": "en"
+  },
+  "t:statedependentupdatingofhouseholdinflationexpectations": {
+   "title": "State-Dependent Updating of Household Inflation Expectations​",
+   "url": "https://d.repec.org/n?u=RePEc:bhd:dpaper:202606&r=&r=mon",
+   "authors": [
+    "Faith Christian Q. Cacnio",
+    "Cymon Kayle Lubangco"
+   ],
+   "date": "2026-06-01",
+   "abstract": "This paper examines how households combine public inflation signals with their own experience-based beliefs when forming expectations, and how the weights assigned to these inputs vary with inflation persistence. We exploit a unique feature of the Bangko Sentral ng Pilipinas Consumer Expectations Survey which elicits expectations both before and after respondents are exposed to an official inflation statistic. This survey design allows for a direct, non-experimental estimation of the weight households assign to public information when updating their expectations. Using quarterly data for 2010 to 2024, we find that exposure to public inflation information shifts expectations toward the offici",
+   "doi": "",
+   "venue": "NEP 金融政策 (nep-mon)",
+   "sources": [
+    "NEP 金融政策 (nep-mon)"
+   ],
+   "groups": [
+    "global"
+   ],
+   "countries": [],
+   "tags": [],
+   "first_seen": "2026-11-26",
+   "japan": false,
+   "econometrics": false,
+   "lang": "en"
+  },
+  "t:monetarypolicyinsightsunderimperfectcredibility": {
+   "title": "Monetary Policy Insights Under Imperfect Credibility",
+   "url": "https://d.repec.org/n?u=RePEc:bku:doctra:2026001&r=&r=mon",
+   "authors": [
+    "Patricia Carballo"
+   ],
+   "date": "2026-01-01",
+   "abstract": "This paper examines how imperfect monetary policy credibility shapes the transmission and effectiveness of alternative policy frameworks in a small open economy, using Uruguay as a case study. Building on Carballo (2025), I extend a semi-structural New Keynesian model with endogenous credibility to compare the performance of a Taylor-type policy rule, an inflation-forecast-based (IFB) rule, and an optimal control policy under commitment. The analysis combines efficient policy frontiers with a set of illustrative simulations— including cost-push shocks, unconditional forecasts, and a permanent reduction in the inflation target—to assess the trade-offs between inflation stabilization, output v",
+   "doi": "",
+   "venue": "NEP 金融政策 (nep-mon)",
+   "sources": [
+    "NEP 金融政策 (nep-mon)"
+   ],
+   "groups": [
+    "global"
+   ],
+   "countries": [],
+   "tags": [
+    "Semi structural model; monetary policy; credibility; Uruguay"
+   ],
+   "first_seen": "2026-11-26",
+   "japan": false,
+   "econometrics": false,
+   "lang": "en"
+  },
+  "t:beneaththesurfacemappingthelatentstatesofinflationandmonetarypolicy": {
+   "title": "​​Beneath the Surface: Mapping the Latent States of Inflation and Monetary Policy",
+   "url": "https://d.repec.org/n?u=RePEc:bhd:dpaper:202604&r=&r=mon",
+   "authors": [
+    "Joan Christine S. Allon-Pineda",
+    "Carl Francis C. Maliwat"
+   ],
+   "date": "2026-04-01",
+   "abstract": "The recent surge in inflation has drawn increased attention to how central banks monitor economic conditions and calibrate policy responses. This study implements a Hemisphere Neural Network whose architecture allows the estimation of the unobserved states within the New Keynesian Phillips Curve and Taylor rule frameworks. Applying this model to Philippine macroeconomic data, we find that the HNN-derived latent states capture key economic concepts with outputs that align with well-known historical events. Long-run inflation expectations appear anchored at 3.5–4.5 percent, while commodity prices explain most short-term inflation spikes. The estimated output gap and inflation expectations are ",
+   "doi": "",
+   "venue": "NEP 金融政策 (nep-mon)",
+   "sources": [
+    "NEP 金融政策 (nep-mon)"
+   ],
+   "groups": [
+    "global"
+   ],
+   "countries": [],
+   "tags": [],
+   "first_seen": "2026-11-26",
+   "japan": false,
+   "econometrics": false,
+   "lang": "en"
+  },
+  "t:firmsintangibleinvestmentsandfinancingconstraintsevidencefromsurveydata": {
+   "title": "Firms’ Intangible Investments and Financing Constraints: Evidence from Survey Data",
+   "url": "https://d.repec.org/n?u=RePEc:rif:wpaper:153&r=&r=cfn",
+   "authors": [
+    "Pajarinen, Mika",
+    "Rouvinen, Petri"
+   ],
+   "date": "2026-10-30",
+   "abstract": "Abstract This report examines the links between firms’ intangible investments and financing constraints using four complementary surveys: the Finnish SME Barometer (autumn 2018 – spring 2026), the Finnish Industry Investment’s (Tesi’s) Growth Company Pulse (2024–2025), the ECB’s SAFE survey (2015–2025), and the EIB Investment Survey, EIBIS (2016–2025). Analyses across the four surveys yield the same basic result: firms investing in intangibles – especially in R&D and innovative activity – are more likely than other firms to face financing constraints. In the Finnish data, financing constraints have become more common since 2022. International comparisons show that the earlier edge of firms o",
+   "doi": "",
+   "venue": "NEP コーポレートファイナンス (nep-cfn)",
+   "sources": [
+    "NEP コーポレートファイナンス (nep-cfn)"
+   ],
+   "groups": [
+    "global"
+   ],
+   "countries": [],
+   "tags": [
+    "Intangible investment, Financing constraint, Research and development, Innovation, Firm"
+   ],
+   "first_seen": "2026-11-26",
+   "japan": false,
+   "econometrics": false,
+   "lang": "en"
+  },
+  "t:effectofcorporateriskmanagementondividendpolicyevidencefromusoilandgasfirms": {
+   "title": "Effect of Corporate Risk Management on Dividend Policy: Evidence from US Oil and Gas Firms",
+   "url": "https://d.repec.org/n?u=RePEc:ris:riskmr:023858&r=&r=cfn",
+   "authors": [
+    "Karima Ouederni",
+    "Georges Dionne"
+   ],
+   "date": "2026-05-16",
+   "abstract": "This paper tests the real effect of corporate risk management on dividend policy within a signaling theory framework. We suggest that these policies are complementary and should therefore be positively related. Actual empirical results diverge regarding the sign and significance of this relationship. One potential explanation for this mixed evidence is reverse causality. We extend the theoretical framework of Bhattacharya (1979) by allowing firms to hedge future cash flows. The theoretical results suggest that dividend policy and corporate hedging are positively related. Using an instrumental variable approach, we show that corporate hedging emerges as a positive and significant determinant ",
+   "doi": "",
+   "venue": "NEP コーポレートファイナンス (nep-cfn)",
+   "sources": [
+    "NEP コーポレートファイナンス (nep-cfn)"
+   ],
+   "groups": [
+    "global"
+   ],
+   "countries": [],
+   "tags": [
+    "Corporate risk management; dividend policy; firm value; signaling theory; information asymmetry; hedging; oil and gas industry; instrumental variable"
+   ],
+   "first_seen": "2026-11-26",
+   "japan": false,
+   "econometrics": false,
+   "lang": "en"
+  },
+  "t:productivityreviewofthenetherlandssupportingbusinessdynamismtoreviveproductivitygrowth": {
+   "title": "Productivity review of the Netherlands: Supporting business dynamism to revive productivity growth",
+   "url": "https://d.repec.org/n?u=RePEc:oec:ecoaac:41-en&r=&r=cfn",
+   "authors": [
+    "OECD"
+   ],
+   "date": "2026-11-12",
+   "abstract": "The Netherlands has one of the highest levels of labour productivity in the OECD, but growth has slowed over the past decade. The slowdown partly mirrors global trends but has been accentuated by weak investment and declining business dynamism. Against this background, this paper provides a cross-country comparative analysis of the role of firm entry, exit, growth and resource reallocation across firms, in shaping recent Dutch productivity performance. A set of policy simulations suggests that, even though the country performs well on a wide range of policy indicators, some reforms could boost business creation and job reallocation, thereby lifting productivity. The most promising measures i",
+   "doi": "",
+   "venue": "NEP コーポレートファイナンス (nep-cfn)",
+   "sources": [
+    "NEP コーポレートファイナンス (nep-cfn)"
+   ],
+   "groups": [
+    "global"
+   ],
+   "countries": [],
+   "tags": [
+    "Business dynamism, firm-level analysis, investment, labour policy, netherlands, productivity, R&D, regulation, venture capital"
+   ],
+   "first_seen": "2026-11-26",
+   "japan": false,
+   "econometrics": false,
+   "lang": "en"
+  },
+  "t:whenesgratingsdisagreeaninformationintermediationperspectiveonfirmvalue": {
+   "title": "When ESG Ratings Disagree: An Information-Intermediation Perspective on Firm Value",
+   "url": "https://d.repec.org/n?u=RePEc:kob:dpaper:dp2026-30&r=&r=cfn",
+   "authors": [
+    "Huiquan Zhang",
+    "Junyi Shen"
+   ],
+   "date": "2026-10-01",
+   "abstract": "ESG rating disagreement is often viewed as a source of information uncertainty, yet divergent ratings may also encourage information acquisition and interpretation. This study examines the relationship between ESG rating disagreement and firm value from an information-intermediation perspective, focusing on the role of analyst attention. Using data from 893 Chinese A-share listed firms over 2018–2024 and ESG ratings from Bloomberg, Huazheng, and Wind, we find that greater rating disagreement is positively associated with firm value and analyst attention. Bootstrap results further reveal a significant indirect association between rating disagreement and firm value through analyst attention, w",
+   "doi": "",
+   "venue": "NEP コーポレートファイナンス (nep-cfn)",
+   "sources": [
+    "NEP コーポレートファイナンス (nep-cfn)"
+   ],
+   "groups": [
+    "global"
+   ],
+   "countries": [],
+   "tags": [
+    "ESG rating disagreement; Analyst attention; Firm value; Information intermediation; ESG dimensions"
+   ],
+   "first_seen": "2026-11-26",
+   "japan": false,
+   "econometrics": false,
+   "lang": "en"
+  },
+  "t:designinglowemissionzonestheoryandevidencebynanobarahonanataliafabraimeldajuanpablomontero": {
+   "title": "Designing Low Emission Zones: Theory and Evidence -- by Nano Barahona, Natalia Fabra, Imelda, Juan-Pablo Montero",
+   "url": "https://www.nber.org/papers/w36037#fromrss",
+   "authors": [],
+   "date": "",
+   "abstract": "Low Emission Zones (LEZs), which exclude polluting vehicles from parts of a city, are spreading. Yet how their design affects welfare is poorly understood. Unlike price instruments, LEZs ration access inefficiently, imposing costs on inframarginal drivers of restricted vehicles. In our model, welfare is quasi-convex in LEZ size, yielding bang-bang principles: LEZs should be as large as possible or not implemented at all; cleaner vehicles (e.g., hybrids) could be exempt as transition technologies but later restricted, which may require planner commitment. Using new-car purchases, we find Madrid’s LEZ shifted buyers toward cleaner cars, but the surplus losses of switchers and inframarginal dri",
+   "doi": "",
+   "venue": "NBER 新着ワーキングペーパー",
+   "sources": [
+    "NBER 新着ワーキングペーパー"
+   ],
+   "groups": [
+    "global"
+   ],
+   "countries": [],
+   "tags": [],
+   "first_seen": "2026-11-26",
+   "japan": false,
+   "econometrics": false,
+   "lang": "en"
+  },
+  "t:fivefactsaboutstablecoinsbylinwilliamconggordonyliaoeswarsprasadtonyzhang": {
+   "title": "Five Facts About Stablecoins -- by Lin William Cong, Gordon Y. Liao, Eswar S. Prasad, Tony Zhang",
+   "url": "https://www.nber.org/papers/w36038#fromrss",
+   "authors": [],
+   "date": "",
+   "abstract": "We document five facts about payment stablecoins using wallet-level blockchain data from 2020 to 2025. First, stablecoins serve as a transaction currency: onchain volume exceeds Bitcoin’s despite a much smaller supply, velocity has risen sharply, and transactions have shifted toward low-value transfers. Second, using transaction timing to refine exchange-based attribution, we find activity spread across the Americas, Europe, and Asia and fewer cross-regional flows than the standard method implies. Third, we estimate a structural cash-management model on the holdings data and find that the costs of accessing stablecoin wallets have fallen since 2023. Fourth, stablecoins are becoming the settl",
+   "doi": "",
+   "venue": "NBER 新着ワーキングペーパー",
+   "sources": [
+    "NBER 新着ワーキングペーパー"
+   ],
+   "groups": [
+    "global"
+   ],
+   "countries": [],
+   "tags": [],
+   "first_seen": "2026-11-26",
+   "japan": false,
+   "econometrics": false,
+   "lang": "en"
+  },
+  "t:democratizingventurecapitaltaxincentivesandthegeographicexpansionofstartupinvestingbymurillocampelloguilhermejunqueira": {
+   "title": "Democratizing Venture Capital: Tax Incentives and the Geographic Expansion of Startup Investing -- by Murillo Campello, Guilherme Junqueira",
+   "url": "https://www.nber.org/papers/w36039#fromrss",
+   "authors": [],
+   "date": "",
+   "abstract": "Can tax subsidies expand the geographic reach of startup investing? Despite decades of growth, venture capital (VC) remains concentrated in a handful of metropolitan areas, leaving most of the country with limited access to startup financing. We study the 2009–2010 enhancement of the Qualified Small Business Stock (QSBS) program, which eliminated federal capital gains taxes on investments in qualifying startups. By raising the payoff to success, the reform made riskier investments more attractive, including entry into unfamiliar markets. This incentive is especially strong for VC funds. Relative to similarly sized metros that already had VC, the reform raised the probability that a previousl",
+   "doi": "",
+   "venue": "NBER 新着ワーキングペーパー",
+   "sources": [
+    "NBER 新着ワーキングペーパー"
+   ],
+   "groups": [
+    "global"
+   ],
+   "countries": [],
+   "tags": [],
+   "first_seen": "2026-11-26",
+   "japan": false,
+   "econometrics": false,
+   "lang": "en"
+  },
+  "t:theemergenceofanationalcapitalmarket18701940bypaweljanas": {
+   "title": "The Emergence of a National Capital Market,1870–1940 -- by Pawel Janas",
+   "url": "https://www.nber.org/papers/w36040#fromrss",
+   "authors": [],
+   "date": "",
+   "abstract": "This article documents the integration of the American capital market with the first long-run, geolocated, firm-level record of the asset holdings of large institutional investors: over 100,000 holdings of life insurers, 1870–1940. Between 1880 and 1890 the mean distance of insurers’ bonds from home more than doubled and their home-state share fell from over half to under a quarter. The shift occurred within firms, across bond classes and charters. Mortgage lending was national wherever state law permitted it. Integration was largely complete by 1890.",
+   "doi": "",
+   "venue": "NBER 新着ワーキングペーパー",
+   "sources": [
+    "NBER 新着ワーキングペーパー"
+   ],
+   "groups": [
+    "global"
+   ],
+   "countries": [],
+   "tags": [],
+   "first_seen": "2026-11-26",
+   "japan": false,
+   "econometrics": false,
+   "lang": "en"
+  },
+  "t:doestreatingaddictionrebuildlivesevidencefrombuprenorphinebysaraheichmeyeraljoschajanssenjonathanzhang": {
+   "title": "Does Treating Addiction Rebuild Lives? Evidence from Buprenorphine -- by Sarah Eichmeyer, Aljoscha Janssen, Jonathan Zhang",
+   "url": "https://www.nber.org/papers/w36041#fromrss",
+   "authors": [],
+   "date": "",
+   "abstract": "Does treating addiction improve economic circumstances as well as health? Using two decades of Veterans Health Administration records on over 140,000 patients with opioid use disorder and consumer credit data, we exploit staggered facility-level buprenorphine adoption and quasi-random emergency physician assignment. A five-percentage-point increase in the share of clinicians with buprenorphine prescribing experience doubles overdose survivors’ long-term medication use and reduces two-year mortality by an estimated 3.7 percentage points. Instrumenting receipt yields a 22 percent credit score gain. At $300,000 per statistical life-year, estimated survival benefits alone exceed added medical co",
+   "doi": "",
+   "venue": "NBER 新着ワーキングペーパー",
+   "sources": [
+    "NBER 新着ワーキングペーパー"
+   ],
+   "groups": [
+    "global"
+   ],
+   "countries": [],
+   "tags": [],
+   "first_seen": "2026-11-26",
+   "japan": false,
+   "econometrics": false,
+   "lang": "en"
+  },
+  "t:theeffectsofprivateplansubsidiesonenrollmentevidencefrommedicareadvantagebypauldjacobstimothyjlayton": {
+   "title": "The Effects of Private Plan Subsidies on Enrollment: Evidence from Medicare Advantage -- by Paul D. Jacobs, Timothy J. Layton",
+   "url": "https://www.nber.org/papers/w36042#fromrss",
+   "authors": [],
+   "date": "",
+   "abstract": "Some social insurance programs, including the Medicare program in the United States, allow beneficiaries to choose between public and private insurance firms. In these types of programs, the government will often provide a voucher to those who opt for private firms. A key policy decision is the level of this voucher, and a key input to that decision is the elasticity of enrollment in the public versus the private option with respect to the size of the voucher. We estimate this elasticity in the Medicare program, where recent work has provided remarkably little evidence on how Medicare Advantage (MA) enrollment responds to payment despite the program’s rapid growth. We leverage the fact that ",
+   "doi": "",
+   "venue": "NBER 新着ワーキングペーパー",
+   "sources": [
+    "NBER 新着ワーキングペーパー"
+   ],
+   "groups": [
+    "global"
+   ],
+   "countries": [],
+   "tags": [],
+   "first_seen": "2026-11-26",
+   "japan": false,
+   "econometrics": false,
+   "lang": "en"
+  },
+  "t:mentalmodelsoffiscalpolicybyfrancescobianchieradablanorrisradhikagoyalvictoriahaversalmakhalid": {
+   "title": "Mental Models of Fiscal Policy -- by Francesco Bianchi, Era Dabla-Norris, Radhika Goyal, Victoria Haver, Salma Khalid",
+   "url": "https://www.nber.org/papers/w36043#fromrss",
+   "authors": [],
+   "date": "",
+   "abstract": "We study how individuals form expectations about fiscal adjustment. Using survey data from more than 27,000 respondents across 13 countries, we jointly elicit beliefs about current fiscal conditions, expectations of tax increases and spending cuts, and open-ended explanations for those expectations. We classify these explanations into economic mental models, political narratives, and experience-based heuristics. Respondents reporting similar fiscal conditions nevertheless form systematically different expectations of adjustment. Economic mental models are associated with stronger expectations of tax increases and spending cuts in the fiscal configurations we examine, whereas experience-based",
+   "doi": "",
+   "venue": "NBER 新着ワーキングペーパー",
+   "sources": [
+    "NBER 新着ワーキングペーパー"
+   ],
+   "groups": [
+    "global"
+   ],
+   "countries": [],
+   "tags": [],
+   "first_seen": "2026-11-26",
+   "japan": false,
+   "econometrics": false,
+   "lang": "en"
+  },
+  "t:beyondpublicationbiascharacterizingandunderstandingmissingresultsineconomicsbyfernandohocesdelaguardiaedwardmiguelgufranpathanakashshajivivianehelenasilvadarochaerikøsørensenbertiltungodden": {
+   "title": "Beyond Publication Bias: Characterizing and Understanding Missing Results in Economics -- by Fernando Hoces de la Guardia, Edward Miguel, Gufran Pathan, Akash Shaji, Viviane Helena Silva da Rocha, Erik Ø. Sørensen, Bertil Tungodden",
+   "url": "https://www.nber.org/papers/w36044#fromrss",
+   "authors": [],
+   "date": "",
+   "abstract": "What scientists choose not to publish can be as important as what they do publish. We measure missing research results at the hypothesis level and use this approach to study under-reporting in economics. Across 5,057 pre-registered hypotheses from 317 studies registered on the American Economic Association RCT Registry between 2015 and 2017, only 42% have publicly available results eight to nine years after pre-registration. Among the available results, 64% are null, and we find little evidence that null results are disproportionately missing. In an RCT, direct engagement with authors increases the share of hypotheses with available results by 6.2 percentage points, while raising awareness a",
+   "doi": "",
+   "venue": "NBER 新着ワーキングペーパー",
+   "sources": [
+    "NBER 新着ワーキングペーパー"
+   ],
+   "groups": [
+    "global"
+   ],
+   "countries": [],
+   "tags": [],
+   "first_seen": "2026-11-26",
+   "japan": false,
+   "econometrics": false,
+   "lang": "en"
+  },
+  "t:howaiimpactsthequestforknowledgeevidencefromalphafold2bymyramohnenjoshuasgans": {
+   "title": "How AI Impacts the Quest for Knowledge: Evidence from AlphaFold2 -- by Myra Mohnen, Joshua S. Gans",
+   "url": "https://www.nber.org/papers/w36045#fromrss",
+   "authors": [],
+   "date": "",
+   "abstract": "Scientists can respond to artificial intelligence by pushing the frontier of science and asking new questions, or by deepening their understanding of questions already studied. We study how AI shapes this choice in structural biology, where experiments examine a protein's three-dimensional structure and its function. AlphaFold2, released in 2021, predicts the structure of almost every known protein, with a confidence that varies across proteins. Linking 530,471 proteins to the experiments run on them between 2017 and 2025, we compare how experimental activity changed after 2021 across proteins with more and less confident predictions. Where predictions are more confident, the experimental re",
+   "doi": "",
+   "venue": "NBER 新着ワーキングペーパー",
+   "sources": [
+    "NBER 新着ワーキングペーパー"
+   ],
+   "groups": [
+    "global"
+   ],
+   "countries": [],
+   "tags": [],
+   "first_seen": "2026-11-26",
+   "japan": false,
+   "econometrics": false,
+   "lang": "en"
+  },
+  "t:valuingthecostofincompleteglobalmarketsbykarenklewisedithxliu": {
+   "title": "Valuing the Cost of Incomplete Global Markets -- by Karen K. Lewis, Edith X. Liu",
+   "url": "https://www.nber.org/papers/w36046#fromrss",
+   "authors": [],
+   "date": "",
+   "abstract": "Deviations from complete financial markets in cross-border investments generate economic welfare costs. This paper shows how to value these costs using standard theory and data based on three main results. Our first result shows how welfare valuations can be derived from a general wealth-to-dividend ratio. Next, we establish how aggregate consumption and exchange rate data can be used to uncover diversifiable goods allocations across countries. Finally, we demonstrate how asset pricing data and models can be used to value deviations from complete markets. The paper outlines a range of applications that fall under this framework, including financial intermediary constraint models.",
+   "doi": "",
+   "venue": "NBER 新着ワーキングペーパー",
+   "sources": [
+    "NBER 新着ワーキングペーパー"
+   ],
+   "groups": [
+    "global"
+   ],
+   "countries": [],
+   "tags": [],
+   "first_seen": "2026-11-26",
+   "japan": false,
+   "econometrics": false,
+   "lang": "en"
+  },
+  "t:regretsurvivalbeliefsandretirementrecommendationsbyabigailhurwitzoliviasmitchell": {
+   "title": "Regret, Survival Beliefs, and Retirement Recommendations -- by Abigail Hurwitz, Olivia S. Mitchell",
+   "url": "https://www.nber.org/papers/w36047#fromrss",
+   "authors": [],
+   "date": "",
+   "abstract": "We examine how information about others’ retirement regret affects annuitization and savings recommendations. In a survey experiment, participants received information about regret over not purchasing annuities or not saving enough for retirement. Responses were concentrated among individuals who underestimated their survival probabilities relative to population benchmarks, consistent with a survival belief-updating mechanism. Among underestimators, annuity regret information increased annuitization recommendations by 16.9 percentage points (approximately 38%), while savings regret information reduced recommendations to significantly increase saving by 15.4 percentage points (approximately 2",
+   "doi": "",
+   "venue": "NBER 新着ワーキングペーパー",
+   "sources": [
+    "NBER 新着ワーキングペーパー"
+   ],
+   "groups": [
+    "global"
+   ],
+   "countries": [],
+   "tags": [],
+   "first_seen": "2026-11-26",
+   "japan": false,
+   "econometrics": false,
+   "lang": "en"
+  },
+  "t:arerevealedpreferencesallyouneedforaialignmentbyjoshuasgansrichardtholden": {
+   "title": "Are Revealed Preferences All You Need for AI Alignment? -- by Joshua S. Gans, Richard T. Holden",
+   "url": "https://www.nber.org/papers/w36048#fromrss",
+   "authors": [],
+   "date": "",
+   "abstract": "AI agents learn what principals want from what principals choose. We offer a criterion for when a principal's decisions, at every belief an AI might hold, are all the AI needs. For acting, they are. Cautious actions, such as deferring to a person, typically divide the principal's actions into blocks, and for choosing costless evidence, decisions are enough exactly when the same evidence is best in every block. Otherwise, the AI acts as its principal would yet can gather the wrong evidence, and greater capability can turn that error into incorrect actions. Choices between two mistakes reveal what decisions miss.",
+   "doi": "",
+   "venue": "NBER 新着ワーキングペーパー",
+   "sources": [
+    "NBER 新着ワーキングペーパー"
+   ],
+   "groups": [
+    "global"
+   ],
+   "countries": [],
+   "tags": [],
+   "first_seen": "2026-11-26",
+   "japan": false,
+   "econometrics": false,
+   "lang": "en"
+  },
+  "t:bureaucraticrigidityandbattleoutcomesevidencefrommilitarylogisticsinthemingdynastybyjingjingchenjianleihanshingyiwangyongxiangwang": {
+   "title": "Bureaucratic Rigidity and Battle Outcomes: Evidence from Military Logistics in the Ming Dynasty -- by Jingjing Chen, Jianlei Han, Shing-Yi Wang, Yongxiang Wang",
+   "url": "https://www.nber.org/papers/w36049#fromrss",
+   "authors": [],
+   "date": "",
+   "abstract": "Bureaucratic rules meant to improve accountability can undermine state effectiveness. We study a 1492 Ming dynasty reform that shifted military grain delivery from salt merchants to a state relay system with prefecture-to-prefecture handovers and fixed routes. Afterward, court records document more supply shortages at formerly merchant-supplied garrisons than at state-supplied ones. Using 406 defensive battles against foreign invaders, we find the reform reduced victory rates near these garrisons. Declines were largest where resupply mattered most (longer wars, walled-city defenses) and where the state’s rules were most costly (routes crossing more prefectures or exposed to floods, droughts,",
+   "doi": "",
+   "venue": "NBER 新着ワーキングペーパー",
+   "sources": [
+    "NBER 新着ワーキングペーパー"
+   ],
+   "groups": [
+    "global"
+   ],
+   "countries": [],
+   "tags": [],
+   "first_seen": "2026-11-26",
+   "japan": true,
+   "econometrics": false,
+   "lang": "en"
+  },
+  "t:pastautomationandfutureaihowweaklinkstamethegrowthexplosionbycharlesijoneschristophertonetti": {
+   "title": "Past Automation and Future AI: How Weak Links Tame the Growth Explosion -- by Charles I. Jones, Christopher Tonetti",
+   "url": "https://www.nber.org/papers/w36050#fromrss",
+   "authors": [],
+   "date": "",
+   "abstract": "How much past growth is due to automation, and what does this imply for the future of AI? We perform task-based growth accounting and show that capital task productivity has grown about 5 percentage points per year faster than labor task productivity in the U.S. economy. The main benefit of automation is using rapidly improving machines instead of slowly-improving humans on more tasks. With these historical measures, we calibrate a growth model in which the production of goods and ideas is endogenously automated. Growth accelerates and can explode. However, the acceleration is slowed by \"weak links,\" tasks still performed by labor.",
+   "doi": "",
+   "venue": "NBER 新着ワーキングペーパー",
+   "sources": [
+    "NBER 新着ワーキングペーパー"
+   ],
+   "groups": [
+    "global"
+   ],
+   "countries": [],
+   "tags": [],
+   "first_seen": "2026-11-26",
+   "japan": false,
+   "econometrics": false,
+   "lang": "en"
+  },
+  "t:climateriskrealestateandpropertyinsurancebybenjaminlcollierbenjaminjkeysphilipmulder": {
+   "title": "Climate Risk, Real Estate, and Property Insurance -- by Benjamin L. Collier, Benjamin J. Keys, Philip Mulder",
+   "url": "https://www.nber.org/papers/w36051#fromrss",
+   "authors": [],
+   "date": "",
+   "abstract": "Growing climate risk threatens long-lived, fixed physical assets like real estate. To navigate this risk, homeowners and prospective buyers rely on market signals, including property values and insurance costs. The effectiveness of these market signals depends on whether standard economic assumptions hold. In this review, we assess whether housing and insurance markets accurately reflect climate risk, and whether market participants receive and respond to those signals. A rapidly growing literature documents substantial frictions in each part of the chain from climate risk to prices, with downstream consequences for adaptation and recovery. We conclude that these frictions call into question",
+   "doi": "",
+   "venue": "NBER 新着ワーキングペーパー",
+   "sources": [
+    "NBER 新着ワーキングペーパー"
+   ],
+   "groups": [
+    "global"
+   ],
+   "countries": [],
+   "tags": [],
+   "first_seen": "2026-11-26",
+   "japan": false,
+   "econometrics": false,
+   "lang": "en"
+  },
+  "t:longrununcoveredinterestparityinemergingmarketsbyalessandrorebuccisinemyagmurtoramangiorgiovalentenicolòcapirone": {
+   "title": "Long-run Uncovered Interest Parity in Emerging Markets -- by Alessandro Rebucci, Sinem Yagmur Toraman, Giorgio Valente, Nicolò Capirone",
+   "url": "https://www.nber.org/papers/w36052#fromrss",
+   "authors": [],
+   "date": "",
+   "abstract": "Uncovered interest parity (UIP) tends to hold at long horizons for advanced-economy currencies. Whether it holds in emerging markets remains a more open question. We show it does not, and that sovereign credit risk can explain the failure. Using monthly zero-coupon local-currency yield curves for all emerging market currencies for which they are available from 2000 to 2025, we find that the slope of long-horizon UIP regressions is well below one at the five-year maturity for emerging market currencies, while unity cannot be rejected for G10 currencies. However, when we augment these regressions with sovereign CDS spreads, this slope rises to values statistically indistinguishable from one fo",
+   "doi": "",
+   "venue": "NBER 新着ワーキングペーパー",
+   "sources": [
+    "NBER 新着ワーキングペーパー"
+   ],
+   "groups": [
+    "global"
+   ],
+   "countries": [],
+   "tags": [],
+   "first_seen": "2026-11-26",
+   "japan": false,
+   "econometrics": false,
+   "lang": "en"
+  },
+  "t:shrinkresponsiblyempiricalbayesineconomicsbypeterhullmichalkolesár": {
+   "title": "Shrink Responsibly: Empirical Bayes in Economics -- by Peter Hull, Michal Kolesár",
+   "url": "https://www.nber.org/papers/w36053#fromrss",
+   "authors": [],
+   "date": "",
+   "abstract": "Empirical researchers are often interested in the relative causal impact of individuals or institutions such as teachers, schools, hospitals, or neighborhoods. Regression-based estimates of such unit-specific parameters are often noisy; empirical Bayes (eB) methods can help isolate the signal from the estimation noise. This article provides an overview of eB methodology, showing how eB shrinkage can improve compound decisions—such as selecting individuals with the highest causal impacts—even when the working model motivating the shrinkage is misspecified. Not all analyses benefit from eB shrinkage, however, and we discuss which types of causal summaries are best estimated directly and how to",
+   "doi": "",
+   "venue": "NBER 新着ワーキングペーパー",
+   "sources": [
+    "NBER 新着ワーキングペーパー"
+   ],
+   "groups": [
+    "global"
+   ],
+   "countries": [],
+   "tags": [],
+   "first_seen": "2026-11-26",
+   "japan": false,
+   "econometrics": false,
+   "lang": "en"
+  },
+  "t:mortalityeffectsofthe2025usaidfreezeevidencefromzambiabytorstenfigueiredowalterdeankarlanniclasmonekeanaradukhozyazyambo": {
+   "title": "Mortality Effects of the 2025 US Aid Freeze: Evidence from Zambia -- by Torsten Figueiredo Walter, Dean Karlan, Niclas Moneke, Ana Radu, Khozya Zyambo",
+   "url": "https://www.nber.org/papers/w36054#fromrss",
+   "authors": [],
+   "date": "",
+   "abstract": "We study the impact of the 2025 sudden freeze then subsequent thaw of US foreign aid on HIV prevention, treatment, infection, and death. In Zambia, HIV-related aid was administered through two agencies. Activities under one were disrupted for several months, and those under the other much less. Comprehensive data from all Zambian health facilities reveal immediate differential reductions in preventive HIV measures that mostly later recovered, followed by more HIV-positive pregnant women, more HIV-exposed births, more opportunistic infections, and more recorded deaths. For example, after one year we observe a 14% [95% CI: 3, 25] increase in HIV-positive pregnant women and a 26% [95% CI: 8, 45",
+   "doi": "",
+   "venue": "NBER 新着ワーキングペーパー",
+   "sources": [
+    "NBER 新着ワーキングペーパー"
+   ],
+   "groups": [
+    "global"
+   ],
+   "countries": [],
+   "tags": [],
+   "first_seen": "2026-11-26",
+   "japan": false,
+   "econometrics": false,
+   "lang": "en"
+  },
+  "t:arerepublicansanddemocratsdifferenttaxpayersevidencefrompropertytaxappealsbybradcnathanricardopereztrugliaalejandrozentner": {
+   "title": "Are Republicans and Democrats Different Taxpayers? Evidence From Property Tax Appeals -- by Brad C. Nathan, Ricardo Perez-Truglia, Alejandro Zentner",
+   "url": "https://www.nber.org/papers/w36055#fromrss",
+   "authors": [],
+   "date": "",
+   "abstract": "Democrats and Republicans express some sharply different views about tax policy, but whether these ideological divisions translate into partisan differences in taxpayer behavior is far less clear. We study this question in the context of a common form of tax avoidance: property tax appeals. In a survey, we find that Americans, on average, believe Republican homeowners are more likely to appeal their property taxes than Democratic homeowners with similarly valued homes. Yet linking administrative property tax records from Dallas County with voting records reveals that this stereotype is not borne out in practice: the partisan gap in appeals is small, both in absolute terms (0.29 percentage po",
+   "doi": "",
+   "venue": "NBER 新着ワーキングペーパー",
+   "sources": [
+    "NBER 新着ワーキングペーパー"
+   ],
+   "groups": [
+    "global"
+   ],
+   "countries": [],
+   "tags": [],
+   "first_seen": "2026-11-26",
+   "japan": false,
+   "econometrics": false,
+   "lang": "en"
+  },
+  "t:chipstokensatthefaultlinestwostacksinonefragmentingworldbyfabionataluccialessandrorebucci": {
+   "title": "Chips & Tokens at the Fault Lines: Two Stacks in One Fragmenting World -- by Fabio Natalucci, Alessandro Rebucci",
+   "url": "https://www.nber.org/papers/w36056#fromrss",
+   "authors": [],
+   "date": "",
+   "abstract": "The United States and China have each built the capacity to inflict serious economic damage on each other. This paper argues that the resulting mutual vulnerability now constrains both sides and prevents further economic decoupling. The paper maps this contest across two stacks: the real economy stack of computing, semiconductors and rare earths, and the financial stack of dollar dominance and digital finance. On the real side, an analysis of global earnings call reports, run through large language models, suggests that this mutual vulnerability was already shaping the global corporate narrative in 2025. On the financial side, the paper argues that digital finance could tip this balance eith",
+   "doi": "",
+   "venue": "NBER 新着ワーキングペーパー",
+   "sources": [
+    "NBER 新着ワーキングペーパー"
+   ],
+   "groups": [
+    "global"
+   ],
+   "countries": [],
+   "tags": [],
+   "first_seen": "2026-11-26",
+   "japan": false,
+   "econometrics": false,
+   "lang": "en"
+  },
+  "t:cfosmeetllmsbyjohnrgrahamcampbellrharveymanishjha": {
+   "title": "CFOs Meet LLMs -- by John R. Graham, Campbell R. Harvey, Manish Jha",
+   "url": "https://www.nber.org/papers/w36057#fromrss",
+   "authors": [],
+   "date": "",
+   "abstract": "Business sentiment is closely watched, but measurement is slow and costly: surveys reach a limited number of firms, arrive periodically, and take time to field and compile. We show that large language models hold the potential to address some of these shortcomings. We prompt an LLM to role-play as the CFO of a specific company on a specific date, for every public-company CFO who responded to the Duke–Federal Reserve CFO Survey from 2002- 2025. We find that LLM-generated forecasts reasonably match the cross-section of CFO expectations, with accuracy increasing with the amount of information provided to the LLM. We discuss the potential as well as the hurdles to using digital twins to mimic in",
+   "doi": "",
+   "venue": "NBER 新着ワーキングペーパー",
+   "sources": [
+    "NBER 新着ワーキングペーパー"
+   ],
+   "groups": [
+    "global"
+   ],
+   "countries": [],
+   "tags": [],
+   "first_seen": "2026-11-26",
+   "japan": false,
+   "econometrics": false,
+   "lang": "en"
+  },
+  "t:beyondthefirstbestwelfareandopecmarketpowerbyjohnaskerallancollardwexlercharlottedecannièrejandeloecker": {
+   "title": "Beyond the First Best: Welfare and OPEC Market Power -- by John Asker, Allan Collard-Wexler, Charlotte De Cannière, Jan De Loecker",
+   "url": "https://www.nber.org/papers/w36058#fromrss",
+   "authors": [],
+   "date": "",
+   "abstract": "We introduce an empirical framework to quantify the welfare impact of market power, through coordinated production decisions by a cartel, while allowing for other distortions. We contrast two novel concepts – the marginal and the infra-marginal welfare loss – to a naive approach that fails to recognize the existence of other distortions operating alongside market power. We apply the framework to measure the impact of market power of OPEC in the global crude oil market. We leverage unique micro data on cost and production to quantify the deadweight loss and productive inefficiency due to the OPEC cartel. From 1970 onward, the naive approach implies that OPEC generated 2.2 trillion dollars of ",
+   "doi": "",
+   "venue": "NBER 新着ワーキングペーパー",
+   "sources": [
+    "NBER 新着ワーキングペーパー"
+   ],
+   "groups": [
+    "global"
+   ],
+   "countries": [],
+   "tags": [],
+   "first_seen": "2026-11-26",
+   "japan": false,
+   "econometrics": false,
+   "lang": "en"
+  },
+  "t:supplysidedriversoflongactingreversiblecontraceptivesevidencefrommedicaidbeneficiariesbymayarossinslaternataliasernalintungtsai": {
+   "title": "Supply-Side Drivers of Long-Acting Reversible Contraceptives: Evidence from Medicaid Beneficiaries -- by Maya Rossin-Slater, Natalia Serna, Lin-Tung Tsai",
+   "url": "https://www.nber.org/papers/w36059#fromrss",
+   "authors": [],
+   "date": "",
+   "abstract": "U.S. federal law mandates that most insurers offer contraceptives for free to patients, yet nearly one in three women of reproductive age still report inadequate access to contraceptive services. With demand-side affordability barriers largely removed, supply-side factors—the actions of healthcare facilities and providers—may be critical in explaining this unmet need. This paper examines supply-side determinants of long-acting reversible contraceptive (LARC) use among Medicaid beneficiaries, a population for whom both LARCs and oral contraceptives (OCs) are covered at zero out-of-pocket cost. Unlike OCs, LARCs require clinician insertion and upfront device stocking, making them especially vu",
+   "doi": "",
+   "venue": "NBER 新着ワーキングペーパー",
+   "sources": [
+    "NBER 新着ワーキングペーパー"
+   ],
+   "groups": [
+    "global"
+   ],
+   "countries": [],
+   "tags": [],
+   "first_seen": "2026-11-26",
+   "japan": false,
+   "econometrics": false,
+   "lang": "en"
+  },
+  "t:lightpollutioneffectsonsleepworkandmentalhealthbyjoancostaifontjanetcurriesoodehsaberian": {
+   "title": "Light Pollution: Effects on Sleep, Work, and Mental Health -- by Joan Costa-i-Font, Janet Currie, Soodeh Saberian",
+   "url": "https://www.nber.org/papers/w36060#fromrss",
+   "authors": [],
+   "date": "",
+   "abstract": "This study examines the impact of artificial streetlights on sleep, as well as downstream effects on mental health, absenteeism, and physical activity. We exploit variation resulting from the replacement of traditional sodium streetlights with light-emitting diode (LED) lights in Burnaby, British Columbia, Canada. Using data from the Canadian Community Health Survey, we examine discontinuities in difficulty sleeping at the municipal border with Vancouver, which did not adopt new lighting. We also estimate a within-Burnaby model exploiting the rollout of LED lights across neighborhoods, and a difference-in-differences design using matched Vancouver and Burnaby neighborhoods. The estimates sho",
+   "doi": "",
+   "venue": "NBER 新着ワーキングペーパー",
+   "sources": [
+    "NBER 新着ワーキングペーパー"
+   ],
+   "groups": [
+    "global"
+   ],
+   "countries": [],
+   "tags": [],
+   "first_seen": "2026-11-26",
+   "japan": false,
+   "econometrics": false,
+   "lang": "en"
+  },
+  "arxiv:2611.34081": {
+   "title": "Gaussian Process Stochastic Frontiers with Two-Way Fixed Effects",
+   "url": "https://arxiv.org/abs/2611.34081",
+   "authors": [
+    "Puguang Nie",
+    "Jianxin Pan",
+    "Xibin Zhang"
+   ],
+   "date": "2026-11-25",
+   "abstract": "Parametric frontier restrictions and unobserved time heterogeneity can distort efficiency measurement in panel data. This paper develops a Bayesian stochastic frontier model with a Gaussian process prior and unrestricted individual and time effects that may be correlated with inputs. Conditional on inefficiency, orthogonal projection eliminates both sets of fixed effects, yielding a restricted likelihood that retains observation-specific inefficiency. Monte Carlo experiments show competitive performance under correct parametric specification and improved performance when benchmark models impose an incorrect frontier functional form or omit time effects. An application to Spanish dairy farms ",
+   "doi": "",
+   "venue": "arXiv econ.EM",
+   "sources": [
+    "arXiv econ.EM(計量経済学)"
+   ],
+   "groups": [
+    "ecm"
+   ],
+   "countries": [],
+   "tags": [
+    "econ.EM",
+    "stat.ME"
+   ],
+   "first_seen": "2026-11-26",
+   "japan": false,
+   "econometrics": true,
+   "lang": "en"
+  },
+  "arxiv:2611.33978": {
+   "title": "Will national renewable costs continue declining?",
+   "url": "https://arxiv.org/abs/2611.33978",
+   "authors": [
+    "C. Lennart Baumgärtner",
+    "J. Doyne Farmer"
+   ],
+   "date": "2026-11-25",
+   "abstract": "Since the 1980s, the global average solar photovoltaic (PV) cost has decreased by about two orders of magnitude while the global average onshore wind cost has decreased by about one order of magnitude. But global averages are only part of the story: For both solar and wind, costs vary between countries by about an order of magnitude. We curate a comprehensive database of national costs and build predictive models for future costs by decomposing the levelized cost of electricity (LCOE) into its components at the national level and modeling them separately. For solar we find that since 1990 the module cost and the balance of system (BOS) cost have both declined roughly exponentially at rates o",
+   "doi": "",
+   "venue": "arXiv econ.EM",
+   "sources": [
+    "arXiv econ.EM(計量経済学)"
+   ],
+   "groups": [
+    "ecm"
+   ],
+   "countries": [],
+   "tags": [
+    "econ.EM"
+   ],
+   "first_seen": "2026-11-26",
+   "japan": false,
+   "econometrics": true,
+   "lang": "en"
+  },
+  "arxiv:2611.33350": {
+   "title": "Geodesic Causal Forests: Learning Heterogeneous Treatment Effects for Random Objects",
+   "url": "https://arxiv.org/abs/2611.33350",
+   "authors": [
+    "Yidong Zhou"
+   ],
+   "date": "2026-11-24",
+   "abstract": "Causal forests and orthogonal learners estimate heterogeneous treatment effects for scalar or Euclidean outcomes, yet outcomes are increasingly random objects, such as compositions, covariance matrices, distributions, or networks, in metric spaces without linear structure. We introduce geodesic causal forests for conditional geodesic treatment effects. Geodesic transport moves each geodesic between conditional Fréchet means of the potential outcomes to a common reference, making effects comparable across individuals. Because random objects cannot be added or subtracted, Euclidean residual corrections are unavailable; we instead correct the squared-distance loss through which the forest selec",
+   "doi": "",
+   "venue": "arXiv econ.EM",
+   "sources": [
+    "arXiv econ.EM(計量経済学)"
+   ],
+   "groups": [
+    "ecm"
+   ],
+   "countries": [],
+   "tags": [
+    "stat.ME",
+    "econ.EM"
+   ],
+   "first_seen": "2026-11-26",
+   "japan": false,
+   "econometrics": true,
+   "lang": "en"
+  },
+  "arxiv:2611.33265": {
+   "title": "Do Language Models Mix? Experimental Evidence from Asymmetric Matching Pennies",
+   "url": "https://arxiv.org/abs/2611.33265",
+   "authors": [
+    "Joshua Foster"
+   ],
+   "date": "2026-11-24",
+   "abstract": "I test whether language models can select and implement mixed strategies using asymmetric matching pennies and a task with prescribed choice probabilities. Several models respond to their own payoffs, contrary to equilibrium and resembling human experimental subjects. Without randomization tools, no tested model reliably implements prescribed probabilities. Prompting models with their choice histories alone does not resolve this failure. While an external randomizer sharply improves implementation, I find most models remain exploitable by an opportunistic opponent. These results provide guidance on the delegation of strategic decisions to AI systems based on language models.",
+   "doi": "",
+   "venue": "arXiv econ.EM",
+   "sources": [
+    "arXiv econ.EM(計量経済学)"
+   ],
+   "groups": [
+    "ecm"
+   ],
+   "countries": [],
+   "tags": [
+    "econ.EM"
+   ],
+   "first_seen": "2026-11-26",
+   "japan": false,
+   "econometrics": true,
+   "lang": "en"
+  },
+  "arxiv:2611.33069": {
+   "title": "Pragmatic Deeply Debiased ML",
+   "url": "https://arxiv.org/abs/2611.33069",
+   "authors": [
+    "Victor Chernozhukov",
+    "Chengchun Shi"
+   ],
+   "date": "2026-11-24",
+   "abstract": "Debiased machine learning (DML) combines a fitted outcome regression with weighted residuals to remove first-order regularization bias when estimating parameters such as average treatment effects, yet a second-order bias remains whenever regression and weighting errors align. For linear regression functionals, we target this second-order bias by training a strong learner to predict first-stage residuals from many covariates, yielding a one-dimensional (or low-dimensional) working model whose bias contribution is estimated on an independent sample. To complement this targeted search, we also analyze general kernel-based corrections, including covariate partitions and smoothers. We prove that ",
+   "doi": "",
+   "venue": "arXiv econ.EM",
+   "sources": [
+    "arXiv econ.EM(計量経済学)"
+   ],
+   "groups": [
+    "ecm"
+   ],
+   "countries": [],
+   "tags": [
+    "econ.EM",
+    "stat.ME"
+   ],
+   "first_seen": "2026-11-26",
+   "japan": false,
+   "econometrics": true,
+   "lang": "en"
+  },
+  "arxiv:2611.31707": {
+   "title": "An entropy-adjusted invariant likelihood for incidental parameters",
+   "url": "https://arxiv.org/abs/2611.31707",
+   "authors": [
+    "Xibin Zhang"
+   ],
+   "date": "2026-11-23",
+   "abstract": "Incidental parameters can make maximum likelihood inconsistent in short panels. When they act through a known translation group, integration with respect to Haar measure eliminates them exactly and gives an invariant likelihood, whose score is shown to be the conditional expectation, given the maximal invariant, of the Neyman-orthogonalised score of every order. Under interactive fixed effects the orbit is an unknown factor space, and the invariant score for it has a drift equal to minus the derivative of the entropy of the retained contrasts. An entropy adjustment removes this drift and, at the true structural parameter, identifies the factor space uniquely when the loadings span it. The ad",
+   "doi": "",
+   "venue": "arXiv econ.EM",
+   "sources": [
+    "arXiv econ.EM(計量経済学)"
+   ],
+   "groups": [
+    "ecm"
+   ],
+   "countries": [],
+   "tags": [
+    "econ.EM",
+    "stat.ME"
+   ],
+   "first_seen": "2026-11-26",
+   "japan": false,
+   "econometrics": true,
+   "lang": "en"
+  },
+  "arxiv:2611.30998": {
+   "title": "Spurious Information in Large Markets: Random Matrix Laws for Entropy, Mutual Information and the Value of Information",
+   "url": "https://arxiv.org/abs/2611.30998",
+   "authors": [
+    "James Rice"
+   ],
+   "date": "2026-11-23",
+   "abstract": "Entropy, Kullback-Leibler divergence and mutual information have become standard currencies for measuring how much one set of financial variables reveals about another. In large cross-sections they are almost always computed from sample covariance matrices, and the noise in those matrices is the object of random matrix theory. This paper develops the random matrix theory of Gaussian information functionals and applies it to markets. I show that the plug-in mutual information between two blocks of p and r variables estimated from $n$ observations has an exact expected excess, the spurious information, that is a digamma telescope independent of the true dependence. Under independence its law i",
+   "doi": "",
+   "venue": "arXiv econ.EM",
+   "sources": [
+    "arXiv econ.EM(計量経済学)"
+   ],
+   "groups": [
+    "ecm"
+   ],
+   "countries": [],
+   "tags": [
+    "econ.EM",
+    "stat.CO"
+   ],
+   "first_seen": "2026-11-26",
+   "japan": false,
+   "econometrics": true,
+   "lang": "en"
+  },
+  "arxiv:2611.30599": {
+   "title": "What Should an Experiment Measure? Combining a Short-Term Experiment with Confounded Observational Data to Identify Long-Term Treatment Effects",
+   "url": "https://arxiv.org/abs/2611.30599",
+   "authors": [
+    "Kentaro Kawato"
+   ],
+   "date": "2026-11-23",
+   "abstract": "Observational data often record long-term outcomes but do not identify long-term treatment effects when selection depends on unrecorded characteristics, while randomized experiments remove this selection but require years of follow-up. We ask what a short-term experiment should measure so that, combined with observational data, it identifies the average long-term treatment effect in the observational population. In our main setting, the observational data record a coarse post-treatment measurement of the unrecorded characteristics but not a detailed measurement that would remove confounding. In this setting, we derive three implications for what the experiment should measure. It should (1) c",
+   "doi": "",
+   "venue": "arXiv econ.EM",
+   "sources": [
+    "arXiv econ.EM(計量経済学)"
+   ],
+   "groups": [
+    "ecm"
+   ],
+   "countries": [],
+   "tags": [
+    "econ.EM",
+    "stat.ME"
+   ],
+   "first_seen": "2026-11-26",
+   "japan": false,
+   "econometrics": true,
+   "lang": "en"
+  },
+  "arxiv:2611.30595": {
+   "title": "Adaptive experiments with observational data: Efficient experimental design and asymptotic time-uniform inference for long-term treatment effects",
+   "url": "https://arxiv.org/abs/2611.30595",
+   "authors": [
+    "Kentaro Kawato"
+   ],
+   "date": "2026-11-23",
+   "abstract": "Estimating long-term treatment effects in experiments requires waiting for outcomes to become observable, which can delay both the evaluation of an intervention and subsequent decisions. Recent econometric work has developed identification methods that combine experimental data with observational data containing long-term outcomes. This paper proposes using observational data available before the experiment begins not only for identification but also for designing adaptive experiments, in which experimental data are collected sequentially. To estimate the long-term average treatment effect as precisely as possible, we express its semiparametric efficiency bound as a function of the covariate",
+   "doi": "",
+   "venue": "arXiv econ.EM",
+   "sources": [
+    "arXiv econ.EM(計量経済学)"
+   ],
+   "groups": [
+    "ecm"
+   ],
+   "countries": [],
+   "tags": [
+    "econ.EM",
+    "stat.ME"
+   ],
+   "first_seen": "2026-11-26",
+   "japan": false,
+   "econometrics": true,
+   "lang": "en"
+  },
+  "arxiv:2611.30045": {
+   "title": "The Entangled Veil: Why Redistribution Requires a New Language",
+   "url": "https://arxiv.org/abs/2611.30045",
+   "authors": [
+    "Nazaria Solferino",
+    "Viviana Solferino"
+   ],
+   "date": "2026-11-23",
+   "abstract": "The Rawlsian veil of ignorance requires choosing principles of justice without knowing which position-temporal, spatial, social, or personal one will occupy. We argue that this object cannot be represented faithfully within standard economic models. A faithful representation must satisfy three requirements: it must treat all generations symmetrically, capture non-separable correlations among positions, and allow mobility costs to vary across locations and occupations. We show that standard optimal-tax models violate at least one requirement, and that the minimal framework satisfying all three is a geometric framework adapted from string theory, in which the veil is an entangled state over a ",
+   "doi": "",
+   "venue": "arXiv econ.EM",
+   "sources": [
+    "arXiv econ.EM(計量経済学)"
+   ],
+   "groups": [
+    "ecm"
+   ],
+   "countries": [],
+   "tags": [
+    "econ.EM",
+    "econ.TH"
+   ],
+   "first_seen": "2026-11-26",
+   "japan": false,
+   "econometrics": true,
+   "lang": "en"
+  },
+  "arxiv:2611.29833": {
+   "title": "Computational Strategies for Mixed Logit Estimation Automatic Differentiation, GPU Computing, and Floating-Point Precision",
+   "url": "https://arxiv.org/abs/2611.29833",
+   "authors": [
+    "Hengzhe Zhao Jinhui Zhang Yuanyuan Gu"
+   ],
+   "date": "2026-11-22",
+   "abstract": "Mixed logit estimation can become computationally demanding as sample size and the dimension of preference heterogeneity increase. This study examines how derivative computation, processor choice and floating-point precision affect estimation time and parameter recovery across problem sizes. This paper provides a controlled benchmark, comparing finite differences (FD) with automatic differentiation (AD), central processing unit (CPU) execution with graphics processing unit (GPU) execution, and double-precision (FP64) with single-precision (FP32) arithmetic using Monte Carlo experiments that hold the data-generating process, simulation draws, optimiser, starting values, and objective function",
+   "doi": "",
+   "venue": "arXiv econ.EM",
+   "sources": [
+    "arXiv econ.EM(計量経済学)"
+   ],
+   "groups": [
+    "ecm"
+   ],
+   "countries": [],
+   "tags": [
+    "stat.CO",
+    "econ.EM"
+   ],
+   "first_seen": "2026-11-26",
+   "japan": false,
+   "econometrics": true,
+   "lang": "en"
+  },
+  "arxiv:2611.29797": {
+   "title": "Shadow economy as a null set. Measure-theoretic approach to shadow economy",
+   "url": "https://arxiv.org/abs/2611.29797",
+   "authors": [
+    "Radosław A. Kycia",
+    "Andrzej Buszko"
+   ],
+   "date": "2026-11-22",
+   "abstract": "In this paper we asked if the shadow economy can be defined as a system of null sets for institutional measures or sensors that measure economic transactions. As an answer a measure-theoretic testable framework to redefine and quantify the shadow economy was designed. Traditional economic definitions frequently conflate the actual shadow economy with the observational limitations of state institutions. To resolve this, we model the shadow economy as a null set relative to institutional measures and analyze three complementary economic regimes. We explore in this context how standard mathematical tools can be given economic meaning. First, in the low-resolution regime, we apply Banach Lattice",
+   "doi": "",
+   "venue": "arXiv econ.EM",
+   "sources": [
+    "arXiv econ.EM(計量経済学)"
+   ],
+   "groups": [
+    "ecm"
+   ],
+   "countries": [],
+   "tags": [
+    "econ.EM",
+    "econ.TH",
+    "math.FA",
+    "math.PR"
+   ],
+   "first_seen": "2026-11-26",
+   "japan": false,
+   "econometrics": true,
+   "lang": "en"
+  },
+  "arxiv:2611.29747": {
+   "title": "Sharpe Ratio Inference after Machine Learning",
+   "url": "https://arxiv.org/abs/2611.29747",
+   "authors": [
+    "Sander Barendse",
+    "Ming Cheng"
+   ],
+   "date": "2026-11-22",
+   "abstract": "The economic value of return signals is often assessed using the Sharpe ratios of portfolios based on those signals. In modern asset pricing, return signals often depend on many features, including state variables and firm-specific characteristics, and machine-learning methods are increasingly used to estimate them. But how much confidence can we place in the estimated Sharpe ratios? We find that signal-estimation error can remain consequential for inference even in large asset panels. Moreover, pooling observations across assets does not necessarily make this uncertainty negligible when predictors contain common features or exhibit substantial cross-sectional dependence. As a remedy, we dev",
+   "doi": "",
+   "venue": "arXiv econ.EM",
+   "sources": [
+    "arXiv econ.EM(計量経済学)"
+   ],
+   "groups": [
+    "ecm"
+   ],
+   "countries": [],
+   "tags": [
+    "econ.EM",
+    "stat.ME"
+   ],
+   "first_seen": "2026-11-26",
+   "japan": false,
+   "econometrics": true,
+   "lang": "en"
+  },
+  "arxiv:2611.29632": {
+   "title": "Probability-Feasible Historical Transport: Sharp Bounds and Falsification Tests for Distributional Pre-Trend Designs",
+   "url": "https://arxiv.org/abs/2611.29632",
+   "authors": [
+    "Ulrich Hounyo"
+   ],
+   "date": "2026-11-22",
+   "abstract": "Distributional difference-in-differences studies often assume that the post-policy gap between treated and comparison groups is a mixture of pre-policy gaps. This historical-transport assumption can fail in ways that one-statistic checks miss. When policy events are pooled, the average counterfactual can be a valid distribution although no event's counterfactual is, and pooled bounds can exclude the true average effect. Mixtures of past gaps can assign negative probability to outcomes, and cutoff-by-cutoff bounds can be incompatible. We characterize sharp bounds and give breakdown radii, a grid-free confidence region, and tests with and without an experiment. The tests reject transport in th",
+   "doi": "",
+   "venue": "arXiv econ.EM",
+   "sources": [
+    "arXiv econ.EM(計量経済学)"
+   ],
+   "groups": [
+    "ecm"
+   ],
+   "countries": [],
+   "tags": [
+    "econ.EM"
+   ],
+   "first_seen": "2026-11-26",
+   "japan": false,
+   "econometrics": true,
+   "lang": "en"
+  },
+  "arxiv:2611.29074": {
+   "title": "Quadratic Forms of Multivariate $t$-Distributions",
+   "url": "https://arxiv.org/abs/2611.29074",
+   "authors": [
+    "Brendan Kline"
+   ],
+   "date": "2026-11-21",
+   "abstract": "This paper concerns quadratic forms of multivariate $t$-distributions. This paper derives the joint distribution and density of multiple quadratic forms, and establishes the possibility of a finite series approximation to the CDF. The paper also provides closed-form expressions for all the mixed moments that exist. Inverses of quadratic forms and ratios of quadratic forms are also considered.",
+   "doi": "",
+   "venue": "arXiv econ.EM",
+   "sources": [
+    "arXiv econ.EM(計量経済学)"
+   ],
+   "groups": [
+    "ecm"
+   ],
+   "countries": [],
+   "tags": [
+    "econ.EM"
+   ],
+   "first_seen": "2026-11-26",
+   "japan": false,
+   "econometrics": true,
+   "lang": "en"
+  },
+  "arxiv:2611.28457": {
+   "title": "Decision Theory with Degree of Membership in the State Space",
+   "url": "https://arxiv.org/abs/2611.28457",
+   "authors": [
+    "Jeff Dominitz",
+    "Charles F. Manski"
+   ],
+   "date": "2026-11-21",
+   "abstract": "Classical decision theory considers a decision maker (DM) who faces a choice set C and believes that the true state of nature s* lies in a state space S. An objective function w(., .): C x S -> R1 maps actions and states into welfare. The DM wants to maximize w(., s*) but does not know s*. The state space specifies a labeled set of possible states. Possibility is binary: every state in S is possible and no state outside of S is possible. Thinking that this binary perspective on possibility is too rigid, we generalize the classical theory. We begin with a universe of labeled states U and a residual unlabeled state r. Classical theory associates a binary possibility indicator mu(s) with each s",
+   "doi": "",
+   "venue": "arXiv econ.EM",
+   "sources": [
+    "arXiv econ.EM(計量経済学)"
+   ],
+   "groups": [
+    "ecm"
+   ],
+   "countries": [],
+   "tags": [
+    "econ.EM",
+    "econ.TH"
+   ],
+   "first_seen": "2026-11-26",
+   "japan": false,
+   "econometrics": true,
+   "lang": "en"
+  },
+  "arxiv:2611.28301": {
+   "title": "Skew-Symmetric Factor Models",
+   "url": "https://arxiv.org/abs/2611.28301",
+   "authors": [
+    "Anna Bykhovskaya",
+    "Tomas Espana",
+    "Jianqing Fan"
+   ],
+   "date": "2026-11-20",
+   "abstract": "The paper introduces and analyzes a factor model for (real) skew-symmetric data, which arise naturally in directed flows and in pairwise comparisons used for rankings. Working within a signal-plus-noise framework, we analyze spectral inference and establish a BBP-type phase transition in signal strength. Under Gaussian noise, we derive joint eigenvalue fluctuation limits. Above the separation threshold, the estimated signal strength is asymptotically normal whenever the population strength has multiplicity one. For a general multiplicity $k$, the joint limiting fluctuations of the corresponding sample eigenvalues above the threshold are given by the eigenvalues of a scaled $k\\times k$ Gaussi",
+   "doi": "",
+   "venue": "arXiv econ.EM",
+   "sources": [
+    "arXiv econ.EM(計量経済学)"
+   ],
+   "groups": [
+    "ecm"
+   ],
+   "countries": [],
+   "tags": [
+    "stat.ME",
+    "econ.EM",
+    "math.PR",
+    "math.ST"
+   ],
+   "first_seen": "2026-11-26",
+   "japan": false,
+   "econometrics": true,
+   "lang": "en"
+  },
+  "arxiv:2611.28297": {
+   "title": "Measuring Colombia's Informal Output: Relative Earnings and Identification in a Bayesian Two-Sector Model, 1993-2026",
+   "url": "https://arxiv.org/abs/2611.28297",
+   "authors": [
+    "Jaime Vera-Jaramillo"
+   ],
+   "date": "2026-11-20",
+   "abstract": "How much of Colombia's measured output is produced by informal work? The answer cannot be read from the labor-informality rate: Colombia combines an informality rate above 50% with a much smaller informal share of output, because informal work is less productive. We estimate a Bayesian two-sector business-cycle model on quarterly national accounts and on reconstructed employment and informality series for 1993-2026. Identification comes from a new quarterly series of informal-to-formal labor earnings built from household-survey microdata for 2007-2026. Formal production uses capital and labor, informal production is labor based, and an accounting relationship maps relative earnings, the info",
+   "doi": "",
+   "venue": "arXiv econ.EM",
+   "sources": [
+    "arXiv econ.EM(計量経済学)"
+   ],
+   "groups": [
+    "ecm"
+   ],
+   "countries": [],
+   "tags": [
+    "econ.EM"
+   ],
+   "first_seen": "2026-11-26",
+   "japan": false,
+   "econometrics": true,
+   "lang": "en"
+  },
+  "arxiv:2611.33204": {
+   "title": "Yardstick competition and spatial spillovers of economic infrastructure: a spatial panel analysis of cameroonian regions",
+   "url": "https://arxiv.org/abs/2611.33204",
+   "authors": [
+    "Emerite-Marc Mouaha",
+    "Fidel Djongreba Ndikwa",
+    "Barnabe Abba Yadou"
+   ],
+   "date": "2026-11-19",
+   "abstract": "This article tests the theory of top-down yardstick competition induced by the central government by examining spatial interactions among Cameroon's ten regions in the allocation of economic infrastructure spending, primarily on roads. Using the SPREGDPD estimator (Arellano-Bond for spatial panels), we estimate a spatial autoregressive (SAR) model on quarterly panel data covering 2015-2018 (160 observations) drawn from Cameroonian Treasury accounts. The results show: (i) a positive and statistically significant spatial interaction between neighbouring regions ($ρ= 0.0348$ to $0.0436, p < 0.05$), consistent with the presence of yardstick competition; (ii) a positive effect of own-source reven",
+   "doi": "",
+   "venue": "arXiv econ.EM",
+   "sources": [
+    "arXiv econ.EM(計量経済学)"
+   ],
+   "groups": [
+    "ecm"
+   ],
+   "countries": [],
+   "tags": [
+    "econ.EM"
+   ],
+   "first_seen": "2026-11-26",
+   "japan": false,
+   "econometrics": true,
+   "lang": "en"
+  },
+  "arxiv:2611.33203": {
+   "title": "Comments on \"Jackknife Standard Errors for Clustered Regression\"",
+   "url": "https://arxiv.org/abs/2611.33203",
+   "authors": [
+    "Benedikt M. Pötscher"
+   ],
+   "date": "2026-11-19",
+   "abstract": "We point out substantial shortcomings in the main theorems and their proofs in Hansen (2026). We also question the interpretation Hansen (2026) gives to his results.",
+   "doi": "",
+   "venue": "arXiv econ.EM",
+   "sources": [
+    "arXiv econ.EM(計量経済学)"
+   ],
+   "groups": [
+    "ecm"
+   ],
+   "countries": [],
+   "tags": [
+    "econ.EM",
+    "math.ST",
+    "stat.ME"
+   ],
+   "first_seen": "2026-11-26",
+   "japan": false,
+   "econometrics": true,
+   "lang": "en"
+  },
+  "arxiv:2611.33187": {
+   "title": "Orthogonal inference for machine learning forecasts",
+   "url": "https://arxiv.org/abs/2611.33187",
+   "authors": [
+    "Alberto Quaini"
+   ],
+   "date": "2026-11-11",
+   "abstract": "Forecast comparisons inform investment and other economic decisions, but machine learning forecasts can be trained under objectives that differ from the relevant losses. Estimation error can then create spurious evidence of predictive superiority, even with out-of-sample evaluation. We establish feasible inference for differences in population evaluation risks in this setting. Building on locally robust estimation, we construct scores that preserve the risk target and remove first-order estimation sensitivity. Under geometric beta-mixing, moment conditions and simultaneous learning bounds, we establish Gaussian limits and consistent long-run covariance estimation for overlapping chronologica",
+   "doi": "",
+   "venue": "arXiv econ.EM",
+   "sources": [
+    "arXiv econ.EM(計量経済学)"
+   ],
+   "groups": [
+    "ecm"
+   ],
+   "countries": [],
+   "tags": [
+    "econ.EM"
+   ],
+   "first_seen": "2026-11-26",
+   "japan": false,
+   "econometrics": true,
+   "lang": "en"
+  },
+  "doi:10.1016/j.jfineco.2026.104402": {
+   "title": "Carbon home bias",
+   "url": "https://doi.org/10.1016/j.jfineco.2026.104402",
+   "authors": [
+    "Patrick Bolton",
+    "Marc Eskildsen",
+    "Marcin Kacperczyk"
+   ],
+   "date": "2027-01-01",
+   "abstract": "",
+   "doi": "10.1016/j.jfineco.2026.104402",
+   "venue": "Journal of Financial Economics",
+   "sources": [
+    "Journal of Financial Economics"
+   ],
+   "groups": [
+    "journal"
+   ],
+   "countries": [],
+   "tags": [],
+   "first_seen": "2026-11-26",
+   "japan": false,
+   "econometrics": false,
+   "lang": "en"
+  },
+  "doi:10.1016/j.jfineco.2026.104417": {
+   "title": "Keep calm and bank on: Bank run risks and the role of public communication",
+   "url": "https://doi.org/10.1016/j.jfineco.2026.104417",
+   "authors": [
+    "Damiano Sandri",
+    "Francesco Grigoli",
+    "Yuriy Gorodnichenko",
+    "Olivier Coibion"
+   ],
+   "date": "2027-01-01",
+   "abstract": "",
+   "doi": "10.1016/j.jfineco.2026.104417",
+   "venue": "Journal of Financial Economics",
+   "sources": [
+    "Journal of Financial Economics"
+   ],
+   "groups": [
+    "journal"
+   ],
+   "countries": [],
+   "tags": [],
+   "first_seen": "2026-11-26",
+   "japan": false,
+   "econometrics": false,
+   "lang": "en"
+  },
+  "doi:10.1093/rfs/hhag101": {
+   "title": "Fintech Expansion",
+   "url": "https://doi.org/10.1093/rfs/hhag101",
+   "authors": [
+    "Jing Huang"
+   ],
+   "date": "2026-11-24",
+   "abstract": "Abstract I study credit market outcomes with different competing lending technologies: a fintech lender that learns from data and can seize on-platform sales, and a banking sector that relies on physical collateral. Despite flexible information acquisition technology, endogenous fintech learning is surprisingly coarse, with a single threshold that screens out low-quality borrowers. As fintech lending technology improves, better enforcement harms, while better information technology benefits traditional banking sector profits. Big data technology enables the fintech to leverage data from its early-stage operations in unbanked markets to develop predictive models that support expansion into we",
+   "doi": "10.1093/rfs/hhag101",
+   "venue": "The Review of Financial Studies",
+   "sources": [
+    "Review of Financial Studies"
+   ],
+   "groups": [
+    "journal"
+   ],
+   "countries": [],
+   "tags": [],
+   "first_seen": "2026-11-26",
+   "japan": false,
+   "econometrics": false,
+   "lang": "en"
+  },
+  "doi:10.1093/rfs/hhag099": {
+   "title": "Collateral Demand in Wholesale Funding Markets",
+   "url": "https://doi.org/10.1093/rfs/hhag099",
+   "authors": [
+    "Jamie Coen",
+    "Patrick Coen",
+    "Anne-Caroline Hüser"
+   ],
+   "date": "2026-11-23",
+   "abstract": "Abstract Repo markets are systemically important funding markets, but are also used by firms to obtain the assets provided as collateral. We build and structurally estimate a model of trade between heterogeneous firms in the sterling gilt repo market, and show that this collateral demand depresses repo market activity and can impede the transmission of monetary policy. We quantify how well-designed central bank repo facilities can improve outcomes: if the central bank were to lend out the assets on its balance sheet following quantitative easing, transmission and total firm surplus would improve by 20% and 38%, respectively.",
+   "doi": "10.1093/rfs/hhag099",
+   "venue": "The Review of Financial Studies",
+   "sources": [
+    "Review of Financial Studies"
+   ],
+   "groups": [
+    "journal"
+   ],
+   "countries": [],
+   "tags": [],
+   "first_seen": "2026-11-26",
+   "japan": false,
+   "econometrics": false,
+   "lang": "en"
+  },
+  "doi:10.1093/rfs/hhag100": {
+   "title": "CHILE",
+   "url": "https://doi.org/10.1093/rfs/hhag100",
+   "authors": [
+    "Efstathios Avdis",
+    "Sergei Glebkin"
+   ],
+   "date": "2026-11-23",
+   "abstract": "Abstract We introduce CHILE, an asset-pricing framework with asymmetric information, general utility functions, and arbitrary payoffs. It features a large economy (LE) with continuous-and-heterogeneous information (CHI). The defining feature of this information structure is that the total amount of information stays finite as the economy grows large. We use the framework to study how concentration—the presence of market participants of different sizes—affects market quality, namely liquidity and information efficiency. Greater concentration proves a double-edged sword: it raises liquidity but harms information efficiency. (JEL D01, D53, D82, E19, G12, G14)",
+   "doi": "10.1093/rfs/hhag100",
+   "venue": "The Review of Financial Studies",
+   "sources": [
+    "Review of Financial Studies"
+   ],
+   "groups": [
+    "journal"
+   ],
+   "countries": [],
+   "tags": [],
+   "first_seen": "2026-11-26",
+   "japan": false,
+   "econometrics": false,
+   "lang": "en"
   }
  },
  "runs": [
@@ -39110,6 +41550,41 @@
     "CiNii:ファイナンス 実証": "CINII_APPID が未設定のため省略しました(手順書のステップ5参照)"
    },
    "new": 36
+  },
+  {
+   "date": "2026-11-26 12:47",
+   "counts": {
+    "日本銀行(WP・日銀レビュー等)": 4,
+    "RIETI ディスカッション・ペーパー": 180,
+    "内閣府 経済社会総合研究所(ESRI)": 0,
+    "金融庁(金融研究センター等)": 0,
+    "NEP 計量経済学 (nep-ecm)": 20,
+    "NEP 計量時系列 (nep-ets)": 14,
+    "NEP 東南・東アジア (nep-sea)": 8,
+    "NEP 金融市場 (nep-fmk)": 7,
+    "NEP 金融政策 (nep-mon)": 35,
+    "NEP 銀行 (nep-ban)": 20,
+    "NEP コーポレートファイナンス (nep-cfn)": 4,
+    "NBER 新着ワーキングペーパー": 24,
+    "arXiv econ.EM(計量経済学)": 97,
+    "Econometrica": 17,
+    "Journal of Econometrics": 2,
+    "Journal of Business & Economic Statistics": 0,
+    "Journal of Financial Economics": 10,
+    "Journal of Finance": 1,
+    "Review of Financial Studies": 5,
+    "Japan and the World Economy": 2,
+    "Journal of the Japanese and International Economies": 1
+   },
+   "errors": {
+    "OpenAlex:日本の研究機関の著者を含む論文": "HTTPError: HTTP Error 401: Unauthorized",
+    "OpenAlex:タイトル・抄録に Japan を含む論文": "HTTPError: HTTP Error 401: Unauthorized",
+    "CiNii:計量経済": "CINII_APPID が未設定のため省略しました(手順書のステップ5参照)",
+    "CiNii:実証分析 経済": "CINII_APPID が未設定のため省略しました(手順書のステップ5参照)",
+    "CiNii:実証分析 金融": "CINII_APPID が未設定のため省略しました(手順書のステップ5参照)",
+    "CiNii:ファイナンス 実証": "CINII_APPID が未設定のため省略しました(手順書のステップ5参照)"
+   },
+   "new": 98
   }
  ]
 }
